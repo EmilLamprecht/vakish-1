@@ -41,14 +41,20 @@ collections:
                 label: Description
                 default: ""
                 required: false
-      - name: styling
-        label: Styling
-        file: site-meta-data.json
-        fields:
-          - widget: string
-            name: colour
-            label: Main color
-            required: false
+          - widget: object
+            name: theme
+            label: Theme Options
+            fields:
+              - widget: string
+                name: primaryColor
+                label: Primary color
+                default: ""
+                required: false
+              - widget: string
+                name: secondaryColor
+                label: Secondary Color
+                default: ""
+                required: false
   - name: blog
     label: Blog
     folder: _data/blog
