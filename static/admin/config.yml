@@ -43,7 +43,7 @@ collections:
                 required: false
       - name: styling
         label: Styling
-        file: site-styling-data.json
+        file: site-meta-data.json
         fields:
           - widget: string
             name: colour
