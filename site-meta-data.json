@@ -10,6 +10,10 @@
     "primaryColor": "#177f75",
     "secondaryColor": "#ff0000",
     "linkColor": "#177f75",
+    "navLinkColor": "#177f75",
+    "navLinkHoverColor": "#177f75",
+    "ctaColor": "#177f75",
+    "ctaHoverColor": "#177f75",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Itim&display=swap",
     "googleFontName": "'Itim', cursive;"
   }

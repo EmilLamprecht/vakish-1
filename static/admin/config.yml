@@ -61,6 +61,31 @@ collections:
                 default: ""
                 required: false
               - widget: string
+                name: linkHoverColor
+                label: Link Hover color
+                default: ""
+                required: false
+              - widget: string
+                name: navLinkColor
+                label: Navigation link color
+                default: ""
+                required: false
+              - widget: string
+                name: navLinkHoverColor
+                label: Navigation link hover color
+                default: ""
+                required: false
+              - widget: string
+                name: ctaColor
+                label: CTA Background Color
+                default: ""
+                required: false
+              - widget: string
+                name: ctaHoverColor
+                label: CTA Hover Background Color
+                default: ""
+                required: false
+              - widget: string
                 name: googleFontImport
                 label: Google Font Import Url
                 default: ""
