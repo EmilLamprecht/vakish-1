@@ -1,23 +1,37 @@
-import React from "react"
-import Helmet from 'react-helmet';
-import { graphql } from "gatsby"
-import Layout from "../components/layout"
+import React from "react";
+import Helmet from "react-helmet";
+import { graphql } from "gatsby";
+import Layout from "../components/layout";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
-  const { site, markdownRemark } = data // data.markdownRemark holds your post data
-  const { siteMetadata } = site
-  const { frontmatter, html } = markdownRemark
+  const { site, markdownRemark } = data; // data.markdownRemark holds your post data
+  const { siteMetadata } = site;
+  const { frontmatter, html } = markdownRemark;
   return (
     <Layout>
       <Helmet>
-        <title>{frontmatter.title} | {siteMetadata.title}</title>
+        <title>
+          {frontmatter.title} | {siteMetadata.title}
+        </title>
         <meta name="description" content={frontmatter.metaDescription} />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link
+          href={site.siteMetadata.theme.googleFontImport}
+          rel="stylesheet"
+        />
+        <style type="text/css">{`
+        body {
+          font-family: ${site.siteMetadata.theme.googleFontName};
+        }
+        a {
+          color: ${site.siteMetadata.theme.linkColor};
+        }
+    `}</style>
       </Helmet>
       <div className="blog-post-container">
         <article className="post">
-          
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
@@ -25,7 +39,10 @@ export default function Template({
             </div>
           )}
           {!!frontmatter.thumbnail && (
-            <div className="post-thumbnail" style={{backgroundImage: `url(${frontmatter.thumbnail})`}}>
+            <div
+              className="post-thumbnail"
+              style={{ backgroundImage: `url(${frontmatter.thumbnail})` }}
+            >
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
             </div>
@@ -37,7 +54,7 @@ export default function Template({
         </article>
       </div>
     </Layout>
-  )
+  );
 }
 
 export const pageQuery = graphql`
@@ -45,6 +62,12 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        theme {
+          primaryColor
+          linkColor
+          googleFontImport
+          googleFontName
+        }
       }
     }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
@@ -58,4 +81,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
