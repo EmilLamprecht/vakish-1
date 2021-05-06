@@ -42,6 +42,15 @@ const IndexPage = ({
         `,
           }}
         ></style>
+        <style type="text/css">{`
+        body {
+          font-family: ${site.siteMetadata.theme.googleFontName};
+        }
+
+        p {
+            font-size: 12px;
+        }
+    `}</style>
       </Helmet>
       <HeroHeader />
       <h2 style={{ color: site.siteMetadata.theme.primaryColor }}>
