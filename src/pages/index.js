@@ -17,7 +17,17 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <Helmet>
+      <Helmet
+        style={[
+          {
+            cssText: `
+            body {
+              font-family: ${site.siteMetadata.theme.googleFontName};
+            }
+        `,
+          },
+        ]}
+      >
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
