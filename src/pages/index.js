@@ -21,11 +21,14 @@ const IndexPage = ({
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link href={site.siteMetadata.googleFontImport} rel="stylesheet" />
+        <link
+          href={site.siteMetadata.theme.googleFontImport}
+          rel="stylesheet"
+        />
         <style
           dangerouslySetInnerHTML={{
             __html: `
-          body {font-family: ${site.siteMetadata.description};}
+          body {font-family: ${site.siteMetadata.theme.googleFontName};}
         `,
           }}
         ></style>
