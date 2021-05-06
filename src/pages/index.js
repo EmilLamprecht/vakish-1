@@ -20,6 +20,15 @@ const IndexPage = ({
       <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href={site.siteMetadata.googleFontImport} rel="stylesheet" />
+        <style
+          dangerouslySetInnerHTML={{
+            __html: `
+          body {font-family: ${site.siteMetadata.description};}
+        `,
+          }}
+        ></style>
       </Helmet>
       <HeroHeader />
       <h2 style={{ color: site.siteMetadata.theme.primaryColor }}>
@@ -39,6 +48,8 @@ export const pageQuery = graphql`
         description
         theme {
           primaryColor
+          googleFontImport
+          googleFontName
         }
       }
     }

@@ -55,6 +55,16 @@ collections:
                 label: Secondary Color
                 default: ""
                 required: false
+              - widget: string
+                name: googleFontImport
+                label: Google Font Import Url
+                default: ""
+                required: false
+              - widget: string
+                name: googleFontName
+                label: Google Font Family
+                default: ""
+                required: false
   - name: blog
     label: Blog
     folder: _data/blog
