@@ -56,6 +56,11 @@ collections:
                 default: ""
                 required: false
               - widget: string
+                name: linkColor
+                label: Link color
+                default: ""
+                required: false
+              - widget: string
                 name: googleFontImport
                 label: Google Font Import Url
                 default: ""

@@ -17,17 +17,7 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <Helmet
-        style={[
-          {
-            cssText: `
-            body {
-              font-family: ${site.siteMetadata.theme.googleFontName};
-            }
-        `,
-          },
-        ]}
-      >
+      <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -35,20 +25,12 @@ const IndexPage = ({
           href={site.siteMetadata.theme.googleFontImport}
           rel="stylesheet"
         />
-        <style
-          dangerouslySetInnerHTML={{
-            __html: `
-          body {font-family: ${site.siteMetadata.theme.googleFontName};}
-        `,
-          }}
-        ></style>
         <style type="text/css">{`
         body {
           font-family: ${site.siteMetadata.theme.googleFontName};
         }
-
-        p {
-            font-size: 12px;
+        a {
+          color: ${site.siteMetadata.theme.linkColor};
         }
     `}</style>
       </Helmet>
@@ -70,6 +52,7 @@ export const pageQuery = graphql`
         description
         theme {
           primaryColor
+          linkColor
           googleFontImport
           googleFontName
         }
