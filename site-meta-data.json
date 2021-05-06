@@ -9,7 +9,7 @@
   "theme": {
     "primaryColor": "#177f75",
     "secondaryColor": "#ff0000",
-    "googleFontImport": "",
-    "googleFontName": ""
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Itim&display=swap",
+    "googleFontName": "'Itim', cursive;"
   }
 }
