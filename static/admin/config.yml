@@ -27,6 +27,13 @@ collections:
             label: Description
             default: ""
             required: false
+          - widget: image
+            name: logo
+            label: Logo
+            required: false
+            media_library:
+              config:
+                multiple: false
           - widget: object
             name: home
             label: Homepage Options
