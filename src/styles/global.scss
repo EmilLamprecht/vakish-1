@@ -228,8 +228,13 @@ a {
   &:hover .post-link {
     color: var(--primary-color);
   }
+  &:hover > a img {
+    transform: scale(1.05);
+  }
   > a img {
     display: block;
+    transform: scale(1);
+    transition: all 0.3s ease-out;
   }
   > header {
     padding: 24px;
