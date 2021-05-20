@@ -10,6 +10,7 @@ export default ({ children }) => {
         site {
           siteMetadata {
             title
+            logo
           }
         }
       }
@@ -19,6 +20,17 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
+          {!data.site.siteMetadata.logo && (
+            <Link to="/">{data.site.siteMetadata.title}</Link>
+          )}
+          {!!data.site.siteMetadata.logo && (
+            <Link to="/">
+              <img
+                src={data.site.siteMetadata.logo}
+                alt={data.site.siteMetadata.title}
+              />
+            </Link>
+          )}
           <Link to="/">{data.site.siteMetadata.title}</Link>
         </div>
         <Navigation />
