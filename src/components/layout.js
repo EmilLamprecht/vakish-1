@@ -26,12 +26,12 @@ export default ({ children }) => {
           {!!data.site.siteMetadata.logo && (
             <Link to="/">
               <img
+                className="logo"
                 src={data.site.siteMetadata.logo}
                 alt={data.site.siteMetadata.title}
               />
             </Link>
           )}
-          <Link to="/">{data.site.siteMetadata.title}</Link>
         </div>
         <Navigation />
       </header>
