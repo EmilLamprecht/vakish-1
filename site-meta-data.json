@@ -5,7 +5,7 @@
   "logo": "/assets/vakish-logo-1.jpg",
   "home": {
     "title": "Hi! I'm Delog",
-    "description": "![alt text](/assets/Vakish-Logo.jpg \"logo\")\n\nI have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "description": "![alt text](/assets/Vakish-Logo.jpg \"logo\")\n\nI have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)\n\n```\n <a href='/contact' className=\"button -primary\">Get in touch &rarr;</a>\n```"
   },
   "theme": {
     "primaryColor": "#177f75",
