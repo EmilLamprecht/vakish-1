@@ -25,8 +25,25 @@ export default function Template({
         body {
           font-family: ${site.siteMetadata.theme.googleFontName};
         }
-        a {
+        body.light a {
           color: ${site.siteMetadata.theme.linkColor};
+        }
+        body.light a:hover {
+          color: ${site.siteMetadata.theme.linkHoverColor};
+        }
+        body.light .navigation a {
+          color: ${site.siteMetadata.theme.navLinkColor};
+        }
+        body.light .navigation a:hover{
+          color: ${site.siteMetadata.theme.navLinkHoverColor};
+        }
+        body.light { 
+          --primary-color: ${site.siteMetadata.theme.primaryColor}; 
+          --primary-text-color:${site.siteMetadata.theme.primaryTextColor};
+          --featured-bg: #493b8a;
+          --featured-text: #fff;
+          --secondary-color: ${site.siteMetadata.theme.primaryColor};
+          --background: ${site.siteMetadata.theme.backgroundColor};
         }
     `}</style>
       </Helmet>
@@ -64,7 +81,12 @@ export const pageQuery = graphql`
         title
         theme {
           primaryColor
+          secondaryColor
           linkColor
+          linkHoverColor
+          backgroundColor
+          navLinkColor
+          navLinkHoverColor
           googleFontImport
           googleFontName
         }
