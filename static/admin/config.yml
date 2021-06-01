@@ -58,8 +58,18 @@ collections:
                 default: ""
                 required: false
               - widget: string
+                name: primaryTextColor
+                label: Primary text color
+                default: ""
+                required: false
+              - widget: string
                 name: secondaryColor
                 label: Secondary Color
+                default: ""
+                required: false
+              - widget: string
+                name: backgroundColor
+                label: Background Color
                 default: ""
                 required: false
               - widget: string

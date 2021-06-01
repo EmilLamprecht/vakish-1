@@ -41,14 +41,18 @@ const IndexPage = ({
         body.light .navigation a:hover{
           color: ${site.siteMetadata.theme.navLinkHoverColor};
         }
-        body.light { --primary-color: ${site.siteMetadata.theme.linkColor}; }
-        
+        body.light { 
+          --primary-color: ${site.siteMetadata.theme.primaryColor}; 
+          --primary-text-color:${site.siteMetadata.theme.primaryTextColor};
+          --featured-bg: #493b8a;
+          --featured-text: #fff;
+          --secondary-color: ${site.siteMetadata.theme.primaryColor};
+          --background: ${site.siteMetadata.theme.backgroundColor};
+        }
     `}</style>
       </Helmet>
       <HeroHeader />
-      <h2 style={{ color: site.siteMetadata.theme.primaryColor }}>
-        Blog Posts &darr;
-      </h2>
+      <h2>Blog Posts &darr;</h2>
       <div className="grids">{Posts}</div>
     </Layout>
   );
@@ -63,6 +67,8 @@ export const pageQuery = graphql`
         description
         theme {
           primaryColor
+          secondaryColor
+          backgroundColor
           linkColor
           linkHoverColor
           navLinkColor
