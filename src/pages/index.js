@@ -20,6 +20,10 @@ const IndexPage = ({
       <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+        <meta
+          name="w3l-domain-verification"
+          content="60b639090c559CF_Domain_verify"
+        />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href={site.siteMetadata.theme.googleFontImport}
