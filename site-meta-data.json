@@ -18,7 +18,7 @@
     "googleFontName": "'Itim', cursive;",
     "ctaColor": "#177f75",
     "primaryTextColor": "#111111",
-    "backgroundColor": "#000000",
+    "backgroundColor": "##2B6CB9",
     "ctaHoverColor": "#177f75"
   }
 }
