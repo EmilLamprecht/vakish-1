@@ -29,8 +29,17 @@ const IndexPage = ({
         body {
           font-family: ${site.siteMetadata.theme.googleFontName};
         }
-        a {
+        body.light a {
           color: ${site.siteMetadata.theme.linkColor};
+        }
+        body.light a:hover {
+          color: ${site.siteMetadata.theme.linkHoverColor};
+        }
+        body.light .navigation a {
+          color: ${site.siteMetadata.theme.navLinkColor};
+        }
+        body.light .navigation a:hover{
+          color: ${site.siteMetadata.theme.navLinkHoverColor};
         }
     `}</style>
       </Helmet>
@@ -53,6 +62,9 @@ export const pageQuery = graphql`
         theme {
           primaryColor
           linkColor
+          linkHoverColor
+          navLinkColor
+          navLinkHoverColor
           googleFontImport
           googleFontName
         }
