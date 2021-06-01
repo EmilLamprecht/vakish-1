@@ -41,6 +41,8 @@ const IndexPage = ({
         body.light .navigation a:hover{
           color: ${site.siteMetadata.theme.navLinkHoverColor};
         }
+        body.light { --primary-color: ${site.siteMetadata.theme.linkColor}; }
+        
     `}</style>
       </Helmet>
       <HeroHeader />
