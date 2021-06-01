@@ -70,6 +70,7 @@ export const pageQuery = graphql`
           secondaryColor
           linkColor
           linkHoverColor
+          backgroundColor
           navLinkColor
           navLinkHoverColor
           googleFontImport
