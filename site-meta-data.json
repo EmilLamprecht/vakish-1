@@ -8,17 +8,17 @@
     "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)\n\n<br /><br /><a href='/contact' class=\"button -primary\">Get in touch &rarr;</a>"
   },
   "theme": {
-    "primaryColor": "#177f75",
-    "linkHoverColor": "#333333",
-    "navLinkHoverColor": "#177f75",
-    "navLinkColor": "#177f75",
-    "linkColor": "#177f75",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Itim&display=swap",
-    "secondaryColor": "#ff0000",
-    "googleFontName": "'Itim', cursive;",
-    "ctaColor": "#177f75",
-    "primaryTextColor": "#111111",
+    "primaryColor": "#333333",
+    "linkHoverColor": "#00FF00",
+    "navLinkHoverColor": "#333333",
+    "navLinkColor": "#00FF00",
+    "linkColor": "#333333",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Limelight&display=swap",
+    "secondaryColor": "#333333",
+    "googleFontName": "'Limelight', cursive;",
+    "ctaColor": "#00FF00",
+    "primaryTextColor": "#333333",
     "backgroundColor": "#2B6CB9",
-    "ctaHoverColor": "#177f75"
+    "ctaHoverColor": "#00FF00"
   }
 }
