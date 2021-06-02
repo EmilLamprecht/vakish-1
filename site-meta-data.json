@@ -17,8 +17,8 @@
     "secondaryColor": "#333333",
     "googleFontName": "'Limelight', cursive;",
     "ctaColor": "#00FF00",
-    "primaryTextColor": "#333333",
-    "backgroundColor": "#2B6CB9",
+    "primaryTextColor": "#FF7F50",
+    "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#00FF00"
   }
 }
