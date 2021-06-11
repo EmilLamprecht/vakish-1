@@ -1,24 +1,24 @@
 {
   "title": "Vakish",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
-  "logo": "/assets/100catches-logo-circle.png",
+  "description": "Welcome to the site of Emil Lamprecht and his many adventures.",
+  "logo": "/assets/linkedin-icon.png",
   "home": {
-    "title": "Hi! I'm Vakish. Welcome to our site demo!",
-    "description": "Blah Blah Blah I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)\n\n<br /><br /><a href='/contact' class=\"button -primary\">Touch My Website &rarr;</a>"
+    "title": "Hi, my name is Emil",
+    "description": "This is a website of adventure, exploration and philosophical musings. From climbing mountains in far away places, to picking apart the concept of success, I get into things as they expand my perspective on the world. Welcome to the wild ride.\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
   },
   "theme": {
-    "primaryColor": "#333333",
-    "linkHoverColor": "#00FF00",
-    "navLinkHoverColor": "#333333",
-    "navLinkColor": "#00FF00",
-    "linkColor": "#333333",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Limelight&display=swap",
-    "secondaryColor": "#333333",
-    "googleFontName": "'Limelight', cursive;",
-    "ctaColor": "#00FF00",
-    "primaryTextColor": "#FF7F50",
+    "primaryColor": "#EB6625",
+    "linkHoverColor": "#60C3E2",
+    "navLinkHoverColor": "#60C3E2",
+    "navLinkColor": "#EB6625",
+    "linkColor": "#EB6625",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
+    "secondaryColor": "#60C3E2",
+    "googleFontName": "Montserrat', sans-serif;",
+    "ctaColor": "#EB6625",
+    "primaryTextColor": "",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#00FF00"
+    "ctaHoverColor": "#EB6625"
   }
 }
