@@ -17,7 +17,7 @@
     "secondaryColor": "#60C3E2",
     "googleFontName": "Montserrat', sans-serif;",
     "ctaColor": "#EB6625",
-    "primaryTextColor": "",
+    "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#EB6625"
   }
