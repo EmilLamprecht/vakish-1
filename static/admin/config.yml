@@ -2,6 +2,7 @@ backend:
   name: github
   # change repo to your git repository url
   repo: emillamprecht/vakish-1
+  branch: emillamprecht
 
 media_folder: static/assets
 public_folder: /assets
