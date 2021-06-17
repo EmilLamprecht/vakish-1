@@ -2,6 +2,8 @@ backend:
   name: github
   # change repo to your git repository url
   repo: emillamprecht/vakish-1
+  # change branch when deploying a new site
+  branch: master
 
 media_folder: static/assets
 public_folder: /assets
