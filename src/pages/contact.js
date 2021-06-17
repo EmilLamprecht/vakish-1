@@ -55,22 +55,27 @@ const ContactPage = ({ data: { site } }) => {
           <p>Let me help you kick start your next project &rarr;</p>
         </div>
         <div>
-          <form className="form-container" data-netlify="true" method="post">
+          <form
+            className="form-container"
+            name="contact"
+            data-netlify="true"
+            method="post"
+          >
             <div>
-              <label htmlFor="w3lName">Name</label>
-              <input type="text" name="name" id="w3lName" />
+              <label>Name</label>
+              <input type="text" name="name" />
             </div>
             <div>
-              <label htmlFor="w3lSender">Email</label>
-              <input type="email" name="email" id="w3lSender" />
+              <label>Email</label>
+              <input type="email" name="email" />
             </div>
             <div>
-              <label htmlFor="w3lSubject">Subject</label>
-              <input type="text" name="subject" id="w3lSubject" />
+              <label>Subject</label>
+              <input type="text" name="subject" />
             </div>
             <div>
-              <label htmlFor="w3lMessage">Message</label>
-              <textarea name="message" id="w3lMessage"></textarea>
+              <label>Message</label>
+              <textarea name="message"></textarea>
             </div>
             <div style={{ display: "flex", justifyContent: "flex-end" }}>
               <input
