@@ -57,24 +57,26 @@ const ContactPage = ({ data: { site } }) => {
         <div>
           <form
             className="form-container"
-            action="https://sendmail.w3layouts.com/SubmitContactForm"
+            name="contact"
+            data-netlify="true"
             method="post"
           >
+            <input type="hidden" name="form-name" value="contact" />
             <div>
-              <label htmlFor="w3lName">Name</label>
-              <input type="text" name="w3lName" id="w3lName" />
+              <label>Name</label>
+              <input type="text" name="name" />
             </div>
             <div>
-              <label htmlFor="w3lSender">Email</label>
-              <input type="email" name="w3lSender" id="w3lSender" />
+              <label>Email</label>
+              <input type="email" name="email" />
             </div>
             <div>
-              <label htmlFor="w3lSubject">Subject</label>
-              <input type="text" name="w3lSubject" id="w3lSubject" />
+              <label>Subject</label>
+              <input type="text" name="subject" />
             </div>
             <div>
-              <label htmlFor="w3lMessage">Message</label>
-              <textarea name="w3lMessage" id="w3lMessage"></textarea>
+              <label>Message</label>
+              <textarea name="message"></textarea>
             </div>
             <div style={{ display: "flex", justifyContent: "flex-end" }}>
               <input
