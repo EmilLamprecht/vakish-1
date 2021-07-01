@@ -61,6 +61,7 @@ const ContactPage = ({ data: { site } }) => {
             data-netlify="true"
             method="post"
           >
+            <input type="hidden" name="form-name" value="contact" />
             <div>
               <label>Name</label>
               <input type="text" name="name" />
