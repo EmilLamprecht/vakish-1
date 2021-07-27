@@ -6,6 +6,7 @@ title: Who Is Emil Lamprecht | An About Page
 metaDescription: >-
   This is a page about Emil Lamprecht. Who is this person anyway? Why bother
   reading his ridiculous ramblings? And what on earth is a "musing" anyway?
+thumbnail: /assets/emil.jpg
 ---
 # Who Is Emil Lamprecht | An About Page
 
