@@ -1,11 +1,11 @@
 {
-  "title": "Emil Lamprecht's Website",
-  "siteUrl": "https://emillamprecht.com",
-  "description": "Welcome to the site of Emil Lamprecht and his many adventures.  Testing testing testing",
-  "logo": "/assets/linkedin-icon.png",
+  "title": "User Research Network",
+  "siteUrl": "https://userrearchnetwork.com",
+  "description": "Welcome to the User Research Network!",
+  "logo": "",
   "home": {
-    "title": "Hi, my name is Emil",
-    "description": "This is a website of adventure, exploration and philosophical musings. From climbing mountains in far away places, to picking apart the concept of success, I get into things as they expand my perspective on the world. Welcome to the wild ride.\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "title": "This is the User Research Network",
+    "description": "Are you a User Researcher? Join us!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
