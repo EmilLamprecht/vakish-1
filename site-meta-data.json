@@ -1,11 +1,11 @@
 {
-  "title": "Emil Lamprecht's Website",
-  "siteUrl": "https://emillamprecht.com",
-  "description": "Welcome to the site of Emil Lamprecht and his many adventures.  Testing testing testing",
-  "logo": "/assets/linkedin-icon.png",
+  "title": "Master Site Template Tester",
+  "siteUrl": "https://master-vakish-1.netlify.app",
+  "description": "This is a test version of our template",
+  "logo": "",
   "home": {
-    "title": "Hi, my name is Emil",
-    "description": "This is a website of adventure, exploration and philosophical musings. From climbing mountains in far away places, to picking apart the concept of success, I get into things as they expand my perspective on the world. Welcome to the wild ride.\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "title": "Hello, welcome to the test",
+    "description": "Testy!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
