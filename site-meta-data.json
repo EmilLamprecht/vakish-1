@@ -1,11 +1,11 @@
 {
-  "title": "Master Site Template Tester",
-  "siteUrl": "https://master-vakish-1.netlify.app",
-  "description": "This is a test version of our template",
+  "title": "This is User Engines",
+  "siteUrl": "https://userengines.com",
+  "description": "Welcome to User Engines, a place where we talk about how your users are the key to everything.",
   "logo": "",
   "home": {
-    "title": "Hello, welcome to the test",
-    "description": "Testy!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "title": "Welcome to User Engines",
+    "description": "Welcome to User Engines, a place where we talk about how your users are the key to everything.\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
