@@ -1,11 +1,11 @@
 {
-  "title": "This is User Engines",
-  "siteUrl": "https://userengines.com",
-  "description": "Welcome to User Engines, a place where we talk about how your users are the key to everything.",
+  "title": "User Mechanics",
+  "siteUrl": "https://usermechanics.com",
+  "description": "Welcome to User Mechanics, a place to look at, analyse and understand user data in all forms!",
   "logo": "",
   "home": {
-    "title": "Welcome to User Engines",
-    "description": "Welcome to User Engines, a place where we talk about how your users are the key to everything.\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "title": "Welcome to User Mechanics",
+    "description": "Welcome to User Mechanics, a place to look at, analyse and understand user data in all forms!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
