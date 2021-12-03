@@ -2,7 +2,7 @@
   "title": "Welcome to 100 Catches, a place for juggling, nerdisms and fun!",
   "siteUrl": "https://100catches.com",
   "description": "Welcome to 100 Catches, a place for juggling, nerdisms and fun! This part of the websit is just articles for the masses, but if you want the \"good\" stuff, click the button below!",
-  "logo": "",
+  "logo": "/assets/100catches-logo-circle.png",
   "home": {
     "title": "Welcome to 100 Catches",
     "description": "Welcome to 100 Catches, a place for juggling, nerdisms and fun! This part of the website is articles for the masses, but if you want the \"good\" stuff, click the button below!\n\n<br /><br /><a href='http://siteswap.100catches.com/' class=\"button -primary\">Siteswap & More</a>  <a href='https://discord.gg/hUFx6jD3' class=\"button -secondary\">Community</a>"
