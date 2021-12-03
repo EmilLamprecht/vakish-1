@@ -1,7 +1,7 @@
 {
   "title": "Welcome to 100 Catches, a place for juggling, nerdisms and fun!",
   "siteUrl": "https://100catches.com",
-  "description": "Welcome to 100 Catches, a place for juggling, nerdisms and fun! This part of the websit is just articles for the masses, but if you want the \"good\" stuff, click the button below!",
+  "description": "Welcome to 100 Catches, a place for juggling, nerdisms and fun! This part of the websit is just articles for the masses, <b>but if you want the \"good\" stuff, click one of the buttons below!</b>",
   "logo": "/assets/100catches-logo-circle.png",
   "home": {
     "title": "Welcome to 100 Catches",
