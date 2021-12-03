@@ -1,24 +1,24 @@
 {
-  "title": "100 Catches",
+  "title": "Welcome to 100 Catches, a place for juggling, nerdisms and fun!",
   "siteUrl": "https://100catches.com",
-  "description": "This is 100 Catches. Follow along with the fun!",
+  "description": "Welcome to 100 Catches, a place for juggling, nerdisms and fun! This part of the websit is just articles for the masses, but if you want the \"good\" stuff, click the button below!",
   "logo": "",
   "home": {
     "title": "Welcome to 100 Catches",
-    "description": "This is where we take any juggling challenge, from 1 ball to 5 toilet rolls and beyond. Welcome to 100 Catches!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "description": "Welcome to 100 Catches, a place for juggling, nerdisms and fun! This part of the website is articles for the masses, but if you want the \"good\" stuff, click the button below!\n\n<br /><br /><a href='http://siteswap.100catches.com/' class=\"button -primary\">Siteswap & More</a>  <a href='https://discord.gg/hUFx6jD3' class=\"button -secondary\">Community</a>"
   },
   "theme": {
-    "primaryColor": "#EB6625",
-    "linkHoverColor": "#60C3E2",
-    "navLinkHoverColor": "#60C3E2",
-    "navLinkColor": "#EB6625",
-    "linkColor": "#EB6625",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
-    "secondaryColor": "#60C3E2",
-    "googleFontName": "Montserrat', sans-serif;",
-    "ctaColor": "#EB6625",
+    "primaryColor": "#13A370",
+    "linkHoverColor": "#EB6625",
+    "navLinkHoverColor": "#EB6625",
+    "navLinkColor": "#13A370",
+    "linkColor": "#13A370",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Nunito&display=swap",
+    "secondaryColor": "#EB6625",
+    "googleFontName": "font-family: 'Nunito', sans-serif;",
+    "ctaColor": "#13A370",
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#EB6625"
+    "ctaHoverColor": "#13A370"
   }
 }
