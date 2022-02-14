@@ -5,7 +5,7 @@
   "logo": "",
   "home": {
     "title": "Hi, my name is Vakish",
-    "description": "Gamer's are us!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "description": "Gamer's are us!\n\n<!--StartFragment-->\n\n```javascript\n    <!-- Add a placeholder for the Twitch embed -->\n    <div id=\"twitch-embed\"></div>\n\n    <!-- Load the Twitch embed JavaScript file -->\n    <script src=\"https://embed.twitch.tv/embed/v1.js\"></script>\n\n    <!-- Create a Twitch.Embed object that will render within the \"twitch-embed\" element -->\n    <script type=\"text/javascript\">\n      new Twitch.Embed(\"twitch-embed\", {\n        width: 854,\n        height: 480,\n        channel: \"monstercat\",\n        // Only needed if this page is going to be embedded on other websites\n        parent: [\"embed.example.com\", \"othersite.example.com\"]\n      });\n    </script>\n```\n\n<!--EndFragment-->\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
