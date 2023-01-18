@@ -16,14 +16,6 @@ Good intro, right?
 
 Don't sweat it, you can think I'm a nobody, I would appreciate that actually, but if you'd like to think I'm somebody, here is some stuff about me you likely wont have found anywhere else on the internet:
 
-
-
-
-
-
-
-
-
 ## What I Do
 
 I build businesses from the ground up. I designed and implemented new education models for vocational training and entrepreneurship; including over 50 startup accelerators in 34 countries.\
@@ -33,3 +25,9 @@ I am not a consultant, but I do opt to help 2-3 orgs a year as pro-bono for soci
 Most of my work now revolves around building the companies in our bootstrapped portfolio, supporting research in women's health and insights into complex social behaviors.\
 \
 I have a mixed marketer and product designer history, but am a prolific user researcher and impact advocate. All about solving real human problems through business.
+
+<!--StartFragment-->
+
+<iframe width="560" height="315" src="<https://www.youtube.com/embed/0DIn0Ws9yTE>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--EndFragment-->
