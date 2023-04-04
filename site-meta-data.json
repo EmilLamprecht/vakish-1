@@ -25,6 +25,10 @@
     {
       "link label": "test",
       "Link url": "/test"
+    },
+    {
+      "link label": "contact",
+      "Link url": "/contact"
     }
   ]
 }
