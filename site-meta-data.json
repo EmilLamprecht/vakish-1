@@ -20,5 +20,11 @@
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#EB6625"
-  }
+  },
+  "links": [
+    {
+      "link label": "test",
+      "Link url": "/test"
+    }
+  ]
 }
