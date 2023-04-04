@@ -3,7 +3,7 @@ backend:
   # change repo to your git repository url
   repo: siliconrhino/content-network
   # change branch when deploying a new site
-  branch: master
+  branch: SRV-4-create-new-collection
 
 media_folder: static/assets
 public_folder: /assets
@@ -143,8 +143,8 @@ collections:
       - { name: body, label: Body, widget: markdown }
   - name: staticpage
     label: Staticpage
-    folder: _data/staticPage
-    slug: "{/{url-slug}}"
+    folder: _data/staticpage
+    slug: "/{{url-slug}}"
     create: true
     fields:
       - { label: Template, name: template, widget: hidden, default: BlogPost }
