@@ -27,10 +27,6 @@
       "Link url": "/contact"
     },
     {
-      "link label": "test",
-      "Link url": "/test"
-    },
-    {
       "link label": "hello",
       "Link url": "/hello"
     }
