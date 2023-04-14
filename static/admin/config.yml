@@ -1,9 +1,9 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: emillamprecht/vakish-1
+  repo: siliconrhino/content-network
   # change branch when deploying a new site
-  branch: master
+  branch: SRV-8
 
 media_folder: static/assets
 public_folder: /assets
