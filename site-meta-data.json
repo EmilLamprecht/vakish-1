@@ -23,12 +23,12 @@
   },
   "links": [
     {
-      "link label": "contact",
-      "Link url": "/contact"
+      "linkLabel": "test",
+      "linkUrl": "/test"
     },
     {
-      "link label": "hello",
-      "Link url": "/hello"
+      "linkLabel": "contact",
+      "linkUrl": "/contact"
     }
   ]
 }

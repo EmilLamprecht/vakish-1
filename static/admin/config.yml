@@ -1,9 +1,9 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: emillamprecht/vakish-1
+  repo: siliconrhino/content-network
   # change branch when deploying a new site
-  branch: master
+  branch: SRV-5-Add-navigation
 
 media_folder: static/assets
 public_folder: /assets
@@ -12,6 +12,21 @@ collections:
   - name: settings
     label: Settings
     files:
+      - name: navigation
+        label: Navigation
+        file: site-meta-data.json
+        fields:
+          - name: links
+            label: links
+            widget: list
+            fields:
+              - { label: Link Label, name: link label, widget: string }
+              - {
+                  label: Link URL,
+                  name: Link url,
+                  widget: string,
+                  pattern: [/, /],
+                }
       - name: config
         label: Config
         file: site-meta-data.json
