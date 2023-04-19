@@ -3,7 +3,7 @@ backend:
   # change repo to your git repository url
   repo: siliconrhino/content-network
   # change branch when deploying a new site
-  branch: SRV-8
+  branch: SRV-4-create-new-collection
 
 media_folder: static/assets
 public_folder: /assets
@@ -118,6 +118,33 @@ collections:
     label: Blog
     folder: _data/blog
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true
+    fields:
+      - { label: Template, name: template, widget: hidden, default: BlogPost }
+      - name: path
+        label: Path
+        widget: string
+        pattern: [/, /]
+        hint: "Path must start with /"
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - label: Meta Description
+        name: metaDescription
+        widget: text
+        required: false
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        hint: "Image size 1280x800 works best :)"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { name: body, label: Body, widget: markdown }
+  - name: staticpage
+    label: Staticpage
+    folder: _data/staticpage
+    slug: "{{slug}}"
     create: true
     fields:
       - { label: Template, name: template, widget: hidden, default: BlogPost }
