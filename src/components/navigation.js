@@ -1,11 +1,26 @@
-import React from "react"
-import {Link} from "gatsby"
-import ThemeChanger from "../components/themeChanger"
+import React from "react";
+import { Link, StaticQuery, graphql } from "gatsby";
 
-export default (props) => (
-  <nav className="navigation"> 
-    <Link to="/contact">Contact</Link>
-    <ThemeChanger/>
-  </nav>
-  
-)
+export default () => (
+  <StaticQuery
+    query={graphql`
+      query NavigationQuery {
+        site {
+          siteMetadata {
+            links {
+              linkLabel
+              linkUrl
+            }
+          }
+        }
+      }
+    `}
+    render={(data) => (
+      <nav className="navigation">
+        <Link to={data.site.siteMetadata.links.linkUrl}>
+          {data.site.siteMetadata.links.linkLabel}
+        </Link>
+      </nav>
+    )}
+  />
+);

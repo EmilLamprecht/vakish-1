@@ -20,5 +20,15 @@
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#EB6625"
-  }
+  },
+  "links": [
+    {
+      "linkLabel": "test",
+      "linkUrl": "/test"
+    },
+    {
+      "linkLabel": "contact",
+      "linkUrl": "/contact"
+    }
+  ]
 }

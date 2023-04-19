@@ -82,7 +82,7 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query($path: String!) {
+  query($path: String!, $slug: String!) {
     site {
       siteMetadata {
         title
@@ -99,7 +99,10 @@ export const pageQuery = graphql`
         }
       }
     }
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+    markdownRemark(
+      frontmatter: { path: { eq: $path } }
+      fields: { slug: { eq: $slug } }
+    ) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
@@ -107,6 +110,9 @@ export const pageQuery = graphql`
         title
         thumbnail
         metaDescription
+      }
+      fields {
+        gitAuthorTime
       }
     }
   }
