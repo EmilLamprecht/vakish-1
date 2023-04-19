@@ -3,7 +3,8 @@ backend:
   # change repo to your git repository url
   repo: siliconrhino/content-network
   # change branch when deploying a new site
-  branch: SRV-5-Add-navigation
+  branch: dev
+
 
 media_folder: static/assets
 public_folder: /assets
