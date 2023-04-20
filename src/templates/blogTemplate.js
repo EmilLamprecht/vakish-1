@@ -15,6 +15,30 @@ export default function Template({
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
   const { frontmatter, html } = markdownRemark;
+  const gtm = () => {};
+  if (data.site.siteMetadata.gtm) {
+    return (
+      <Fragment>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${pdata.site.siteMetadata.gtm}`}
+          strategy="off-main-thread"
+          forward={[`gtag`]}
+        />
+        <Script
+          id="gtag-config"
+          strategy="off-main-thread"
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+      window.gtag = function gtag(){ window.dataLayer.push(arguments);}
+      gtag('js', new Date()); 
+      gtag('config', '${data.site.siteMetadata.gtm}', { send_page_view: false })`,
+          }}
+        />
+        <div>{children}</div>
+      </Fragment>
+    );
+  }
+
   return (
     <Layout>
       <Helmet>
@@ -77,6 +101,7 @@ export default function Template({
         </article>
         <DiscussionEmbed {...disqusConfig} />
       </div>
+      {gtm()}
     </Layout>
   );
 }
@@ -86,6 +111,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        gtm
         theme {
           primaryColor
           secondaryColor
