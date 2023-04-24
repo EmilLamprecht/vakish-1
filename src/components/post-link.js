@@ -1,8 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 
-const { markdownRemark } = data;
-const { gitAuthorTime } = markdownRemark.fields;
 const PostLink = ({ post }) => (
   <article className="card ">
     <Link to={post.frontmatter.path}>
@@ -19,18 +17,8 @@ const PostLink = ({ post }) => (
           {post.frontmatter.title}
         </Link>
       </h2>
-      <div className="post-meta">{gitAuthorTime}</div>
+      <div className="post-meta">{post.frontmatter.date}</div>
     </header>
   </article>
 );
 export default PostLink;
-
-export const pageQuery = graphql`
-  query($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
-      fields {
-        gitAuthorTime
-      }
-    }
-  }
-`;

@@ -8,7 +8,7 @@ export default function Template({
 }) {
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
-  const { frontmatter, html } = markdownRemark;
+  const { frontmatter, html, fields } = markdownRemark;
   return (
     <Layout>
       <Helmet>
@@ -62,6 +62,7 @@ export default function Template({
             >
               <h1 className="post-title">{frontmatter.title}</h1>
               <div className="post-meta">{frontmatter.date}</div>
+              <div className="post-meta">{fields.gitAuthorTime}</div>
             </div>
           )}
           <div
@@ -100,6 +101,9 @@ export const pageQuery = graphql`
         title
         thumbnail
         metaDescription
+      }
+      fields {
+        gitAuthorTime
       }
     }
   }
