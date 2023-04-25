@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
-
+import moment from "moment";
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
@@ -61,8 +61,9 @@ export default function Template({
               style={{ backgroundImage: `url(${frontmatter.thumbnail})` }}
             >
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
-              <div className="post-meta">{fields.gitAuthorTime}</div>
+              <div className="post-meta">
+                {moment(fields.gitAuthorTime).format("MMMM Do YYYY, h:mm:ss a")}
+              </div>
             </div>
           )}
           <div

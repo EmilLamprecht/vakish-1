@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
+import moment from "moment";
 
 const PostLink = ({ post }) => (
   <article className="card ">
@@ -17,7 +18,9 @@ const PostLink = ({ post }) => (
           {post.frontmatter.title}
         </Link>
       </h2>
-      <div className="post-meta">{post.frontmatter.date}</div>
+      <div className="post-meta">
+        {moment(post.gitAuthorTime).format("MMMM Do YYYY, h:mm:ss a")}
+      </div>
     </header>
   </article>
 );
