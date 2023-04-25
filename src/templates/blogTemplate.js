@@ -2,6 +2,9 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
+
+import moment from "moment";
+
 import { DiscussionEmbed } from "disqus-react";
 
 const disqusConfig = {
@@ -9,12 +12,15 @@ const disqusConfig = {
   config: { identifier: slug, title },
 };
 
+
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
-  const { frontmatter, html } = markdownRemark;
+
+  const { frontmatter, html, fields } = markdownRemark;
+
   const gtm = () => {};
   if (data.site.siteMetadata.gtm) {
     return (
@@ -38,6 +44,7 @@ export default function Template({
       </Fragment>
     );
   }
+
 
   return (
     <Layout>
@@ -91,7 +98,9 @@ export default function Template({
               style={{ backgroundImage: `url(${frontmatter.thumbnail})` }}
             >
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
+              <div className="post-meta">
+                {moment(fields.gitAuthorTime).format("MMMM Do YYYY, h:mm:ss a")}
+              </div>
             </div>
           )}
           <div
@@ -107,7 +116,7 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query($path: String!, $slug: String!) {
+  query($path: String!) {
     site {
       siteMetadata {
         title
@@ -125,10 +134,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    markdownRemark(
-      frontmatter: { path: { eq: $path } }
-      fields: { slug: { eq: $slug } }
-    ) {
+    markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")

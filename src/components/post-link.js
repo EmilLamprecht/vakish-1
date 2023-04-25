@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
-const { gitAuthorTime } = props.data.markdownRemark.fields;
+import moment from "moment";
+
 const PostLink = ({ post }) => (
   <article className="card ">
     <Link to={post.frontmatter.path}>
@@ -17,7 +18,9 @@ const PostLink = ({ post }) => (
           {post.frontmatter.title}
         </Link>
       </h2>
-      <div className="post-meta">{gitAuthorTime}</div>
+      <div className="post-meta">
+        {moment(post.gitAuthorTime).format("MMMM Do YYYY, h:mm:ss a")}
+      </div>
     </header>
   </article>
 );
