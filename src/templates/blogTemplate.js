@@ -144,7 +144,7 @@ export const pageQuery = graphql`
         metaDescription
       }
       fields {
-        gitAuthorTime
+        gitAuthorTime(formatString: "MMMM DD, YYYY")
       }
     }
   }
