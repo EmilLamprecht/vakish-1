@@ -1,6 +1,4 @@
 import "./src/styles/global.scss";
-import React from "react";
-import RootElement from "./src/components/root-element";
 
 export const onRouteUpdate = ({ location }) => {
   if (process.env.NODE_ENV !== "production") {
@@ -18,8 +16,4 @@ export const onRouteUpdate = ({ location }) => {
   }, 100);
 
   return true;
-};
-
-export const wrapRootElement = ({ element }) => {
-  return <RootElement>{element}</RootElement>;
 };

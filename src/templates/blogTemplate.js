@@ -7,12 +7,6 @@ import moment from "moment";
 
 import { DiscussionEmbed } from "disqus-react";
 
-const disqusConfig = {
-  shortname: process.env.GATSBY_DISQUS_NAME,
-  config: { identifier: slug, title },
-};
-
-
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
@@ -20,16 +14,14 @@ export default function Template({
   const { siteMetadata } = site;
 
   const { frontmatter, html, fields } = markdownRemark;
-
-  const gtm = () => {};
-  if (data.site.siteMetadata.gtm) {
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: frontmatter.path },
+  };
+  // const gtm = () => {};
+  /*  if (data.site.siteMetadata.gtm) {
     return (
       <Fragment>
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${pdata.site.siteMetadata.gtm}`}
-          strategy="off-main-thread"
-          forward={[`gtag`]}
-        />
         <Script
           id="gtag-config"
           strategy="off-main-thread"
@@ -43,8 +35,7 @@ export default function Template({
         <div>{children}</div>
       </Fragment>
     );
-  }
-
+  } */
 
   return (
     <Layout>
@@ -110,7 +101,6 @@ export default function Template({
         </article>
         <DiscussionEmbed {...disqusConfig} />
       </div>
-      {gtm()}
     </Layout>
   );
 }
@@ -120,7 +110,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        gtm
         theme {
           primaryColor
           secondaryColor
