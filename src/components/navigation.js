@@ -12,10 +12,11 @@ export default () => {
       }
     `
   );
-  return data.forEach((link) => {
-    console.log(link);
-    <nav className="navigation">
-      <Link to={link.links.linkURL}>{link.links.link}</Link>
-    </nav>;
-  });
+  return () => {
+    for (let index = 0; index < link.length; index++) {
+      <nav className="navigation">
+        <Link to={link.links.linkURL}>{link.links.link}</Link>
+      </nav>;
+    }
+  };
 };
