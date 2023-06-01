@@ -12,11 +12,12 @@ export default () => {
       }
     `
   );
-  return () => {
-    for (let index = 0; index < link.length; index++) {
+
+  for (let index = 0; index < data.links - 1; index++) {
+    return (
       <nav className="navigation">
-        <Link to={link.links.linkURL}>{link.links.link}</Link>
-      </nav>;
-    }
-  };
+        <Link to={data.links.linkUrl}>{data.links.link}</Link>
+      </nav>
+    );
+  }
 };
