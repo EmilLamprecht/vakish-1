@@ -7,6 +7,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: require("./site-meta-data.json"),
+
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -31,16 +32,6 @@ module.exports = {
           },
           {
             resolve: "gatsby-remark-emojis",
-          },
-          {
-            resolve: "gatsby-plugin-google-tagmanager",
-            options: {
-              defaultDataLayer: function() {
-                return {
-                  pageType: window.pageType,
-                };
-              },
-            },
           },
         ],
       },

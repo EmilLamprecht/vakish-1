@@ -1,26 +1,23 @@
 import React from "react";
-import { Link, StaticQuery, graphql } from "gatsby";
+import { Link, useStaticQuery, graphql } from "gatsby";
 
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query NavigationQuery {
-        site {
-          siteMetadata {
-            links {
-              linkLabel
-              linkUrl
-            }
-          }
+export default () => {
+  const data = useStaticQuery(
+    graphql`
+      query {
+        links {
+          link
+          linkURL
         }
       }
-    `}
-    render={(data) => (
+    `
+  );
+
+  for (let index = 0; index < data.links - 1; index++) {
+    return (
       <nav className="navigation">
-        <Link to={data.site.siteMetadata.links.linkUrl}>
-          {data.site.siteMetadata.links.linkLabel}
-        </Link>
+        <Link to={data.links.linkUrl}>{data.links.link}</Link>
       </nav>
-    )}
-  />
-);
+    );
+  }
+};

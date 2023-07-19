@@ -52,3 +52,14 @@ exports.onCreateNode = ({ node, actions }) => {
     });
   }
 };
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  const typeDefs = `
+    type links implements Node {
+      link: String, 
+      linkURL: String,
+    }
+  `;
+  createTypes(typeDefs);
+};

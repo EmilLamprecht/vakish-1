@@ -6,8 +6,6 @@ backend:
 
   branch: dev
 
-
-
 media_folder: static/assets
 public_folder: /assets
 
@@ -17,7 +15,7 @@ collections:
     files:
       - name: navigation
         label: Navigation
-        file: site-meta-data.json
+        file: site-navigation-data.json
         fields:
           - name: links
             label: links
@@ -42,7 +40,7 @@ collections:
             name: siteUrl
             label: Website URL
             required: true
-            - widget: string
+          - widget: string
             name: gtm
             label: GTM
             required: false
