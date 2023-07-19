@@ -13,11 +13,11 @@ export default () => {
     `
   );
 
-  for (let index = 0; index < data.links - 1; index++) {
-    return (
-      <nav className="navigation">
-        <Link to={data.links.linkUrl}>{data.links.link}</Link>
-      </nav>
-    );
-  }
+  return (
+    <nav className="navigation">
+      {data &&
+        data.links &&
+        data.links.map((a) => <Link to={a.linkUrl}>{a.link}</Link>)}
+    </nav>
+  );
 };
