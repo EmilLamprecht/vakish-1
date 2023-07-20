@@ -1,15 +1,11 @@
 {
   "links": [
     {
-      "link label": "Test",
-      "Link url": "/contact",
       "linkLabel": "test",
       "linkUrl": "https://tuttu.io/"
     },
     {
-      "link label": "home",
-      "Link url": "/home",
-      "linkLabel": "test2",
+      "linkLabel": "testtest",
       "linkUrl": "https://tuttu.io/"
     }
   ]
