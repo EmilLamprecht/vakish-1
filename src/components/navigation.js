@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useStaticQuery, graphql } from "gatsby";
+import ThemeChanger from "../components/themeChanger";
 
 export default () => {
   const data = useStaticQuery(
@@ -23,6 +24,7 @@ export default () => {
   return (
     <nav className="navigation">
       {links && links.map((a) => <Link to={a.linkUrl}>{a.linkLabel}</Link>)}
+      <ThemeChanger />
     </nav>
   );
 };
