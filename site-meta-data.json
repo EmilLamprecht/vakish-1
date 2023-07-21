@@ -24,6 +24,10 @@
   "navlinks": {
     "links": [
       {
+        "linkLabel": "Static page",
+        "linkUrl": "/static-page-test"
+      },
+      {
         "linkLabel": "Test",
         "linkUrl": "https://tuttu.io/"
       },
