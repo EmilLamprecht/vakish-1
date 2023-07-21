@@ -13,21 +13,6 @@ collections:
   - name: settings
     label: Settings
     files:
-      - name: navigation
-        label: Navigation
-        file: site-navigation-data.json
-        fields:
-          - name: links
-            label: links
-            widget: list
-            fields:
-              - { label: Link Label, name: link label, widget: string }
-              - {
-                  label: Link URL,
-                  name: Link url,
-                  widget: string,
-                  pattern: [/, /],
-                }
       - name: config
         label: Config
         file: site-meta-data.json
@@ -134,20 +119,45 @@ collections:
                 label: Google Font Family
                 default: ""
                 required: false
+          - widget: object
+            name: navlinks
+            label: Navigation Links
+            fields:
+              - name: links
+                label: links
+                widget: list
+                fields:
+                  - label: Link Label
+                    name: linkLabel
+                    widget: string
+                  - label: Link URL
+                    name: linkUrl
+                    widget: string
+                    pattern:
+                      - /
+                      - /
   - name: blog
     label: Blog
     folder: _data/blog
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
-      - { label: Template, name: template, widget: hidden, default: BlogPost }
+      - label: Template
+        name: template
+        widget: hidden
+        default: BlogPost
       - name: path
         label: Path
         widget: string
-        pattern: [/, /]
-        hint: "Path must start with /"
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
+        pattern:
+          - /
+          - /
+        hint: Path must start with /
+      - name: date
+        label: Date
+        widget: datetime
+      - name: title
+        label: Title
       - label: Meta Description
         name: metaDescription
         widget: text
@@ -160,21 +170,31 @@ collections:
         media_library:
           config:
             multiple: false
-      - { name: body, label: Body, widget: markdown }
+      - name: body
+        label: Body
+        widget: markdown
   - name: staticpage
     label: Staticpage
     folder: _data/staticpage
     slug: "{{slug}}"
     create: true
     fields:
-      - { label: Template, name: template, widget: hidden, default: BlogPost }
+      - label: Template
+        name: template
+        widget: hidden
+        default: BlogPost
       - name: path
         label: Path
         widget: string
-        pattern: [/, /]
-        hint: "Path must start with /"
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
+        pattern:
+          - /
+          - /
+        hint: Path must start with /
+      - name: date
+        label: Date
+        widget: datetime
+      - name: title
+        label: Title
       - label: Meta Description
         name: metaDescription
         widget: text
@@ -187,4 +207,6 @@ collections:
         media_library:
           config:
             multiple: false
-      - { name: body, label: Body, widget: markdown }
+      - name: body
+        label: Body
+        widget: markdown

@@ -5,19 +5,24 @@ export default () => {
   const data = useStaticQuery(
     graphql`
       query {
-        links {
-          link
-          linkURL
+        site {
+          siteMetadata {
+            navlinks {
+              links {
+                linkLabel
+                linkUrl
+              }
+            }
+          }
         }
       }
     `
   );
-
+  console.log(JSON.stringify(data));
+  const links = data.site.siteMetadata.navlinks.links;
   return (
     <nav className="navigation">
-      {data &&
-        data.links &&
-        data.links.map((a) => <Link to={a.linkUrl}>{a.link}</Link>)}
+      {links && links.map((a) => <Link to={a.linkUrl}>{a.linkLabel}</Link>)}
     </nav>
   );
 };
