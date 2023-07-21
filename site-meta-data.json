@@ -20,5 +20,17 @@
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#EB6625"
+  },
+  "navlinks": {
+    "links": [
+      {
+        "linkLabel": "Test",
+        "linkUrl": "https://tuttu.io/"
+      },
+      {
+        "linkLabel": "Contact",
+        "linkUrl": "/contact"
+      }
+    ]
   }
 }
