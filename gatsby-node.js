@@ -4,7 +4,9 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
 
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`);
-
+  const staticPageTemplate = path.resolve(
+    `src/templates/staticPageTemplate.js`
+  );
   const result = await graphql(`
     {
       allMarkdownRemark(
@@ -16,6 +18,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             id
             frontmatter {
               path
+              template
             }
           }
         }
@@ -29,10 +32,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     return;
   }
 
+  console.log(JSON.stringify(result));
+
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.frontmatter.path,
-      component: blogPostTemplate,
+      component:
+        node.frontmatter.template === "StaticPage"
+          ? staticPageTemplate
+          : blogPostTemplate,
       context: {}, // additional data can be passed via context
     });
   });
