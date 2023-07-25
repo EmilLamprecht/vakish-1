@@ -8,6 +8,7 @@
     "url": "https://github.com/W3Layouts/gatsby-starter-delog/issues"
   },
   "dependencies": {
+    "fastcomments-react": "^3.0.5",
     "gatsby": "^2.21.0",
     "gatsby-plugin-dark-mode": "^1.1.1",
     "gatsby-plugin-google-analytics": "^2.1.36",
@@ -21,6 +22,7 @@
     "gatsby-remark-prismjs": "^3.3.31",
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-transformer-remark": "^2.6.53",
+    "moment": "^2.29.4",
     "netlify-cms-app": "^2.11.13",
     "node-sass": "^4.13.1",
     "prismjs": "^1.19.0",
