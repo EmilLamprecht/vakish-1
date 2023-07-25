@@ -19,7 +19,6 @@ export default () => {
       }
     `
   );
-  console.log(JSON.stringify(data));
   const links = data.site.siteMetadata.navlinks.links;
   return (
     <nav className="navigation">
