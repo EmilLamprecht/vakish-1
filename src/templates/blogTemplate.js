@@ -2,10 +2,9 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
+import { FastCommentsCommentWidget } from "fastcomments-react";
 
 import moment from "moment";
-
-import { DiscussionEmbed } from "disqus-react";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -14,10 +13,6 @@ export default function Template({
   const { siteMetadata } = site;
 
   const { frontmatter, html, fields } = markdownRemark;
-  const disqusConfig = {
-    shortname: process.env.GATSBY_DISQUS_NAME,
-    config: { identifier: frontmatter.path },
-  };
   // const gtm = () => {};
   /*  if (data.site.siteMetadata.gtm) {
     return (
@@ -99,7 +94,9 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
-        <DiscussionEmbed {...disqusConfig} />
+        <FastCommentsCommentWidget
+          tenantId={site.siteMetadata.accountIds.fastCommentsId}
+        />
       </div>
     </Layout>
   );
@@ -120,6 +117,9 @@ export const pageQuery = graphql`
           navLinkHoverColor
           googleFontImport
           googleFontName
+        }
+        accountIds {
+          fastCommentsId
         }
       }
     }

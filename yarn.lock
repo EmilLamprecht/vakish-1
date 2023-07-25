@@ -5019,11 +5019,6 @@ direction@^0.1.5:
   resolved "https://registry.yarnpkg.com/direction/-/direction-0.1.5.tgz#ce5d797f97e26f8be7beff53f7dc40e1c1a9ec4c"
   integrity sha512-HceXsAluGbXKCz2qCVbXFUH4Vn4eNMWxY5gzydMFMnS1zKSwvDASqLwcrYLIFDpwuZ63FUAqjDLEP1eicHt8DQ==
 
-disqus-react@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/disqus-react/-/disqus-react-1.1.5.tgz#e844d040eed8f55467106e49d00e29d629e07043"
-  integrity sha512-9fdG5m6c3wJzlCDLaMheuUagMVj3s5qgUSXdekpCsvzYOKG21AiuOoqyDzA0oXrpPnYzgpnsvPYqZ+i0hJPGZw==
-
 dnd-core@14.0.1:
   version "14.0.1"
   resolved "https://registry.yarnpkg.com/dnd-core/-/dnd-core-14.0.1.tgz#76d000e41c494983210fb20a48b835f81a203c2e"
@@ -6071,6 +6066,11 @@ fast-levenshtein@^2.0.6, fast-levenshtein@~2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==
+
+fastcomments-react@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/fastcomments-react/-/fastcomments-react-3.0.5.tgz#1b313ae77235325bc3a4f7002a4b2346b109202e"
+  integrity sha512-EV3li+eSF8z1TcoPUHsUGl1mWv/f5j9x8T8RjjzAqXZygaTiFPrdQJPZbNfTtpjs0uzAO+ywb4g74INHcQQELA==
 
 fastest-levenshtein@^1.0.12:
   version "1.0.16"

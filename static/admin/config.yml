@@ -136,6 +136,15 @@ collections:
                     pattern:
                       - /
                       - /
+          - widget: object
+            name: accountIds
+            label: Third Party accounts
+            fields:
+              - widget: string
+                name: fastCommentsId
+                label: Fast Comments Id
+                default: ""
+                required: false
   - name: blog
     label: Blog
     folder: _data/blog
@@ -182,7 +191,7 @@ collections:
       - label: Template
         name: template
         widget: hidden
-        default: BlogPost
+        default: StaticPage
       - name: path
         label: Path
         widget: string
