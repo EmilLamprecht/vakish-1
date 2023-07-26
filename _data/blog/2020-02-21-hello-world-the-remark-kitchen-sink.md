@@ -2,9 +2,11 @@
 template: BlogPost
 path: /remark-kitchen-sink
 date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
+title: "Hello World: The remark Kitchen Sink"
 thumbnail: /assets/image-6.jpg
 ---
+# J﻿ust updating it
+
 # h1 Heading 8-)
 
 ## h2 Heading
@@ -174,21 +176,21 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
-Footnote 1 link\[^first].
+Footnote 1 link[^first].
 
-Footnote 2 link\[^second].
+Footnote 2 link[^second].
 
 Inline footnote^\[Text of inline footnote] definition.
 
-Duplicated footnote reference\[^second].
+Duplicated footnote reference[^second].
 
-\[^first]: Footnote **can have markup**
+[^first]: Footnote **can have markup**
 
 ```
 and multiple paragraphs.
 ```
 
-\[^second]: Footnote text.
+[^second]: Footnote text.
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 
@@ -402,21 +404,21 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
-Footnote 1 link\[^first].
+Footnote 1 link[^first].
 
-Footnote 2 link\[^second].
+Footnote 2 link[^second].
 
 Inline footnote^\[Text of inline footnote] definition.
 
-Duplicated footnote reference\[^second].
+Duplicated footnote reference[^second].
 
-\[^first]: Footnote **can have markup**
+[^first]: Footnote **can have markup**
 
 ```
 and multiple paragraphs.
 ```
 
-\[^second]: Footnote text.
+[^second]: Footnote text.
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 

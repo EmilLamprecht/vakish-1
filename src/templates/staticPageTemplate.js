@@ -2,9 +2,6 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
-import { FastCommentsCommentWidget } from "fastcomments-react";
-
-import moment from "moment";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -12,7 +9,8 @@ export default function Template({
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
 
-  const { frontmatter, html, fields } = markdownRemark;
+  const { frontmatter, html } = markdownRemark;
+
   // const gtm = () => {};
   /*  if (data.site.siteMetadata.gtm) {
     return (
@@ -75,7 +73,6 @@ export default function Template({
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
             </div>
           )}
           {!!frontmatter.thumbnail && (
@@ -84,9 +81,6 @@ export default function Template({
               style={{ backgroundImage: `url(${frontmatter.thumbnail})` }}
             >
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">
-                {moment(fields.gitAuthorTime).format("MMMM Do YYYY, h:mm:ss a")}
-              </div>
             </div>
           )}
           <div
@@ -94,9 +88,6 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
-        <FastCommentsCommentWidget
-          tenantId={site.siteMetadata.accountIds.fastCommentsId}
-        />
       </div>
     </Layout>
   );
@@ -117,9 +108,6 @@ export const pageQuery = graphql`
           navLinkHoverColor
           googleFontImport
           googleFontName
-        }
-        accountIds {
-          fastCommentsId
         }
       }
     }
