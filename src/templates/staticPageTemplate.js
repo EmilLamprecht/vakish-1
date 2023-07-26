@@ -3,15 +3,13 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 
-import moment from "moment";
-
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
 
-  const { frontmatter, html, fields } = markdownRemark;
+  const { frontmatter, html } = markdownRemark;
 
   // const gtm = () => {};
   /*  if (data.site.siteMetadata.gtm) {
