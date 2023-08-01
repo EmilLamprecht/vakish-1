@@ -1,11 +1,11 @@
 {
-  "title": "User Mechanics",
+  "title": "User Mechanics Ltd",
   "siteUrl": "https://usermechanics.com",
-  "description": "Welcome to User Mechanics, a place to look at, analyse and understand user data in all forms!",
-  "logo": "",
+  "description": "Welcome to User Mechanics, a place to look at, analyse and understand user data in all forms!\n\nThanks1",
+  "logo": "/assets/linkedin-icon.png",
   "home": {
-    "title": "Welcome to User Mechanics",
-    "description": "Welcome to User Mechanics, a place to look at, analyse and understand user data in all forms!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "title": "Welcome to User Mechanics... home away from home",
+    "description": "Welcome to User Mechanics, a place to look at, analyse and understand user data in all forms!\n\n<br /><br /><a href='/contact' class=\"button -primary\">AboutS</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
