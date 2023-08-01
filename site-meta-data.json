@@ -13,9 +13,9 @@
     "navLinkHoverColor": "#60C3E2",
     "navLinkColor": "#EB6625",
     "linkColor": "#EB6625",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap",
     "secondaryColor": "#60C3E2",
-    "googleFontName": "Montserrat', sans-serif;",
+    "googleFontName": "font-family: 'Nunito', sans-serif;",
     "ctaColor": "#EB6625",
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
@@ -24,12 +24,8 @@
   "navlinks": {
     "links": [
       {
-        "linkLabel": "Static page",
-        "linkUrl": "/static-page-test"
-      },
-      {
-        "linkLabel": "Test",
-        "linkUrl": "https://tuttu.io/"
+        "linkLabel": "About",
+        "linkUrl": "/about"
       },
       {
         "linkLabel": "Contact",
