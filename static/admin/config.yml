@@ -25,10 +25,6 @@ collections:
             name: siteUrl
             label: Website URL
             required: true
-          - widget: string
-            name: gtm
-            label: GTM
-            required: false
           - widget: text
             name: description
             label: Description
