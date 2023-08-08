@@ -211,6 +211,10 @@ a {
     margin-bottom: 0;
   }
 }
+.blog-post-comments {
+  max-width: 808px;
+  margin: 0 auto;
+}
 .grids {
   display: grid;
   grid-template-columns: 1fr;
