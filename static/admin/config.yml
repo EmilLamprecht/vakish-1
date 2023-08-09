@@ -167,6 +167,9 @@ collections:
         name: metaDescription
         widget: text
         required: false
+      - label: Author
+        name: author
+        required: false
       - label: Featured Image
         name: thumbnail
         widget: image
