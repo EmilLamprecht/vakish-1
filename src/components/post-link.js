@@ -8,6 +8,7 @@ const PostLink = ({ post }) => (
         <img
           src={post.frontmatter.thumbnail}
           alt={post.frontmatter.title + "- Featured Shot"}
+          width={700}
         />
       )}
     </Link>
