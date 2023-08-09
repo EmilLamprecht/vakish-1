@@ -6603,6 +6603,13 @@ gatsby-plugin-dark-mode@^1.1.1:
   dependencies:
     prop-types "^15.5.7"
 
+gatsby-plugin-draft@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-draft/-/gatsby-plugin-draft-0.2.0.tgz#fbfbb5c7bf7acf42dcf5f98375df21e45594dead"
+  integrity sha512-xDYLDIngc6hGLVo4ddzl0MstBobWLaCNLUKzCnwuoWiNRfAso6qucABGqBdj2htOwELw3tb8BQOn+EmgKH9+Jg==
+  dependencies:
+    moment-timezone "^0.5.33"
+
 gatsby-plugin-google-analytics@^2.1.36:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-2.11.0.tgz#8d74bd3c100706f03bbccf7b130a758fce9994ad"
@@ -10703,6 +10710,13 @@ mkdirp@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-1.0.4.tgz#3eb5ed62622756d79a5f0e2a221dfebad75c2f7e"
   integrity sha512-vVqVZQyf3WLx2Shd0qJ9xuvqgAyKPLAiqITEtqW0oIUjzo3PePDd6fW9iFz30ef7Ysp/oiWqbhszeGWW2T6Gzw==
+
+moment-timezone@^0.5.33:
+  version "0.5.43"
+  resolved "https://registry.yarnpkg.com/moment-timezone/-/moment-timezone-0.5.43.tgz#3dd7f3d0c67f78c23cd1906b9b2137a09b3c4790"
+  integrity sha512-72j3aNyuIsDxdF1i7CEgV2FfxM1r6aaqJyLB2vwb33mXYyoyLly+F1zbWqhA3/bVIoJ4szlUoMbUnVdid32NUQ==
+  dependencies:
+    moment "^2.29.4"
 
 moment@^2.24.0, moment@^2.27.0, moment@^2.29.4:
   version "2.29.4"
