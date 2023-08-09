@@ -57,7 +57,6 @@ export default function Template({
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">{frontmatter.date}</div>
             </div>
           )}
           {!!frontmatter.thumbnail && (
@@ -66,11 +65,15 @@ export default function Template({
               style={{ backgroundImage: `url(${frontmatter.thumbnail})` }}
             >
               <h1 className="post-title">{frontmatter.title}</h1>
-              <div className="post-meta">
-                {moment(fields.gitAuthorTime).format("MMMM Do YYYY, h:mm:ss a")}
-              </div>
             </div>
           )}
+          <div className="post-meta">
+            <p>By {frontmatter.author}</p>
+            <p>
+              Last Update on:{" "}
+              {moment(fields.gitAuthorTime).format("MMMM Do YYYY")}
+            </p>
+          </div>
           <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
@@ -113,6 +116,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        author
         thumbnail
         metaDescription
       }
