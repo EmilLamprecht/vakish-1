@@ -11,25 +11,6 @@ export default function Template({
 
   const { frontmatter, html } = markdownRemark;
 
-  // const gtm = () => {};
-  /*  if (data.site.siteMetadata.gtm) {
-    return (
-      <Fragment>
-        <Script
-          id="gtag-config"
-          strategy="off-main-thread"
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer = window.dataLayer || [];
-      window.gtag = function gtag(){ window.dataLayer.push(arguments);}
-      gtag('js', new Date()); 
-      gtag('config', '${data.site.siteMetadata.gtm}', { send_page_view: false })`,
-          }}
-        />
-        <div>{children}</div>
-      </Fragment>
-    );
-  } */
-
   return (
     <Layout>
       <Helmet>

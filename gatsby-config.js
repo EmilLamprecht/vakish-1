@@ -66,6 +66,17 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        //host: "https://master-vakish-1.netlify.app/",
+        //sitemap: "https://master-vakish-1.netlify.app/sitemap.xml",
+        policy: [
+          { userAgent: "Googlebot", disallow: "/nogooglebot/" },
+          { userAgent: "*", allow: "/" },
+        ],
+      },
+    },
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,
