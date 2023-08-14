@@ -2,9 +2,6 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
-import { FastCommentsCommentWidget } from "fastcomments-react";
-
-import moment from "moment";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
@@ -12,7 +9,7 @@ export default function Template({
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
 
-  const { frontmatter, html, fields } = markdownRemark;
+  const { frontmatter, html } = markdownRemark;
 
   return (
     <Layout>
@@ -67,23 +64,11 @@ export default function Template({
               <h1 className="post-title">{frontmatter.title}</h1>
             </div>
           )}
-          <div className="post-meta">
-            <p>By {frontmatter.author}</p>
-            <p>
-              Last Update on:{" "}
-              {moment(fields.gitAuthorTime).format("MMMM Do YYYY")}
-            </p>
-          </div>
           <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
-        <div className="blog-post-comments">
-          <FastCommentsCommentWidget
-            tenantId={site.siteMetadata.accountIds.fastCommentsId}
-          />
-        </div>
       </div>
     </Layout>
   );
@@ -105,9 +90,6 @@ export const pageQuery = graphql`
           googleFontImport
           googleFontName
         }
-        accountIds {
-          fastCommentsId
-        }
       }
     }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
@@ -116,7 +98,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
-        author
         thumbnail
         metaDescription
       }
