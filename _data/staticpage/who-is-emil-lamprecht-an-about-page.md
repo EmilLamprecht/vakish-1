@@ -1,6 +1,6 @@
 ---
 template: StaticPage
-path: /about-me
+path: /about-me/
 date: 2023-08-15T07:21:21.724Z
 title: Who Is Emil Lamprecht | An About Page
 metaDescription: >-
