@@ -4,8 +4,6 @@ backend:
   repo: emillamprecht/vakish-1
   branch: emillamprecht
 
-  branch: dev
-
 media_folder: static/assets
 public_folder: /assets
 
