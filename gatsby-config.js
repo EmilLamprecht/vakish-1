@@ -70,7 +70,7 @@ module.exports = {
       resolve: "gatsby-plugin-robots-txt",
       options: {
         //host: "https://master-vakish-1.netlify.app/",
-        //sitemap: "https://master-vakish-1.netlify.app/sitemap.xml",
+        sitemap: "https://emillamprecht.com/sitemap.xml",
         policy: [
           { userAgent: "Googlebot", disallow: "/nogooglebot/" },
           { userAgent: "*", allow: "/" },
