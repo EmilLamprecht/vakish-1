@@ -1,12 +1,12 @@
 ---
 template: BlogPost
-path: /vc-circus
+path: /vc-circus/
 date: 2023-08-14T19:10:44.051Z
-title: "The Great VC Circus: How Mainstream Entrepreneurship Became a Comedy Show"
-author: Emil Lamprecht
+title: 'The Great VC Circus: How Mainstream Entrepreneurship Became a Comedy Show'
 metaDescription: >-
   The great VC circus, the myths and plagues of too much money driving the
   narrative of entrepeneurship!
+author: Emil Lamprecht
 thumbnail: /assets/image-3.jpg
 ---
 
