@@ -1,15 +1,15 @@
 ---
 template: BlogPost
-path: /Nichepreneurs
+path: /Nichepreneurs/
 date: 2023-08-14T19:18:57.764Z
 title: >-
   The Rise of Nichepreneurs: Why Your Neighbor's 'Sock Subscription for
   Squirrels' Might Just Work
-author: Emil Lamprecht
 metaDescription: >-
   Why do seemingly ridiculous ideas actually work sometimes? I mean, when was
   the last time YOU wanted to buy an underwater basket weaving kit?
   mumblemumble:lastweek:mumbmumble
+author: Emil Lamprecht
 thumbnail: /assets/image-7.jpg
 ---
 
