@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Nichepreneurs/
+path: /nichepreneurs/
 date: 2023-08-14T19:18:57.764Z
 title: >-
   The Rise of Nichepreneurs: Why Your Neighbor's 'Sock Subscription for
