@@ -1,15 +1,15 @@
 ---
 template: BlogPost
-path: /startup-pitching
+path: /startup-pitching/
 date: 2023-08-14T19:25:08.203Z
 title: >-
   The Unspoken Rules of Startup Pitching: How to Woo VCs with Your 'Uber for
   Toothpicks' Idea
-author: Emil Lamprecht
 metaDescription: >-
   Just remember to always mention AI. Even though AI isn't AI, it's just machine
   learning. And even if it's irrelevant because you want to build a bookshop,
   trust me, talk about AI. Don't worry, no one else knows what it means either.
+author: Emil Lamprecht
 thumbnail: /assets/billy-huynh-W8KTS-mhFUE-unsplash.jpg
 ---
 
