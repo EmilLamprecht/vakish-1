@@ -3,11 +3,13 @@ template: BlogPost
 path: /about
 date: 2021-07-07T13:26:42.924Z
 title: Who Is Emil Lamprecht | An About Page
+author: Emil Lamprecht
 metaDescription: >-
   This is a page about Emil Lamprecht. Who is this person anyway? Why bother
   reading his ridiculous ramblings? And what on earth is a "musing" anyway?
 thumbnail: /assets/emil.jpg
 ---
+
 # Who Is Emil Lamprecht | An About Page
 
 Firstly, you don't have to read this. I'm just another random person with a bunch of opinions trying to write content that is somehow objectively helpful or interesting but really just boils down to what I happen to have learned through the ups and downs of my weird life, and whether or not that means I know more about any particular thing than you.
