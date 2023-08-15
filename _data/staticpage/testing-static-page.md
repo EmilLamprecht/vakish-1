@@ -1,6 +1,6 @@
 ---
 template: StaticPage
-path: /static-page-test
+path: /static-page-test/
 date: 2023-07-21T10:30:24.644Z
 title: Testing static page
 metaDescription: lalalalala
