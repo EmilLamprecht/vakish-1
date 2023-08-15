@@ -1,12 +1,12 @@
 ---
 template: BlogPost
-path: /buzzword-bingo
+path: /buzzword-bingo/
 date: 2023-08-14T19:20:44.486Z
-title: "Silicon Valley's Buzzword Bingo: Decoding the Jargon One 'Synergy' at a Time"
-author: Emil Lamprecht
+title: 'Silicon Valley''s Buzzword Bingo: Decoding the Jargon One ''Synergy'' at a Time'
 metaDescription: >-
   Ah yes, Silicon Valley. Land of dreams, innovation, homeless tent cities which
   rich people ignore... and oh yeah, buzzwords. So. Many. Buzzwords.
+author: Emil Lamprecht
 thumbnail: /assets/venus-evans-wFZ9SYDiS2M-unsplash.jpg
 ---
 
