@@ -18,6 +18,15 @@ export default function Template({
           {frontmatter.title} | {siteMetadata.title}
         </title>
         <meta name="description" content={frontmatter.metaDescription} />
+        <meta property="og:title" content={frontmatter.title} />
+        <meta property="og:description" content={frontmatter.metaDescription} />
+        <meta property="og:type" content="article" />
+
+        <meta
+          property="og:image"
+          content={frontmatter.thumbnail || siteMetadata.logo}
+        />
+
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href={site.siteMetadata.theme.googleFontImport}
@@ -79,6 +88,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        logo
         theme {
           primaryColor
           secondaryColor

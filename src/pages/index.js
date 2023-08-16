@@ -20,6 +20,16 @@ const IndexPage = ({
       <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+        <meta property="og:title" content={site.siteMetadata.title} />
+        <meta
+          property="og:description"
+          content={site.siteMetadata.description}
+        />
+        <meta property="og:type" content="website" />
+
+        {!!site.siteMetadata.logo && (
+          <meta property="og:image" content="site.siteMetadata.logo" />
+        )}
         <meta
           name="w3l-domain-verification"
           content="60b639090c559CF_Domain_verify"
@@ -69,6 +79,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         description
+        logo
         theme {
           primaryColor
           secondaryColor
