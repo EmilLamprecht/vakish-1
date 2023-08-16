@@ -13,7 +13,7 @@ export default function Template({
 
   return (
     <Layout>
-      <Helmet>
+      <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>
           {frontmatter.title} | {siteMetadata.title}
         </title>
