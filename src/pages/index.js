@@ -28,7 +28,7 @@ const IndexPage = ({
         <meta property="og:type" content="website" />
 
         {site.siteMetadata.logo && (
-          <meta property="og:image" content="site.siteMetadata.logo" />
+          <meta property="og:image" content={site.siteMetadata.logo} />
         )}
         <meta
           name="w3l-domain-verification"
