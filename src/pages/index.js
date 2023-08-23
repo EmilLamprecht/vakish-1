@@ -14,13 +14,14 @@ const IndexPage = ({
   const Posts = edges
     .filter((edge) => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map((edge) => <PostLink key={edge.node.id} post={edge.node} />);
-
+  const logoUrl = site.siteMetadata.siteUrl + site.siteMetadata.logo;
   return (
     <Layout>
       <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
         <meta property="og:title" content={site.siteMetadata.title} />
+        <meta property="og:url" content={site.siteMetadata.siteUrl} />
         <meta
           property="og:description"
           content={site.siteMetadata.description}
@@ -28,7 +29,7 @@ const IndexPage = ({
         <meta property="og:type" content="website" />
 
         {site.siteMetadata.logo && (
-          <meta property="og:image" content={site.siteMetadata.logo} />
+          <meta property="og:image" content={logoUrl} />
         )}
         <meta
           name="w3l-domain-verification"
@@ -79,6 +80,7 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         description
+        siteUrl
         logo
         theme {
           primaryColor
