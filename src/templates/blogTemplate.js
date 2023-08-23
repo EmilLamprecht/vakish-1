@@ -15,6 +15,7 @@ export default function Template({
 
   const { frontmatter, html, fields } = markdownRemark;
   const url = location.href ? location.href : "";
+  const imageUrl = siteMetadata.siteUrl + frontmatter.thumbnail;
   const logoUrl = siteMetadata.siteUrl + siteMetadata.logo;
 
   return (
@@ -28,7 +29,10 @@ export default function Template({
         <meta property="og:description" content={frontmatter.metaDescription} />
         <meta property="og:url" content={url} />
         <meta property="og:type" content="article" />
-        <meta property="og:image" content={frontmatter.thumbnail || logoUrl} />
+        <meta
+          property="og:image"
+          content={frontmatter.thumbnail ? imageUrl : logoUrl}
+        />
 
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
