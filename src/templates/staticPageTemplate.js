@@ -5,19 +5,28 @@ import Layout from "../components/layout";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
+  location,
 }) {
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
 
   const { frontmatter, html } = markdownRemark;
+  const url = location.href ? location.href : "";
+  const logoUrl = siteMetadata.siteUrl + siteMetadata.logo;
 
   return (
     <Layout>
-      <Helmet>
+      <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>
           {frontmatter.title} | {siteMetadata.title}
         </title>
         <meta name="description" content={frontmatter.metaDescription} />
+        <meta property="og:title" content={frontmatter.title} />
+        <meta property="og:description" content={frontmatter.metaDescription} />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={url} />
+        <meta property="og:image" content={frontmatter.thumbnail || logoUrl} />
+
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href={site.siteMetadata.theme.googleFontImport}
@@ -79,6 +88,8 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
+        logo
         theme {
           primaryColor
           secondaryColor
