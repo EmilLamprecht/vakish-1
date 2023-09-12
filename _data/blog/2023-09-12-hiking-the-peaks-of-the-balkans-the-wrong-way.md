@@ -51,8 +51,6 @@ A﻿ long painful day, and an argument that maybe this part of the trail just...
 
 <iframe src="https://www.outdooractive.com/en/embed/272655731/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
 
-
-
 ## S﻿tage 4, Rekë e Allagës to **Millishevc**
 
 [A good day for an adventure](https://tuttu.io/WV95qXsk) Would you love it, or would you hate it?
@@ -64,8 +62,6 @@ A﻿ long painful day, and an argument that maybe this part of the trail just...
 
 <iframe src="https://www.outdooractive.com/en/embed/272656132/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
 
-
-
 ## S﻿tage 5, **Millishevc to** Dobërdoll
 
 L﻿ots of wind, a very informal guest house, and some incredible food despite that. [A fun day made of Stage 5](https://tuttu.io/D8NKvrUQ)!
@@ -73,13 +69,9 @@ L﻿ots of wind, a very informal guest house, and some incredible food despite t
 <iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
   src="https://tuttu.io/embed/D8NKvrUQ"></iframe>
 
-
-
 **M﻿ap of Stage 5:**
 
 <iframe src="https://www.outdooractive.com/en/embed/272656626/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
-
-
 
 ## S﻿tage 6, Dobërdoll to Çerem
 
@@ -88,13 +80,9 @@ L﻿ots of wind, a very informal guest house, and some incredible food despite t
 <iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
   src="https://tuttu.io/embed/VkT15zDs"></iframe>
 
-
-
 **M﻿ap of Stage 6:**
 
 <iframe src="https://www.outdooractive.com/en/embed/272656846/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
-
-
 
 ## S﻿tage 7, Çerem to Valbonë
 
@@ -102,8 +90,6 @@ T﻿hings go really really well... and then really really badly... [This is a bi
 
 <iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
   src="https://tuttu.io/embed/28WYwH9B"></iframe>
-
-
 
 **M﻿ap of Stage 7:**
 
@@ -113,17 +99,11 @@ I﻿n a pinch, one could take the low route, and even hitch or arrange transport
 
 <iframe src="https://www.outdooractive.com/en/embed/272657371/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
 
-
-
 ![The end of Stage 7 of the Peaks Of The Balkans, the wrong way 'round.](/assets/peaks-of-the-balkans-stage-7-the-wrong-way-around.jpg "Volbone valley, on Stage 7 of the PoB")
-
-
 
 *O﻿riginal PoB route, not recommended unless you need a day off via hitching or transport:*
 
 <iframe src="https://www.outdooractive.com/en/embed/272657650/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
-
-
 
 ## S﻿tage 8, Valbonë to Theth
 
@@ -132,17 +112,11 @@ A﻿ rough night, a hard decision, and a crowded but very successful day! It's s
 <iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
   src="https://tuttu.io/embed/FAb3XrqP"></iframe>
 
-
-
 **M﻿ap of Stage 8:**
 
 <iframe src="https://www.outdooractive.com/en/embed/272657915/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
 
-
-
-![Gorgeous mountains on stage 8 on the Peaks Of The Balkans trail, the wrong way 'round.](/assets/img_5659.jpg "Endless good views on the PoB.")
-
-
+![Gorgeous mountains on stage 8 on the Peaks Of The Balkans trail, the wrong way 'round.](/assets/peaks-of-the-balkans-stage-8-the-wrong-way-around.jpg "Endless good views on the PoB.")
 
 ## S﻿tage 9, Theth to Vusanje
 
@@ -151,19 +125,13 @@ E﻿mil's favourite day on the trail, a beautiful mountain experience in great w
 <iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
   src="https://tuttu.io/embed/2MzEfWgd"></iframe>
 
-
-
 **M﻿ap of Stage 9:**
 
 <iframe src="https://www.outdooractive.com/en/embed/272658185/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
 
-
-
 ![A look back into Theth valley on Stage 9 of the Peaks Of The Balkans, the wrong way 'round.](/assets/peaks-of-the-balkans-stage-9.1-the-wrong-way-around.jpg "Some great lookouts on the final stages of the PoB.")
 
 ![A stark reflection in a blue hole natural spring, the eye of the grasshopper.](/assets/peaks-of-the-balkans-stage-9-the-wrong-way-around.jpg "A stark reflection in a blue hole natural spring, the eye of the grasshopper near Vusanje.")
-
-
 
 ## S﻿tage 10, Vusanje to Plav \[THE FINAL LEG!]
 
@@ -171,8 +139,6 @@ E﻿mil's favourite day on the trail, a beautiful mountain experience in great w
 
 <iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
   src="https://tuttu.io/embed/E7AHlGXC"></iframe>
-
-
 
 **M﻿ap of Stage 10:**
 
