@@ -112,3 +112,54 @@ I﻿ forgot to mention in the audio for today, that the route we took for Stage 
 I﻿n a pinch, one could take the low route, and even hitch or arrange transport instead of hiking over the mountain the way we did. But for the avid hiker, I highly encourage following variations of the route we took; which is now also included in most updated PoB information.
 
 <iframe src="https://www.outdooractive.com/en/embed/272657371/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+*O﻿riginal PoB route, not recommended unless you need a day off via hitching or transport:*
+
+<iframe src="https://www.outdooractive.com/en/embed/272657650/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## S﻿tage 8, Valbonë to Theth
+
+A﻿ rough night, a hard decision, and a crowded but very successful day! It's so good to see that the beauty of [Albania is increasingly accessible](https://tuttu.io/FAb3XrqP).
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/FAb3XrqP"></iframe>
+
+
+
+**M﻿ap of Stage 8:**
+
+<iframe src="https://www.outdooractive.com/en/embed/272657915/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## S﻿tage 9, Theth to Vusanje
+
+E﻿mil's favourite day on the trail, a beautiful mountain experience in great weather, [with a bit of a rough ending](https://tuttu.io/2MzEfWgd).
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/2MzEfWgd"></iframe>
+
+
+
+**M﻿ap of Stage 9:**
+
+<iframe src="https://www.outdooractive.com/en/embed/272658185/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## S﻿tage 10, Vusanje to Plav \[THE FINAL LEG!]
+
+[A﻿ controversial day](https://tuttu.io/E7AHlGXC). One that started with a difficult decision at 4am, and ended with some episodes of Schitt's Creek, our first screen time in over a week. It was a lovely journey. 
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/E7AHlGXC"></iframe>
+
+
+
+**M﻿ap of Stage 10:**
+
+<iframe src="https://www.outdooractive.com/en/embed/272659319/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
