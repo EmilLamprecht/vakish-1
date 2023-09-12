@@ -3,9 +3,9 @@ template: StaticPage
 path: /about-me/
 date: 2023-08-15T07:21:21.724Z
 title: Who Is Emil Lamprecht | An About Page
-metaDescription: >-
-  This is a page about Emil Lamprecht. Who is this person anyway? Why bother
-  reading his ridiculous ramblings? And what on earth is a "musing" anyway?
+metaDescription: This is a page about Emil Lamprecht. Who is this person anyway?
+  Why bother reading his ridiculous ramblings? And what on earth is a "musing"
+  anyway?
 ---
 # Who Is Emil Lamprecht | An About Page
 
@@ -24,6 +24,3 @@ I am not a consultant, but I do opt to help 2-3 orgs a year as pro-bono for soci
 Most of my work now revolves around building the companies in our bootstrapped portfolio, supporting research in women's health and insights into complex social behaviors.\
 \
 I have a mixed marketer and product designer history, but am a prolific user researcher and impact advocate. All about solving real human problems through business.
-
-<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://tuttu.io/embed/VEcGbtES"></iframe>
