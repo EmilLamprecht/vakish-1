@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /peaks-of-the-balkans
-date: 2023-11-30T09:37:47.006Z
+date: 2023-09-12T17:46:35.631Z
 title: Hiking The Peaks Of The Balkans... The Wrong Way
 metaDescription: In September 2023, I hiked the Peaks Of The Balkans trail with
   my partner. We did the entire tour in 10 days as planned, in reverse.
@@ -115,6 +115,10 @@ I﻿n a pinch, one could take the low route, and even hitch or arrange transport
 
 
 
+![The end of Stage 7 of the Peaks Of The Balkans, the wrong way 'round.](/assets/peaks-of-the-balkans-stage-7-the-wrong-way-around.jpg "Volbone valley, on Stage 7 of the PoB")
+
+
+
 *O﻿riginal PoB route, not recommended unless you need a day off via hitching or transport:*
 
 <iframe src="https://www.outdooractive.com/en/embed/272657650/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
@@ -136,6 +140,10 @@ A﻿ rough night, a hard decision, and a crowded but very successful day! It's s
 
 
 
+![Gorgeous mountains on stage 8 on the Peaks Of The Balkans trail, the wrong way 'round.](/assets/img_5659.jpg "Endless good views on the PoB.")
+
+
+
 ## S﻿tage 9, Theth to Vusanje
 
 E﻿mil's favourite day on the trail, a beautiful mountain experience in great weather, [with a bit of a rough ending](https://tuttu.io/2MzEfWgd).
@@ -148,6 +156,12 @@ E﻿mil's favourite day on the trail, a beautiful mountain experience in great w
 **M﻿ap of Stage 9:**
 
 <iframe src="https://www.outdooractive.com/en/embed/272658185/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+![A look back into Theth valley on Stage 9 of the Peaks Of The Balkans, the wrong way 'round.](/assets/peaks-of-the-balkans-stage-9.1-the-wrong-way-around.jpg "Some great lookouts on the final stages of the PoB.")
+
+![A stark reflection in a blue hole natural spring, the eye of the grasshopper.](/assets/peaks-of-the-balkans-stage-9-the-wrong-way-around.jpg "A stark reflection in a blue hole natural spring, the eye of the grasshopper near Vusanje.")
 
 
 
