@@ -67,3 +67,48 @@ A﻿ long painful day, and an argument that maybe this part of the trail just...
 
 
 ## S﻿tage 5, **Millishevc to** Dobërdoll
+
+L﻿ots of wind, a very informal guest house, and some incredible food despite that. [A fun day made of Stage 5](https://tuttu.io/D8NKvrUQ)!
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/D8NKvrUQ"></iframe>
+
+
+
+**M﻿ap of Stage 5:**
+
+<iframe src="https://www.outdooractive.com/en/embed/272656626/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## S﻿tage 6, Dobërdoll to Çerem
+
+[A﻿n easy day on the trail?](https://tuttu.io/VkT15zDs) Surprisingly chill and straightforward day after a rough-ish night at our previous guest house.
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/VkT15zDs"></iframe>
+
+
+
+**M﻿ap of Stage 6:**
+
+<iframe src="https://www.outdooractive.com/en/embed/272656846/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## S﻿tage 7, Çerem to Valbonë
+
+T﻿hings go really really well... and then really really badly... [This is a bit of a teaser for the intense thriller of the following days.](https://tuttu.io/28WYwH9B) ;) 
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/28WYwH9B"></iframe>
+
+
+
+**M﻿ap of Stage 7:**
+
+I﻿ forgot to mention in the audio for today, that the route we took for Stage 7 is actually not the primary PoB trail. The original PoB takes a route that is mostly road; more evidence of a trail that was established at a point where the access and development of the area was in a different state than it is now.
+
+I﻿n a pinch, one could take the low route, and even hitch or arrange transport instead of hiking over the mountain the way we did. But for the avid hiker, I highly encourage following variations of the route we took; which is now also included in most updated PoB information.
+
+<iframe src="https://www.outdooractive.com/en/embed/272657371/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
