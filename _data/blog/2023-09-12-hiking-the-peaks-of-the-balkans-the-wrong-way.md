@@ -3,8 +3,9 @@ template: BlogPost
 path: /hiking-the-peaks-of-the-balkans
 date: 2023-09-12T17:46:35.631Z
 title: Hiking The Peaks Of The Balkans... The Wrong Way
-metaDescription: In September 2023, I hiked the Peaks Of The Balkans trail with
-  my partner. We did the entire tour in 10 days as planned, in reverse.
+metaDescription: In September 2023, Melissa and I hiked the Peaks Of The Balkans
+  trail. We did the entire tour in 10 days as planned, but in reverse, thus 'the
+  wrong way 'round'.
 author: Emil Lamprecht
 thumbnail: /assets/peaks-of-the-balkans-stage-1-through-10-the-wrong-way-around.jpg
 ---
@@ -171,7 +172,7 @@ L﻿isten to the [Full PoB here](https://tuttu.io/dCv6Tp1r).
 
 S﻿ome things I haven't discussed in any of the above are additions and alternatives to the traditional PoB. Apart from my proposal of removing the most northern 2 stages, there are a lot of great opportunities throughout the route to stay an extra night and hike surrounding peaks. Doberdol is a particular notable spot for this, as you have access to what is considered Kosovo's highest peak (though unofficially it is several meters shorter than a peak in southern Kosovo, but shhhhh).
 
-T﻿he PoB also has an exstension route, which we didn't have time to consider this time around. I've created a version of the full map inclusive the extension, which adds a good chunk of KMs and a few extra peaks into the trip. You would likely need to schedule at least 1 extra night, breaking this extension into two stages:
+T﻿he PoB also has an extension route, which we didn't have time to consider this time around. I've created a version of the full map inclusive the extension, which adds a good chunk of KMs and a few extra peaks into the trip. You would likely need to schedule at least 1 extra night, breaking this extension into two stages:
 
 <iframe src="https://www.outdooractive.com/en/embed/272660650/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>\
 \
