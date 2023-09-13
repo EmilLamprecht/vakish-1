@@ -8,9 +8,15 @@ metaDescription: In September 2023, I hiked the Peaks Of The Balkans trail with
 author: Emil Lamprecht
 thumbnail: /assets/peaks-of-the-balkans-stage-1-through-10-the-wrong-way-around.jpg
 ---
-H﻿ello! Welcome to the Peaks Of The Balkans! 
+H﻿ello! Welcome to the Peaks Of The Balkans. This blog post is really for myself more than you, but if you're here and keen on learning about our experience of this trail, I sincerely hope it is both fun and helpful.
 
-I
+P﻿eaks of the Balkans can be hiked many ways, but most typically it is done as a 10 day, anti clockwise circular trek. We did the trail in 10 days, but in the opposite direction, thus dubbing our experience "the wrong way 'round".
+
+F﻿or both fun and ease, I've recorded an audio recap of each stage/day of the hike, which I've embedded in the post below, along with the trail map for each stage.
+
+I﻿f you're here less for the specifics of the day to day experience, and want more insights, tips and tricks into how we tackled the trail as a whole, you can skip to the bottom (The Full PoB) which has a much longer audio with my recap of various notes, including some suggestions, trail beta, and general information about the region.
+
+T﻿hanks to anyone who has the patience and interest to listen. And if you don't, make sure to at least glance at the maps and pictures! ;) 
 
 ## S﻿tage 1, Plav to Babino Polje
 
@@ -143,3 +149,37 @@ E﻿mil's favourite day on the trail, a beautiful mountain experience in great w
 **M﻿ap of Stage 10:**
 
 <iframe src="https://www.outdooractive.com/en/embed/272659319/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## T﻿he Full PoB
+
+Already listened to the 2.5 hours of stage-by-stage audio? Well here is my route notes, where I ramble on about planning, research, accommodation, tactics, gear, and hiking perspectives as apply to our 10 days on the route.\
+\
+L﻿isten to the [Full PoB here](https://tuttu.io/dCv6Tp1r).
+
+<iframe width="380" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/dCv6Tp1r"></iframe>
+
+**F﻿ull Route Map:**
+
+<iframe src="https://www.outdooractive.com/en/embed/272660898/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>
+
+
+
+## **O﻿ther Thoughts & Notes:**
+
+S﻿ome things I haven't discussed in any of the above are additions and alternatives to the traditional PoB. Apart from my proposal of removing the most northern 2 stages, there are a lot of great opportunities throughout the route to stay an extra night and hike surrounding peaks. Doberdol is a particular notable spot for this, as you have access to what is considered Kosovo's highest peak (though unofficially it is several meters shorter than a peak in southern Kosovo, but shhhhh).
+
+T﻿he PoB also has an exstension route, which we didn't have time to consider this time around. I've created a version of the full map inclusive the extension, which adds a good chunk of KMs and a few extra peaks into the trip. You would likely need to schedule at least 1 extra night, breaking this extension into two stages:
+
+<iframe src="https://www.outdooractive.com/en/embed/272660650/iframe?mw=false" style="width: 100%; height: 517px; border: 0;" ></iframe>\
+\
+With research and clever timing there are also opportunities to swim in lakes if you're on the trail earlier in the season; as well as an opportunity to see and hike through some snow if you hit the mountains before summer really kicks off. 
+
+I﻿'ve said pretty much everything I've wanted to say in the audios, but I will say again that we had a really excellent time on this trail, and I'm so pumped that this region is getting the love it deserves.
+
+T﻿hanks to anyone still listening, reading or watching our review of this trail, and hopefully see you in the comments.
+
+W﻿armest regards,\
+E﻿mil & Melissa
