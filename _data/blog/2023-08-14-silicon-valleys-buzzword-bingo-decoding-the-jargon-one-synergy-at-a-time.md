@@ -2,12 +2,12 @@
 template: BlogPost
 path: /buzzword-bingo/
 date: 2023-08-14T19:20:44.486Z
-title: 'Silicon Valley''s Buzzword Bingo: Decoding the Jargon One ''Synergy'' at a Time'
-metaDescription: >-
-  Ah yes, Silicon Valley. Land of dreams, innovation, homeless tent cities which
-  rich people ignore... and oh yeah, buzzwords. So. Many. Buzzwords.
+title: "Silicon Valley's Buzzword Bingo: Decoding the Jargon One 'Synergy' at a Time"
+metaDescription: Ah yes, Silicon Valley. Land of dreams, innovation, homeless
+  tent cities which rich people ignore... and oh yeah, buzzwords. So. Many.
+  Buzzwords.
 author: Emil Lamprecht
-thumbnail: /assets/venus-evans-wFZ9SYDiS2M-unsplash.jpg
+thumbnail: /assets/chester-wade-0AlE0lFaKF8-unsplash.jpg
 ---
 
 Ah, Silicon Valley – the land of dreams, innovation, and... buzzwords? If you've ever sat through a startup pitch, you've probably been bombarded with a flurry of jargon that sounds impressive but leaves you scratching your head. From "disruptive" to "pivot," it's high time we decode the most overused buzzwords in the startup world. And for a bit of fun, why not turn it into a game of bingo?
