@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /hiking-the-peaks-of-the-balkans
+path: /hiking-the-peaks-of-the-balkans/
 date: 2023-09-12T17:46:35.631Z
 title: Hiking The Peaks Of The Balkans... The Wrong Way
 metaDescription: In September 2023, Melissa and I hiked the Peaks Of The Balkans
