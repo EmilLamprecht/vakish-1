@@ -1,11 +1,11 @@
 {
   "title": "Emil Lamprecht's Website",
   "siteUrl": "https://emillamprecht.com",
-  "description": "Welcome to the site of Emil Lamprecht and his many adventures. Testing",
+  "description": "This site isn't real yet... but it will be. First we'll post some jokes, random musings and an occasional real experience. Then we'll make it... nice. Newsletter signup coming soon.",
   "logo": "/assets/linkedin-icon.png",
   "home": {
     "title": "Hello, welcome to the test",
-    "description": "Testy!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "description": "This site isn't real yet... but it will be. First we'll post some jokes, random musings and an occasional real experience. Then we'll make it... nice. Newsletter signup coming soon.\n\n<br /><br /><a href='/contact' class=\"button -primary\">The Stuff</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
