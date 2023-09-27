@@ -2,18 +2,15 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
-import { FastCommentsCommentWidget } from "fastcomments-react";
-
-import moment from "moment";
 
 export default function Template({
-  data,
-  location, // this prop will be injected by the GraphQL query below.
+  data, // this prop will be injected by the GraphQL query below.
+  location,
 }) {
   const { site, markdownRemark } = data; // data.markdownRemark holds your post data
   const { siteMetadata } = site;
 
-  const { frontmatter, html, fields } = markdownRemark;
+  const { frontmatter, html } = markdownRemark;
   const url = location.href ? location.href : "";
   const imageUrl = siteMetadata.siteUrl + frontmatter.thumbnail;
   const logoUrl = siteMetadata.siteUrl + siteMetadata.logo;
@@ -27,8 +24,8 @@ export default function Template({
         <meta name="description" content={frontmatter.metaDescription} />
         <meta property="og:title" content={frontmatter.title} />
         <meta property="og:description" content={frontmatter.metaDescription} />
-        <meta property="og:url" content={url} />
         <meta property="og:type" content="article" />
+        <meta property="og:url" content={url} />
         <meta
           property="og:image"
           content={frontmatter.thumbnail ? imageUrl : logoUrl}
@@ -80,23 +77,11 @@ export default function Template({
               <h1 className="post-title">{frontmatter.title}</h1>
             </div>
           )}
-          <div className="post-meta">
-            <p>By {frontmatter.author}</p>
-            <p>
-              Last Update on:{" "}
-              {moment(fields.gitAuthorTime).format("MMMM Do YYYY")}
-            </p>
-          </div>
           <div
             className="blog-post-content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
-        <div className="blog-post-comments">
-          <FastCommentsCommentWidget
-            tenantId={site.siteMetadata.accountIds.fastCommentsId}
-          />
-        </div>
       </div>
     </Layout>
   );
@@ -107,8 +92,8 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        logo
         siteUrl
+        logo
         theme {
           primaryColor
           secondaryColor
@@ -120,9 +105,6 @@ export const pageQuery = graphql`
           googleFontImport
           googleFontName
         }
-        accountIds {
-          fastCommentsId
-        }
       }
     }
     markdownRemark(frontmatter: { path: { eq: $path } }) {
@@ -131,7 +113,6 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
-        author
         thumbnail
         metaDescription
       }

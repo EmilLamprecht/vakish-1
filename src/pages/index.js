@@ -14,12 +14,23 @@ const IndexPage = ({
   const Posts = edges
     .filter((edge) => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map((edge) => <PostLink key={edge.node.id} post={edge.node} />);
-
+  const logoUrl = site.siteMetadata.siteUrl + site.siteMetadata.logo;
   return (
     <Layout>
-      <Helmet>
+      <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+        <meta property="og:title" content={site.siteMetadata.title} />
+        <meta property="og:url" content={site.siteMetadata.siteUrl} />
+        <meta
+          property="og:description"
+          content={site.siteMetadata.description}
+        />
+        <meta property="og:type" content="website" />
+
+        {site.siteMetadata.logo && (
+          <meta property="og:image" content={logoUrl} />
+        )}
         <meta
           name="w3l-domain-verification"
           content="60b639090c559CF_Domain_verify"
@@ -69,6 +80,8 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         description
+        siteUrl
+        logo
         theme {
           primaryColor
           secondaryColor
@@ -82,7 +95,13 @@ export const pageQuery = graphql`
         }
       }
     }
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+    allMarkdownRemark(
+      filter: {
+        fields: { draft: { eq: false } }
+        frontmatter: { template: { eq: "BlogPost" } }
+      }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
           id

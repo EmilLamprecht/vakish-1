@@ -6,7 +6,7 @@ import Layout from "../components/layout";
 const ContactPage = ({ data: { site } }) => {
   return (
     <Layout>
-      <Helmet>
+      <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>Contact — {site.siteMetadata.title}</title>
         <meta
           name="description"

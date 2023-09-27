@@ -20,5 +20,24 @@
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#EB6625"
+  },
+  "navlinks": {
+    "links": [
+      {
+        "linkLabel": "Static page",
+        "linkUrl": "/static-page-test"
+      },
+      {
+        "linkLabel": "Test",
+        "linkUrl": "https://tuttu.io/"
+      },
+      {
+        "linkLabel": "Contact",
+        "linkUrl": "/contact"
+      }
+    ]
+  },
+  "accountIds": {
+    "fastCommentsId": "iAb7b7mXogL6"
   }
 }

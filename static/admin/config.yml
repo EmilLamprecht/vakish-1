@@ -1,9 +1,11 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: emillamprecht/vakish-1
+  repo: siliconrhino/content-network
   # change branch when deploying a new site
   branch: vakish
+
+  branch: dev
 
 media_folder: static/assets
 public_folder: /assets
@@ -114,20 +116,94 @@ collections:
                 label: Google Font Family
                 default: ""
                 required: false
+          - widget: object
+            name: navlinks
+            label: Navigation Links
+            fields:
+              - name: links
+                label: links
+                widget: list
+                fields:
+                  - label: Link Label
+                    name: linkLabel
+                    widget: string
+                  - label: Link URL
+                    name: linkUrl
+                    widget: string
+                    pattern:
+                      - /
+                      - /
+          - widget: object
+            name: accountIds
+            label: Third Party accounts
+            fields:
+              - widget: string
+                name: fastCommentsId
+                label: Fast Comments Id
+                default: ""
+                required: false
   - name: blog
     label: Blog
     folder: _data/blog
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
     fields:
-      - { label: Template, name: template, widget: hidden, default: BlogPost }
+      - label: Template
+        name: template
+        widget: hidden
+        default: BlogPost
       - name: path
         label: Path
         widget: string
-        pattern: [/, /]
-        hint: "Path must start with /"
-      - { name: date, label: Date, widget: datetime }
-      - { name: title, label: Title }
+        pattern:
+          - /
+          - /
+        hint: Path must start with /
+      - name: date
+        label: Date
+        widget: datetime
+      - name: title
+        label: Title
+      - label: Meta Description
+        name: metaDescription
+        widget: text
+        required: false
+      - label: Author
+        name: author
+        required: false
+      - label: Featured Image
+        name: thumbnail
+        widget: image
+        hint: "Image size 1280x800 works best :)"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - name: body
+        label: Body
+        widget: markdown
+  - name: staticpage
+    label: Staticpage
+    folder: _data/staticpage
+    slug: "{{slug}}"
+    create: true
+    fields:
+      - label: Template
+        name: template
+        widget: hidden
+        default: StaticPage
+      - name: path
+        label: Path
+        widget: string
+        pattern:
+          - /
+          - /
+        hint: Path must start with /
+      - name: date
+        label: Date
+        widget: datetime
+      - name: title
+        label: Title
       - label: Meta Description
         name: metaDescription
         widget: text
@@ -140,4 +216,6 @@ collections:
         media_library:
           config:
             multiple: false
-      - { name: body, label: Body, widget: markdown }
+      - name: body
+        label: Body
+        widget: markdown
