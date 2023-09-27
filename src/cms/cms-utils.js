@@ -1,3 +1,6 @@
+// Reference https://answers.netlify.com/t/change-admin-css-to-tweak-a-bit-the-cms-ui-defaults/17835/2
+// https://github.com/decaporg/decap-cms/issues/5092
+
 if (typeof window !== "undefined") {
   // add admin.css
   const link = document.createElement("link");
