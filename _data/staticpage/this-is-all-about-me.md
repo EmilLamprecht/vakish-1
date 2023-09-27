@@ -1,6 +1,6 @@
 ---
 template: StaticPage
-path: /about
+path: /about/
 date: 2023-08-01T11:24:11.935Z
 title: This is all about ME!
 metaDescription: This is a page about me, so you should click on it, because I'm
