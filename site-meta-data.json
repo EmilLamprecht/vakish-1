@@ -1,11 +1,11 @@
 {
-  "title": "Blockchainvision.io",
-  "siteUrl": "https://blockchainvision.io/",
-  "description": "Welcome to BlockchainVision.io, where I talk about the future of blockchain and how it should (and absolutely shouldn't) be used!",
+  "title": "Hashspark.io",
+  "siteUrl": "https://hashspark.io/",
+  "description": "Welcome to Hashspark.io, where we talk about blockchain uses cases, dos and don'ts.",
   "logo": "",
   "home": {
-    "title": "Welcome to BlockchainVision.io",
-    "description": "A blog where I talk about the future of blockchain and how it should (and absolutely shouldn't) be used!\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
+    "title": "Welcome to Hashspark.io",
+    "description": "Where we talk about blockchain uses cases, dos and don'ts.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
