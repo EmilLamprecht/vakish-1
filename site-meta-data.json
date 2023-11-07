@@ -1,11 +1,11 @@
 {
-  "title": "Master Site Template Tester",
+  "title": "HashSpark.io",
   "siteUrl": "https://master-vakish-1.netlify.app",
-  "description": "This is a test version of our template",
+  "description": "HashSpark. Blockchain Use Case Exploration!",
   "logo": "",
   "home": {
-    "title": "Hello, welcome to the test",
-    "description": "Testy!\n\n<br /><br /><a href='/contact' class=\"button -primary\">Explore Topics</a>"
+    "title": "Welcome to HashSpark",
+    "description": "HashySparky\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
@@ -24,16 +24,12 @@
   "navlinks": {
     "links": [
       {
-        "linkLabel": "Static page",
-        "linkUrl": "/static-page-test"
+        "linkLabel": "About",
+        "linkUrl": "/about"
       },
       {
-        "linkLabel": "Test",
-        "linkUrl": "https://tuttu.io/"
-      },
-      {
-        "linkLabel": "Contact",
-        "linkUrl": "/contact"
+        "linkLabel": "Newsletter",
+        "linkUrl": "/newsletter"
       }
     ]
   },
