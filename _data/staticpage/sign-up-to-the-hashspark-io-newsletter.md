@@ -2,7 +2,7 @@
 template: StaticPage
 path: /newsletter/
 date: 2023-11-07T08:20:09.097Z
-title: The Blockchainvision.io Newsletter!
-metaDescription: The Blockchainvision.io Newsletter!
+title: The Hashspark.io Newsletter!
+metaDescription: The Hashspark.io Newsletter!
 ---
-<div style="text-align: center" class="sender-form-field" data-sender-form-id="ae9957bfbf21dd76GjV"></div>
+<div style="text-align: center" class="sender-form-field" data-sender-form-id="loo2rzk9bwv1wa4uqq1"></div>
