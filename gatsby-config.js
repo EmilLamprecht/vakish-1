@@ -38,7 +38,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
-        id: "GTM-NWF3NNX",
+        id: "	GTM-WL2XZ4KN",
 
         // Include GTM in development.
         //
@@ -50,7 +50,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it. replace with yours
-        trackingId: "UA-164743872-1",
+        trackingId: "UA-164743872-2",
         head: true,
       },
     },
