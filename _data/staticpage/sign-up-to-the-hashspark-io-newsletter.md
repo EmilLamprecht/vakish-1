@@ -2,7 +2,7 @@
 template: StaticPage
 path: /newsletter/
 date: 2023-11-07T08:20:09.097Z
-title: Sign Up To The HashSpark.io Newsletter!
+title: The HashSpark.io Newsletter!
 ---
 test
 
