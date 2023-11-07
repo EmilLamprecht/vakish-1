@@ -1,0 +1,7 @@
+---
+template: StaticPage
+path: /newsletter/
+date: 2023-11-07T11:42:15.532Z
+title: The Goodledger.io Newsletter!
+---
+<div style="text-align: center" class="sender-form-field" data-sender-form-id="f0f8975acd0b8373m3k"></div>
