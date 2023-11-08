@@ -7,6 +7,6 @@ metaDescription: The Bitfluence.org Newsletter!
 ---
 <div style="text-align: center" class="sender-form-field" data-sender-form-id="8ac0198aff6d55329mF"></div>
 
-<div style="text-align: center">*There should be a form here.* 
+<div style="text-align: center">There should be a form above!
 
-***If you don't see a form above this text**, please refresh the page!</div>*
+If you don't see a form above this text, please refresh the page!</div>
