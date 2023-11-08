@@ -6,3 +6,7 @@ title: The Goodledger.io Newsletter!
 metaDescription: The Goodledger.io Newsletter!
 ---
 <div style="text-align: center" class="sender-form-field" data-sender-form-id="f0f8975acd0b8373m3k"></div>
+
+<div style="text-align: center">*There should be a form here.* 
+
+***If you don't see a form**, please refresh the page!</div>*
