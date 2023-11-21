@@ -69,8 +69,8 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: `${process.env.SITE_URL}`,
-        sitemap: `${process.env.SITE_URL}/sitemap.xml`,
+        //host: "https://master-vakish-1.netlify.app/",
+        sitemap: `/sitemap.xml`,
         policy: [
           { userAgent: "Googlebot", disallow: "/nogooglebot/" },
           { userAgent: "*", allow: "/" },
