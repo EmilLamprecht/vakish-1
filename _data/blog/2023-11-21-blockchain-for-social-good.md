@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /blockchain-for-social-good
+path: /blockchain-for-social-good/
 date: 2023-11-21T15:30:36.530Z
 title: Blockchain For Social Good
 ---
