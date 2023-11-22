@@ -109,6 +109,8 @@ export const pageQuery = graphql`
           secondaryColor
           linkColor
           linkHoverColor
+          darkModeLinkColor
+          darkModeLinkHoverColor
           backgroundColor
           navLinkColor
           navLinkHoverColor
