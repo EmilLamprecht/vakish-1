@@ -51,7 +51,7 @@ Bitcoin (BTC) is the OG implementation of blockchain as a digital money system, 
 
 Common “wisdom” (as shared by the likes of [Greenpeace](https://www.greenpeace.org/usa/greenpeace-bitcoin-climate-change-crisis-clean-up/)) would have you believe it is Bitcoin’s so-called Proof of Work (PoW) “[consensus mechanism](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp)” that is the problem, and that alternatives like “[Proof of Stake” (PoS) could solve the problem](https://www.tweaktown.com/news/79446/ethereum-will-soon-be-7000x-more-energy-efficient-than-bitcoin/index.html). Popular blockchain platform Ethereum has since switched and proven its [new PoS consensus mechanism is 99% more energy efficient](https://www.reuters.com/technology/ethereum-blockchain-has-completed-major-software-upgrade-co-founder-says-2022-09-15/) than its former PoW approach, but it is not a one-size-fits-all situation. The Bitcoin SV example reveals a more complex narrative.
 
-BSV ecosystem partner mintBlue recently set a world record: Using the BSV blockchain, they [processed over 50 million transactions in 24 hours](https://finance.yahoo.com/news/mintblue-shatters-world-record-delivering-190400796.html), accounting for 91% of all transactions across all major blockchains that day — whilst only representing a fraction of BSV’s daily capacity of 1.4 billion transactions.
+BSV ecosystem partner [mintBlue](https://mintblue.com/) recently set a world record: Using the BSV blockchain, they [processed over 50 million transactions in 24 hours](https://finance.yahoo.com/news/mintblue-shatters-world-record-delivering-190400796.html), accounting for 91% of all transactions across all major blockchains that day — whilst only representing a fraction of BSV’s daily capacity of 1.4 billion transactions.
 
 For context, Bitcoin’s implementation as a digital money system (that’s the half trillion dollar “BTC” we all know) [averages 400,000 transactions per day](https://bitinfocharts.com/comparison/bitcoin-transactions.html#3y), whilst [using up to 260x more energy than BSV](https://coingeek.com/mnp-accounting-firm-declares-bsv-blockchain-to-be-most-energy-efficient-in-new-report/). Not only did mintBlue’s efforts show the scalability potential of the Bitcoin SV (BSV) blockchain, but it established the record whilst also having the [lowest carbon footprint of all major blockchains](https://coingeek.com/mnp-accounting-firm-declares-bsv-blockchain-to-be-most-energy-efficient-in-new-report/).
 
@@ -116,7 +116,7 @@ Effective governance within nonprofit organisations is vital for transparent dec
 
 [KlimaDAO](https://www.klimadao.finance/) is one of the first mission-driven organisations utilising blockchain in its governance and ownership structure. KlimaDAO was started to solve the problem of carbon credit market efficiencies — and, while controversial, it is an example of how organisations can align with stakeholders, allowing token holders to contribute by voting on key decisions. Ultimately this novel governance and decision-making structure may lead to more democratic and efficient resource allocation in both private enterprises and for nonprofit initiatives.
 
-## Blockchain, Nonprofits & Trust
+## Blockchain, Nonprofits, & Trust
 
 We already understand the importance and diverse challenges faced by nonprofit organisations. We also have a good idea of how blockchain can be harnessed to address many of their challenges. In the end, trust is the most important factor for nonprofit organisations (and any organisation, really).
 
