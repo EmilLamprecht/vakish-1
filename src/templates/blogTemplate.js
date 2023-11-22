@@ -49,6 +49,12 @@ export default function Template({
         body.light a:hover {
           color: ${site.siteMetadata.theme.linkHoverColor};
         }
+        body.dark a {
+          color: ${site.siteMetadata.theme.darkModeLinkColor};
+        }
+        body.dark a:hover {
+          color: ${site.siteMetadata.theme.darkModeLinkHoverColor};
+        }
         body.light .navigation a {
           color: ${site.siteMetadata.theme.navLinkColor};
         }
