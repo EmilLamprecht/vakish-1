@@ -15,13 +15,13 @@
     "linkColor": "#EB6625",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
     "secondaryColor": "#60C3E2",
-    "darkModeLinkColor": "#FF9D00",
+    "darkModeLinkColor": "#BF40BF",
     "googleFontName": "Montserrat', sans-serif;",
     "ctaColor": "#EB6625",
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
     "ctaHoverColor": "#EB6625",
-    "darkModeLinkHoverColor": "#D68400"
+    "darkModeLinkHoverColor": "#800020\t"
   },
   "navlinks": {
     "links": [
