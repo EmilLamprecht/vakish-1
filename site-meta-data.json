@@ -2,24 +2,24 @@
   "title": "Hashspark.io",
   "siteUrl": "https://hashspark.io/",
   "description": "Welcome to Hashspark.io, where we talk about blockchain uses cases, dos and don'ts.",
-  "logo": "",
+  "logo": "/assets/hashspark_logo_main-500px.png",
   "home": {
     "title": "Welcome to Hashspark.io",
     "description": "Where we talk about blockchain uses cases, dos and don'ts.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
-    "primaryColor": "#EB6625",
-    "linkHoverColor": "#60C3E2",
-    "navLinkHoverColor": "#60C3E2",
-    "navLinkColor": "#EB6625",
-    "linkColor": "#EB6625",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
-    "secondaryColor": "#60C3E2",
-    "googleFontName": "Montserrat', sans-serif;",
-    "ctaColor": "#EB6625",
-    "primaryTextColor": "#000000",
+    "primaryColor": "#112A46",
+    "linkHoverColor": "#112A46",
+    "navLinkHoverColor": "#FEBE07",
+    "navLinkColor": "#112A46",
+    "linkColor": "#FEBE07",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;1,300;1,400&display=swap",
+    "secondaryColor": "#FEBE07",
+    "googleFontName": "'Barlow', sans-serif;",
+    "ctaColor": "#FEBE07",
+    "primaryTextColor": "#112A46",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#EB6625"
+    "ctaHoverColor": "#112A46"
   },
   "navlinks": {
     "links": [
