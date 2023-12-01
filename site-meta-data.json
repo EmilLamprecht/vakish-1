@@ -2,24 +2,24 @@
   "title": "Policyblocks.co",
   "siteUrl": "https://policyblocks.co/",
   "description": "Welcome to PolicyBlocks, a website about gov, policy and technology.",
-  "logo": "",
+  "logo": "/assets/svg-deep-blue-and-yellow-logo.svg",
   "home": {
     "title": "Welcome to PolicyBlocks.co",
     "description": "Welcome to my website about gov, policy, and tech. \n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
-    "primaryColor": "#EB6625",
-    "linkHoverColor": "#60C3E2",
-    "navLinkHoverColor": "#60C3E2",
+    "primaryColor": "#013C58",
+    "linkHoverColor": "#00537A",
+    "navLinkHoverColor": "#013C58",
     "navLinkColor": "#EB6625",
-    "linkColor": "#EB6625",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
-    "secondaryColor": "#60C3E2",
-    "googleFontName": "Montserrat', sans-serif;",
-    "ctaColor": "#EB6625",
-    "primaryTextColor": "#000000",
+    "linkColor": "#F5A201",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap",
+    "secondaryColor": "#FFCD00",
+    "googleFontName": "'Montserrat', sans-serif;",
+    "ctaColor": "#F5A201",
+    "primaryTextColor": "#1A1A1A",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#EB6625"
+    "ctaHoverColor": "#00537A"
   },
   "navlinks": {
     "links": [
