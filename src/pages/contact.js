@@ -27,6 +27,12 @@ const ContactPage = ({ data: { site } }) => {
         body.light a:hover {
           color: ${site.siteMetadata.theme.linkHoverColor};
         }
+        body.dark a {
+          color: ${site.siteMetadata.theme.darkModeLinkColor};
+        }
+        body.dark a:hover {
+          color: ${site.siteMetadata.theme.darkModeLinkHoverColor};
+        }
         body.light .navigation a {
           color: ${site.siteMetadata.theme.navLinkColor};
         }
@@ -36,9 +42,11 @@ const ContactPage = ({ data: { site } }) => {
         body.light { 
           --primary-color: ${site.siteMetadata.theme.primaryColor}; 
           --primary-text-color:${site.siteMetadata.theme.primaryTextColor};
+          --primary-link-color:${site.siteMetadata.theme.linkColor};
+          --primary-link-hover-color:${site.siteMetadata.theme.linkHoverColor};
           --featured-bg: #493b8a;
           --featured-text: #fff;
-          --secondary-color: ${site.siteMetadata.theme.primaryColor};
+          --secondary-color: ${site.siteMetadata.theme.secondaryColor};
           --background: ${site.siteMetadata.theme.backgroundColor};
         }
     `}</style>
@@ -103,6 +111,8 @@ export const pageQuery = graphql`
           secondaryColor
           linkColor
           linkHoverColor
+          darkModeLinkColor
+          darkModeLinkHoverColor
           backgroundColor
           navLinkColor
           navLinkHoverColor
