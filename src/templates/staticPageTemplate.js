@@ -61,9 +61,11 @@ export default function Template({
         body.light { 
           --primary-color: ${site.siteMetadata.theme.primaryColor}; 
           --primary-text-color:${site.siteMetadata.theme.primaryTextColor};
+          --primary-link-color:${site.siteMetadata.theme.linkColor};
+          --primary-link-hover-color:${site.siteMetadata.theme.linkHoverColor};
           --featured-bg: #493b8a;
           --featured-text: #fff;
-          --secondary-color: ${site.siteMetadata.theme.primaryColor};
+          --secondary-color: ${site.siteMetadata.theme.secondaryColor};
           --background: ${site.siteMetadata.theme.backgroundColor};
         }
     `}</style>
