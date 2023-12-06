@@ -75,6 +75,11 @@ a {
 }
 .logo {
   height: 40px;
+  display: none;
+
+  &.mobile {
+    display: inline-block;
+  }
 }
 .navigation {
   display: flex;
@@ -134,10 +139,10 @@ a {
   &.-primary {
     background-color: var(--primary-color);
     border-color: var(--primary-color);
-    color: var(--primary-text-color);
+    color: var(--primary-link-color);
     &:hover {
       background-color: var(--secondary-color);
-      color: var(--primary-text-color);
+      color: var(--primary-link-hover-color);
       text-decoration: none;
     }
   }
@@ -316,7 +321,11 @@ a {
   }
 
   .logo {
-    height: 80px;
+    display: inline-block;
+
+    &.mobile {
+      display: none;
+    }
   }
 }
 @media only screen and (min-width: 1024px) {
