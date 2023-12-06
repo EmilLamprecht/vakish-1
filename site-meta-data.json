@@ -13,6 +13,8 @@
     "navLinkHoverColor": "#60C3E2",
     "navLinkColor": "#EB6625",
     "linkColor": "#EB6625",
+    "darkModeLinkColor": "",
+    "darkModeLinkHoverColor": "",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap",
     "secondaryColor": "#60C3E2",
     "googleFontName": "font-family: 'Nunito', sans-serif;",
