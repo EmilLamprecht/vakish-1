@@ -85,6 +85,16 @@ collections:
                 default: ""
                 required: false
               - widget: string
+                name: darkModeLinkColor
+                label: Dark Mode Link color
+                default: ""
+                required: false
+              - widget: string
+                name: darkModeLinkHoverColor
+                label: Dark Mode Link Hover color
+                default: ""
+                required: false
+              - widget: string
                 name: navLinkColor
                 label: Navigation link color
                 default: ""
