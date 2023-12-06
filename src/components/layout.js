@@ -30,6 +30,11 @@ export default ({ children }) => {
                 src={data.site.siteMetadata.logo}
                 alt={data.site.siteMetadata.title}
               />
+              <img
+                className="logo mobile"
+                src="/icons/icon-256x256.png"
+                alt={data.site.siteMetadata.title}
+              />
             </Link>
           )}
         </div>

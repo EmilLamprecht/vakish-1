@@ -75,6 +75,11 @@ a {
 }
 .logo {
   height: 40px;
+  display: none;
+
+  &.mobile {
+    display: inline-block;
+  }
 }
 .navigation {
   display: flex;
@@ -317,6 +322,11 @@ a {
 
   .logo {
     height: 80px;
+    display: inline-block;
+
+    &.mobile {
+      display: none;
+    }
   }
 }
 @media only screen and (min-width: 1024px) {
