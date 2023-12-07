@@ -3,6 +3,7 @@ template: BlogPost
 path: /blockchain-for-social-good/
 date: 2023-11-21T15:30:36.530Z
 title: Blockchain For Social Good
+author: Sam Liddell
 ---
 ## How nonprofits, NGOs, and charities are addressing global challenges with blockchain
 
