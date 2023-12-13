@@ -2,7 +2,7 @@
   "title": "Blockchainvision.io",
   "siteUrl": "https://blockchainvision.io/",
   "description": "Welcome to Blockchainvision.io, where I talk about the future of blockchain, and how it should (and absolutely shouldn't) be used.",
-  "logo": "",
+  "logo": "/assets/blockchainvision_black_vertical.png",
   "home": {
     "title": "Welcome to Blockchainvision.io",
     "description": "My blog about the future of blockchain, and how it should (and absolutely shouldn't) be used.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
