@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /data-governance/
-date: 2023-12-13T12:00:42.879Z
+date: 2023-11-29T12:00:42.879Z
 title: "Data Governance & EU Legislation: Blockchain = the missing link?"
 metaDescription: Principles of data governance. Overview of EU legislation,
   especially the Data Governance Act. The potential of blockchain as a medium
