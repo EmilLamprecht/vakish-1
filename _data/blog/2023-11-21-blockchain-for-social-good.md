@@ -11,16 +11,16 @@ author: Sam Liddell
 
 ### Table of Contents
 
-1. How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain
-2. Not Just Pro-Blockchain — Optimistic Hubris
-3. Blockchain For Enhancing Social Good
-4. How NGOs, Nonprofits, & Charities Are Already Using Blockchain
-5. Blockchain, Nonprofits, & Trust
-6. Conclusion: The Future Is Good & It Is On-Chain
+1. [How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain](#addressing-global-challenges)
+2. [Not Just Pro-Blockchain — Optimistic Hubris](#optimistic-hubris)
+3. [Blockchain For Enhancing Social Good](#enhancing-social-good)
+4. [How NGOs, Nonprofits, & Charities Are Already Using Blockchain](#blockchain-implementations)
+5. [Blockchain, Nonprofits, & Trust](#trust)
+6. [Conclusion: The Future Is Good & It Is On-Chain](#conclusion)
 
 - - -
 
-## How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain
+## <div id="addressing-global-challenges">How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain</div>
 
 Blockchain is a distributed ledger technology that was originally designed to provide a secure and transparent way to record and verify transactions in a decentralised manner. While a lot has been said about blockchain’s “crypto” use-case recently, blockchain seems to be largely misunderstood, mischaracterised, and under-appreciated for its real-world applications and potential for social good.
 
@@ -34,7 +34,7 @@ Powerful ideological projects like Bitcoin and Ethereum are virtual currencies t
 
 Blockchain is helping revolutionise business processes as well as introduce entirely new business models, and ways of creating value. Enterprise and public institutions across the board are getting in on the action. Blockchain has seemingly already found an array of problems that it can help solve. From [e-invoicing and automated accounting](https://coingeek.com/mintblue-enhances-e-invoicing-security-with-new-integration/), to [supply chain management](https://www.forbes.com/sites/forbestechcouncil/2021/11/08/blockchain-in-supply-chain/?sh=73fa85bc4e1a) and the [provenance of physical goods](https://www.sciencedirect.com/science/article/abs/pii/S0007681319300084), to [on-chain education records](https://cointelegraph.com/news/us-education-department-promotes-putting-student-records-on-blockchain), blockchain’s public ledger and smart contract capabilities are propelling it far beyond its crypto use case. With its secure and transparent nature, we’ll explore how it can be used to help tackle some of the most important societal issues.
 
-## Not Just Pro-Blockchain — Optimistic Hubris
+## <div id="optimistic-hubris">Not Just Pro-Blockchain — Optimistic Hubris</div>
 
 While blockchain advocacy has found ample support from profit-seeking Silicon Valley investors and edge-seeking innovators, this optimistic belief is also shared by influential organisations responsible for shaping the global future. International institutions such as the [United Nations](https://www.undp.org/blog/realizing-blockchains-potential-social-impact), [World Economic Forum](https://www.weforum.org/agenda/2021/10/why-blockchain-is-the-key-to-meeting-the-sdgs/), and the [European Innovation Council](https://eic.ec.europa.eu/blockchains-social-good_en) have all advocated for the implementation of blockchain in achieving their stated goals.
 
@@ -73,7 +73,7 @@ For context, Bitcoin’s implementation as a digital money system (that’s the 
 
 Even the UN recognises [blockchain's potential to help fight climate change](https://www.socialalphafoundation.org/wp-content/uploads/2022/01/saf-blockchain-report-final-2022.pdf). This is just one of the use cases with positive societal implications — something we will explore in the coming section. Blockchain's role in the climate crisis may be unfairly characterised by BTCs relatively high energy use, and we now know that the conversation around blockchain efficiency and sustainability is more nuanced. While much of the public criticism has been not without good concern, it shouldn’t undermine the potential of blockchain.
 
-## Blockchain For Enhancing Social Good
+## <div id="enhancing-social-good">Blockchain For Enhancing Social Good</div>
 
 Beyond digital currencies like BTC, blockchain's secure, efficient, and transparent nature can be harnessed to address some of society's most pressing challenges. By efficiently providing trust and transparency, blockchain can promote new systems and applications that foster inclusivity and accountability.
 
@@ -96,7 +96,7 @@ As the [United Nations'](http://www.un.org/en/index.html) Grete Faremo states:
 
 > "The international community has yet to fully explore blockchain technology. Quite simply the potential is immense – more transparency and greater efficiency could deliver real benefits to billions of people." ([source: itchronicles](https://itchronicles.com/blockchain/world-identity-network/))
 
-## How NGOs, Nonprofits, & Charities Are Already Using Blockchain
+## <div id="blockchain-implementations">How NGOs, Nonprofits, & Charities Are Already Using Blockchain</div>
 
 ### Digital IDs & Social Equality
 
@@ -132,7 +132,7 @@ Effective governance within nonprofit organisations is vital for transparent dec
 
 [KlimaDAO](https://www.klimadao.finance/) is one of the first mission-driven organisations utilising blockchain in its governance and ownership structure. KlimaDAO was started to solve the problem of carbon credit market efficiencies — and, while controversial, it is an example of how organisations can align with stakeholders, allowing token holders to contribute by voting on key decisions. Ultimately this novel governance and decision-making structure may lead to more democratic and efficient resource allocation in both private enterprises and for nonprofit initiatives.
 
-## Blockchain, Nonprofits, & Trust
+## <div id="trust">Blockchain, Nonprofits, & Trust</div>
 
 We already understand the importance and diverse challenges faced by nonprofit organisations. We also have a good idea of how blockchain can be harnessed to address many of their challenges. In the end, trust is the most important factor for nonprofit organisations (and any organisation, really).
 
@@ -144,7 +144,7 @@ As [Fast Company](https://www.fastcompany.com/90289331/more-transparency-means-n
 
 Yikes. The survival and success of a nonprofit organisation are reliant on the trust of its stakeholders, and trust is low right now. Fortunately, we have a transparent and tamper-proof ledger that can help ensure that donations are tracked and allocated as promised.
 
-## The Future Is Good & It Is On-Chain
+## <div id="conclusion">The Future Is Good & It Is On-Chain</div>
 
 The planet is more connected than ever, with international trade, global challenges, planet-wide distribution networks, and interconnected systems that scale far and wide. The challenges we face as a society are more complex and greater than ever before, but blockchain’s potential in helping create a more transparent and inclusive world is an exciting one.
 
