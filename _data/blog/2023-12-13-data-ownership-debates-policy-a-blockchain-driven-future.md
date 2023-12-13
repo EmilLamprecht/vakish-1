@@ -13,17 +13,17 @@ author: Rachel Byfleet
 
 ### Table of Contents
 
-1. Defining Data Ownership
-2. Background and Current Debates about Data Ownership
-3. The GDPR and Data Ownership
-4. Government Surveillance and Data Ownership
-5. ePrivacy Regulation and Data Ownership
-6. Blockchain and Data Ownership
-7. Conclusion: What's next?
+1. [Defining Data Ownership](#definition)
+2. [Background and Current Debates about Data Ownership](#background-debates)
+3. [The GDPR and Data Ownership](#gdpr)
+4. [Government Surveillance and Data Ownership](#government-surveillance)
+5. [ePrivacy Regulation and Data Ownership](#eprivacy-regulation)
+6. [Blockchain and Data Ownership](#blockchain)
+7. [Conclusion: What's next?](#whats-next)
 
 - - -
 
-## Defining Data Ownership
+## <div id="definition">Defining Data Ownership</div>
 
 Who owns your data? Think location tracking, purchase patterns, search history, social media posts, the list goes on. Big tech companies are increasingly making money off of this valuable data and it begs the question: What right, if any, do individuals have over their data?
 
@@ -37,7 +37,7 @@ In short, data ownership for organisations centres on accountability and respons
 
 Unlike data governance, I initially thought data ownership to be slightly more straightforward in terms of what it looked like practically. However, there are several intricate frameworks, concepts, and again, EU regulations that are crucial to stay up to date with. Therefore, my goal with this article is to clarify what data ownership means amidst this changing landscape. I will begin by providing context surrounding current debates, explain how blockchain factors in, and end by discussing challenges and the future of data ownership. Hopefully by the end, you’ll have a comprehensive understanding about what this all means and why it’s important.
 
-## Background and Current Debates about Data Ownership
+## <div id="background-debates">Background and Current Debates about Data Ownership</div>
 
 Data ownership must strike a balance between increasing data availability, while ensuring individuals retain ownership and control. This has sparked numerous academic debates discussing whether data is, or should be, treated as a public good or as a property right. Some argue that data ownership is critical in the digital age, but there does not yet seem to be consensus on the practicalities. Others believe data should be used as a public good and therefore, be freely accessible. A third group argues that personal data protection is about privacy rights rather than ownership rights, thus having nothing to do with property [(Thouvenin & Tamò-Larrieux 2021)](https://www.cambridge.org/core/books/big-data-and-global-trade-law/data-ownership-and-data-access-rights/BC314C63C58A09C4B9C5D55894FE68C6).
 
@@ -47,7 +47,7 @@ Amidst these debates, the EU has developed strategies like the [European Digital
 
 While I have previously discussed the aforementioned EU policies at length, I haven’t yet dug into the [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR), government surveillance policies, and [ePrivacy Regulations](https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation). I’m hoping that by delving into these a bit more, I can provide better insight into the trade-offs surrounding open data innovation and individual privacy.
 
-## The GDPR and Data Ownership
+## <div id="gdpr">The GDPR and Data Ownership</div>
 
 The EU’s General Data Protection Regulation (GDPR) is likely the most well-known data-related regulation.  
 
@@ -63,7 +63,7 @@ The regulation outlines the need for individuals to provide clear consent to dat
 
 However, their paper also points out that the GDPR’s strong data protections can conflict with the EU’s efforts to foster free-flowing data as mentioned in its Data Governance Act. Nevertheless, the GDPR is an important step in the right direction of allowing individuals input on where and how their data is used.
 
-## Government Surveillance and Data Ownership
+## <div id="government-surveillance">Government Surveillance and Data Ownership</div>
 
 One of the most contentious areas of data ownership is around the topic of government surveillance powers and citizens’ ownership rights. Different countries have different implementations. The United States’ [FBI uses NITs (Network Investigative Techniques)](https://www.fbi.gov/investigate/cyber); the Russians use a [SORM system](https://cepa.org/article/russias-surveillance-state/) which allows authorities to monitor, analyse, and install malware; China has what’s known as the [“Great Firewall”](https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/FreeExpressionVsSocialCohesion/china_policy.html) that employs surveillance and censorship; and the Germans employ a [Staatstrojaner](https://edri.org/our-work/edrigramnumber10-20details-german-state-spyware-staatstrojaner/), or “state trojan,” which is a surveillance software that can be secretly installed on devices to monitor communications.
 
@@ -75,7 +75,7 @@ While there are greater limitations as to how the German police can use the Staa
 
 This exemplifies the push and pull between government power and individual data rights. I personally think government surveillance that infringes on personal data is comparable to private sector exploitation. In the same way I argue that organisations should respect user data, governments should also respect civil liberties as it ultimately increases trust.
 
-## ePrivacy Regulation and Data Ownership
+## <div id="eprivacy-regulation">ePrivacy Regulation and Data Ownership</div>
 
 Another regulation I want to touch on is one that is still being debated: the ePrivacy Regulation in the European Union. If implemented, the legislation would strengthen privacy regulations and expand to messaging platforms such as WhatsApp. Aligning to the position taken by the CCC, the regulation would impose strict oversight and limit when authorities can access communications data.
 
@@ -85,7 +85,7 @@ One approach to enable greater control is [the idea of micropayments for data us
 
 Although facing delays, the eRegulation has the right idea in limiting uncontrolled data usage and giving power back to users. The legislation is still slowly making its way through the legislative process and is one to keep an eye out for as it has the potential to work alongside the GDPR and ensure further ownership and control over data.
 
-## Blockchain and Data Ownership
+## <div id="blockchain">Blockchain and Data Ownership</div>
 
 Now, how does blockchain fit into all of this? In short: it provides a novel approach to enable effective data ownership. Rather than one organisation or entity controlling data, blockchain offers a decentralised solution where many participants in a network can take part. As summarised in [Business Matters](https://bmmagazine.co.uk/business/blockchain-and-the-complexities-of-data-ownership/), data stored on a blockchain is dispersed among several blocks that form an immutable chain. Pretty straightforward right? The ledger is copied to all participants on the network to ensure that there is no centralised point, thus making it near-impossible to tamper with the information stored.[ ](http://)
 
@@ -109,7 +109,7 @@ Nor is this to say that blockchain itself is without challenges. One major one i
 
 The platform also requires quite a high level of digital literacy, which might make it inaccessible to a lot of individuals and organisations. Organisations are likely to need additional expertise as they begin to navigate complex, new systems and integrate them into workflows. This is where software development and integration firms, like [mintBlue](https://mintblue.com/), are invaluable. They provide the expertise to empower users to integrate the systems into their everyday workflow — certainly worth considering when new organisations are navigating the complexities of a new system.
 
-## What’s next?
+## <div id="whats-next">What’s next?</div>
 
 As we’ve explored, establishing frameworks around data ownership represents an urgent need when it comes to balancing innovation and privacy. As society becomes ever more integrated with the digital world, our personal information will hold more and more value. Putting individuals back in control of their data can no longer remain in question.
 
