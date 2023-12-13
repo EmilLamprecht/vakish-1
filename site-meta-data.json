@@ -8,20 +8,20 @@
     "description": "My blog about the future of blockchain, and how it should (and absolutely shouldn't) be used.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
-    "primaryColor": "#EB6625",
-    "linkHoverColor": "#60C3E2",
-    "navLinkHoverColor": "#60C3E2",
-    "navLinkColor": "#EB6625",
+    "primaryColor": "#148B8E",
+    "linkHoverColor": "#43C6AC",
+    "navLinkHoverColor": "#43C6AC",
+    "navLinkColor": "#148B8E",
     "linkColor": "#EB6625",
-    "darkModeLinkColor": "",
-    "darkModeLinkHoverColor": "",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
-    "secondaryColor": "#60C3E2",
-    "googleFontName": "Montserrat', sans-serif;",
-    "ctaColor": "#EB6625",
-    "primaryTextColor": "#000000",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400;1,500&display=swap",
+    "secondaryColor": "#43C6AC",
+    "darkModeLinkColor": "#43C6AC",
+    "googleFontName": "'Sofia Sans', sans-serif;",
+    "ctaColor": "#148B8E",
+    "primaryTextColor": "#022728",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#EB6625"
+    "ctaHoverColor": "#43C6AC",
+    "darkModeLinkHoverColor": "#148B8E"
   },
   "navlinks": {
     "links": [
