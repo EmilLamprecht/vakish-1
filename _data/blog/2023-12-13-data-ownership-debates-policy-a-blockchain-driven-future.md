@@ -9,6 +9,20 @@ metaDescription: Defining data ownership. Demonstrating debates and (EU) policy
   ownership.
 author: Rachel Byfleet
 ---
+- - -
+
+## Table of Contents
+
+1. Defining Data Ownership
+2. Background and Current Debates about Data Ownership
+3. The GDPR and Data Ownership
+4. Government Surveillance and Data Ownership
+5. ePrivacy Regulation and Data Ownership
+6. Blockchain and Data Ownership
+7. Conclusion: What's next?
+
+- - -
+
 ## Defining Data Ownership
 
 Who owns your data? Think location tracking, purchase patterns, search history, social media posts, the list goes on. Big tech companies are increasingly making money off of this valuable data and it begs the question: What right, if any, do individuals have over their data?
