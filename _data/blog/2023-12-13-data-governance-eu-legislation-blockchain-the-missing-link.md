@@ -10,7 +10,7 @@ author: Rachel Byfleet
 ---
 - - -
 
-## Table of Contents
+### Table of Contents
 
 1. What Is Data Governance and Why Is It Important?
 2. Data Governance Principles
