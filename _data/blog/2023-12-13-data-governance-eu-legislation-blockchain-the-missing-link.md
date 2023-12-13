@@ -12,17 +12,17 @@ author: Rachel Byfleet
 
 ### Table of Contents
 
-1. [What Is Data Governance and Why Is It Important?](#whatis)
-2. Data Governance Principles
-3. Data Governance and Blockchain
-4. EU Data Governance Policies
-5. Data Governance Challenges and Trends
-6. Conclusion: Where Does That Leave Things?
-7. References
+1. [What Is Data Governance and Why Is It Important?](#what-is)
+2. [Data Governance Principles](#principles)
+3. [Data Governance and Blockchain](#blockchain)
+4. [EU Data Governance Policies](#eu-policies)
+5. [Data Governance Challenges and Trends](#challenges-trends)
+6. [Conclusion: Where Does That Leave Things?](#conclusion)
+7. [References](#references)
 
 - - -
 
-## <div id="whatis">What Is Data Governance and Why Is It Important?</div>
+## <div id="what-is">What Is Data Governance and Why Is It Important?</div>
 
 As data evolves and grows increasingly more valuable, effective data governance is essential for businesses and governments alike. More data is being collected than ever before and staying up to date with existing regulations, embracing new technology, and participating in future policy initiatives will be crucial to drive innovation forward.
 
@@ -36,7 +36,7 @@ Now, two challenges emerge: organisations must keep pace with new legislation, a
 
 My aim is to provide a comprehensive narrative to make understanding data governance a bit easier, while highlighting a few principles to help create a robust framework. I’ll also delve into the latest governmental regulations, such as the Data Governance Act, underscore blockchain’s potential in the context of data governance, and offer recommendations for navigating the ever-changing data landscape.
 
-## Data Governance Principles
+## <div id="principles">Data Governance Principles</div>
 
 Many organisations are drowning in the data they collect. It is therefore essential to lend brain power and resources to data governance.
 
@@ -64,7 +64,7 @@ It is also worth noting the difference between data governance and data manageme
 
 In short, data governance is just one part of the overarching theme of data management. It puts in place policies and processes when it comes to data ownership and accountability. Data management, on the other hand, is more operational and acts as an umbrella term that encompasses other aspects such as data security, data quality, and data analytics and reporting. It is important to get the language right here.
 
-## Data Governance and Blockchain
+## <div id="blockchain">Data Governance and Blockchain</div>
 
 So far, I’ve gone over what data governance is and key principles to consider when building a framework.  But the question remains: What tool can ensure that data is accessible, secure, and transparent? The answer, I think, lies in blockchain.
 
@@ -84,7 +84,7 @@ International bodies such as the Organisation for Economic Co-operation and Deve
 
 > “Mind-blowing advances in computing and communication technologies continually give rise to new risks related to cybersecurity, privacy protection, and oligopolistic concentration in information control. Whatever the potential tangible value of blockchains may be in everyday life, studying the issue will certainly be very useful for businesses and policy makers in updating their mindsets and to keep abreast of the pros and cons, and the opportunities and challenges, of new technologies.”
 
-## EU Data Governance Policies
+## <div id="eu-policies">EU Data Governance Policies</div>
 
 To add another level of complexity to this topic, there are several EU policies relating to data governance that organisations need to be aware of. Having dug into the nitty gritty of this topic, my aim is to make this as digestible as possible.
 
@@ -112,7 +112,7 @@ The DGA presents four focus pillars — and many of them have significant overla
 
 The EU has been rolling out several new initiatives to encourage sharing and re-using data to foster innovation and collaboration. And again, I believe regulations can be further propelled forward by having blockchain as its backbone. The immutable ledgers, transparency, and ability to track data can help further facilitate data sharing and cross collaboration between different sectors.
 
-## Data Governance Challenges and Trends
+## <div id="challenges-trends">Data Governance Challenges and Trends</div>
 
 Data governance faces challenges both on an international and organisational level. Some of the key challenges include data privacy, change management, data ownership, and accountability. Data privacy, for instance, will need to align seamlessly with all other regulations, such as the GDPR.
 
@@ -126,11 +126,11 @@ As data management and data governance become a more integrated part of every or
 
 There are experts, such as mintBlue, who have set out to empower a greater use of blockchain capabilities that can assist with data governance frameworks. These experts set out to help revolutionise data management through streamlining information and making it a lot easier to control. Gaining insights from them can only serve to help businesses prepare and structure frameworks for better data insights and increased ROI.
 
-## Where Does That Leave Things?
+## <div id="conclusion">Where Does That Leave Things?</div>
 
 Data governance is no longer a trend but a necessity for organisations. Large amounts of data come with a lot of responsibility. Building cutting-edge technology, such as blockchain, into data governance frameworks can help streamline processes well into the future. While there is still a long way to go in terms of finding a consistent technology across industries for data sharing, blockchain is here to stay. It can play an increasingly prominent role, and, if managed correctly, can evolve alongside policies like the DGA.  By combining data governance with blockchain, leaders can be at the forefront of the future of data governance. This is only the beginning of unlocking the potential of data sharing in a digital world.
 
-## References
+## <div id="references">References</div>
 
 * OECD - "Blockchain Technology and Corporate Governance"
 * UK Government Office for Science - "Distributed Ledger Technology: beyond block chain"
