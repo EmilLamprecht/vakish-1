@@ -7,6 +7,10 @@ metaDescription: Understanding data ownership through the example of
   blockchain-driven micro-communities and micropayments.
 author: George Siosi Samuels
 ---
+
+
+- - -
+
 ### Table of Contents
 
 1. Introduction
@@ -18,6 +22,8 @@ author: George Siosi Samuels
 7. The Silent Revolution in the Realm of Data Ownership
 8. Conclusion
 9. Epilogue: Charting the Course in the Ocean of Data Ownership
+
+- - -
 
 ## Introduction
 
