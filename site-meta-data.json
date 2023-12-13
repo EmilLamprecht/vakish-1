@@ -17,10 +17,10 @@
     "secondaryColor": "#43C6AC",
     "darkModeLinkColor": "#43C6AC",
     "googleFontName": "'Sofia Sans', sans-serif;",
-    "ctaColor": "#148B8E",
+    "ctaColor": "#43C6AC",
     "primaryTextColor": "#022728",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#43C6AC",
+    "ctaHoverColor": "#148B8E",
     "darkModeLinkHoverColor": "#148B8E"
   },
   "navlinks": {
