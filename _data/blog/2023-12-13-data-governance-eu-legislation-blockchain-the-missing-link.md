@@ -20,7 +20,7 @@ author: Rachel Byfleet
 
 - - -
 
-## What Is data governance and Why Is It Important?
+## What Is Data Governance and Why Is It Important?
 
 As data evolves and grows increasingly more valuable, effective data governance is essential for businesses and governments alike. More data is being collected than ever before and staying up to date with existing regulations, embracing new technology, and participating in future policy initiatives will be crucial to drive innovation forward.
 
