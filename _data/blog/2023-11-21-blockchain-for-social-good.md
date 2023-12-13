@@ -3,9 +3,24 @@ template: BlogPost
 path: /blockchain-for-social-good/
 date: 2023-11-21T15:30:36.530Z
 title: Blockchain For Social Good
+metaDescription: How nonprofits, NGOs, & charities are addressing global
+  challenges with blockchain. Pros, cons, and real-world examples.
 author: Sam Liddell
 ---
-## How nonprofits, NGOs, and charities are addressing global challenges with blockchain
+- - -
+
+### Table of Contents
+
+1. How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain
+2. Not Just Pro-Blockchain — Optimistic Hubris
+3. Blockchain For Enhancing Social Good
+4. How NGOs, Nonprofits, & Charities Are Already Using Blockchain
+5. Blockchain, Nonprofits, & Trust
+6. Conclusion: The Future Is Good & It Is On-Chain
+
+- - -
+
+## How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain
 
 Blockchain is a distributed ledger technology that was originally designed to provide a secure and transparent way to record and verify transactions in a decentralised manner. While a lot has been said about blockchain’s “crypto” use-case recently, blockchain seems to be largely misunderstood, mischaracterised, and under-appreciated for its real-world applications and potential for social good.
 
