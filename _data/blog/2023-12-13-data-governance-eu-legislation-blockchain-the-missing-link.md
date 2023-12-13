@@ -12,7 +12,7 @@ author: Rachel Byfleet
 
 ### Table of Contents
 
-1. What Is Data Governance and Why Is It Important?
+1. [What Is Data Governance and Why Is It Important?](#whatis)
 2. Data Governance Principles
 3. Data Governance and Blockchain
 4. EU Data Governance Policies
@@ -22,7 +22,7 @@ author: Rachel Byfleet
 
 - - -
 
-## What Is Data Governance and Why Is It Important?
+## <div id="whatis">What Is Data Governance and Why Is It Important?</div>
 
 As data evolves and grows increasingly more valuable, effective data governance is essential for businesses and governments alike. More data is being collected than ever before and staying up to date with existing regulations, embracing new technology, and participating in future policy initiatives will be crucial to drive innovation forward.
 
