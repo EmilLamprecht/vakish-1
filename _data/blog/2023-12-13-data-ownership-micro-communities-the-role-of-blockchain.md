@@ -119,7 +119,7 @@ As we delve deeper, it’s evident that blockchain’s role transcends the confi
 
 In the music industry, blockchain-based micropayments offer an interesting opportunity for music artists. They provide artists with a fairer and more transparent way to monetize their work. With traditional payment systems, artists often face challenges in receiving their rightful earnings due to intermediaries and complex royalty structures. However, blockchain technology enables direct P2P transactions, allowing artists to receive immediate and transparent payments for their music. This not only empowers artists financially but also promotes a more equitable and sustainable music ecosystem. By leveraging blockchain-based micropayments, artists can better control their revenue streams and build direct relationships with their fans, leading to a more vibrant and artist-centric music industry.
 
-### *[How Blockchain Can Solve the Music Industry's AI Problem (by Inder Phull)](https://variety.com/2023/music/opinion/blockchain-music-industry-ai-1235696366/)*
+### **→** *[How Blockchain Can Solve the Music Industry's AI Problem (by Inder Phull)](https://variety.com/2023/music/opinion/blockchain-music-industry-ai-1235696366/)*
 
 Another example of blockchain being useful for data ownership comes from [mintBlue](https://mintblue.com/). MintBlue is a platform that provides an enterprise-first SDK for product teams in need of absolute data control. Making it easy to implement immutable storage and identity authentication at scale.
 
