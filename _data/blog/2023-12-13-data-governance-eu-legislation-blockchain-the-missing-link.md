@@ -3,9 +3,22 @@ template: BlogPost
 path: /data-governance/
 date: 2023-12-13T12:00:42.879Z
 title: "Data Governance & EU Legislation: Blockchain = the missing link?"
+metaDescription: Principles of data governance. Overview of EU legislation,
+  especially the Data Governance Act. The potential of blockchain as a medium
+  for streamlining data governance.
 author: Rachel Byfleet
 ---
-## What is data governance and why is it important?
+## Table of Contents
+
+1. What Is Data Governance and Why Is It Important?
+2. Data Governance Principles
+3. Data Governance and Blockchain
+4. EU Data Governance Policies
+5. Data Governance Challenges and Trends
+6. Conclusion: Where Does That Leave Things?
+7. References
+
+## What Is data governance and Why Is It Important?
 
 As data evolves and grows increasingly more valuable, effective data governance is essential for businesses and governments alike. More data is being collected than ever before and staying up to date with existing regulations, embracing new technology, and participating in future policy initiatives will be crucial to drive innovation forward.
 
@@ -109,7 +122,7 @@ As data management and data governance become a more integrated part of every or
 
 There are experts, such as mintBlue, who have set out to empower a greater use of blockchain capabilities that can assist with data governance frameworks. These experts set out to help revolutionise data management through streamlining information and making it a lot easier to control. Gaining insights from them can only serve to help businesses prepare and structure frameworks for better data insights and increased ROI.
 
-## Where does that leave things?
+## Where Does That Leave Things?
 
 Data governance is no longer a trend but a necessity for organisations. Large amounts of data come with a lot of responsibility. Building cutting-edge technology, such as blockchain, into data governance frameworks can help streamline processes well into the future. While there is still a long way to go in terms of finding a consistent technology across industries for data sharing, blockchain is here to stay. It can play an increasingly prominent role, and, if managed correctly, can evolve alongside policies like the DGA.  By combining data governance with blockchain, leaders can be at the forefront of the future of data governance. This is only the beginning of unlocking the potential of data sharing in a digital world.
 
