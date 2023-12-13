@@ -13,19 +13,19 @@ author: George Siosi Samuels
 
 ### Table of Contents
 
-1. Introduction
-2. Understanding Blockchain
-3. Blockchain's Ancient Origins
-4. The Rise of Small-World Networks
-5. Micro-Communities: The Unsung Heroes in the Saga of Data Ownership
-6. Micropayments: The Threads Weaving the Economic Fabric of Micro-Communities
-7. The Silent Revolution in the Realm of Data Ownership
-8. Conclusion
-9. Epilogue: Charting the Course in the Ocean of Data Ownership
+1. [Introduction](#introduction)
+2. [Understanding Blockchain](#understanding-blockchain)
+3. [Blockchain's Ancient Origins](#blockchains-ancient-origins)
+4. [The Rise of Small-World Networks](#rise-of-small-world-networks)
+5. [Micro-Communities: The Unsung Heroes in the Saga of Data Ownership](#micro-communities)
+6. [Micropayments: The Threads Weaving the Economic Fabric of Micro-Communities](#micropayments)
+7. [The Silent Revolution in the Realm of Data Ownership](#silent-revolution)
+8. [Conclusion](#conclusion)
+9. [Epilogue: Charting the Course in the Ocean of Data Ownership](#charting-the-course)
 
 - - -
 
-## Introduction
+## <div id="introduction">Introduction</div>
 
 In the vast digital expanse where data flows like the lifeblood of our interconnected world, understanding who holds the reins to this immense power becomes crucial. Blockchain, a new digital plumbing infrastructure, transforms our understanding and interaction with data. It’s not just a technological marvel; it’s a paradigm shift in data ownership.
 
@@ -33,7 +33,7 @@ Blockchain might have first appeared on the stage as the underlying technology f
 
 It’s a technology that doesn’t just manage data; it redefines its very ownership.
 
-## Understanding Blockchain
+## <div id="understanding-blockchain">Understanding Blockchain</div>
 
 Blockchain is often described in various ways, so let’s explore some of the most popular, then our own.
 
@@ -45,7 +45,7 @@ And in the original design of Bitcoin, groups called “miners” get rewarded f
 
 > “Blockchain miners are individuals who have the computer hardware and appropriate software needed to mine digital currencies or solve complex mathematical problems. The mining process is referred to as “proof-of-work” (proof-of-work, PoW), which is one of many ways to secure a blockchain.”
 
-## Blockchain's Ancient Origins
+## <div id="blockchains-ancient-origins">Blockchain's Ancient Origins</div>
 
 If we move further back in history, there’s a interesting story about a Micronesian population known as the Yapese. According to a story depicted by Australia’s Westpac bank, the Yapese were one of the earliest groups to attempt a blockchain-like system to record transactions — using just their own memories, nothing digital.
 
@@ -63,7 +63,7 @@ And so imagine each change in the above right column, being a “transaction” 
 
 Most people do not think about the ramifications of this, but this is an example of how blockchain technology truly brings power “back to the people” — or at least levels the playing field.
 
-## The Rise of Small-World Networks
+## <div id="rise-of-small-world-networks">The Rise of Small-World Networks</div>
 
 ![](/assets/mandala2.jpg)
 
@@ -81,7 +81,7 @@ So blockchain isn’t just about securing data, it’s also about redistributing
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Micro-communities are —ironically— becoming a big thing. <br><br>Dive into the world of niche online communities and discover their life-changing potential. From monetization to deep connections, it&#39;s all here. <br><br>And it&#39;s getting easier and easier to start. <a href="https://t.co/tvHM71SQAs">https://t.co/tvHM71SQAs</a> <a href="https://t.co/W9X40wSgK8">pic.twitter.com/W9X40wSgK8</a></p>&mdash; Arvid Kahl (@arvidkahl) <a href="https://twitter.com/arvidkahl/status/1712815910388466144?ref_src=twsrc%5Etfw">October 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Micro-Communities: The Unsung Heroes in the Saga of Data Ownership
+## <div id="micro-communities">Micro-Communities: The Unsung Heroes in the Saga of Data Ownership</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYcOLSHOsEo?si=__75OlHv_XRo6fOy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ In these micro-communities, blockchain emerges as a beacon of trust and transpar
 
 Blockchain also pioneers a new economy within these micro-communities – an economy where data is not just a commodity but a currency. This isn’t about big corporations monetizing data; it’s about the individual, the creator, the member, reclaiming their right to their digital footprint.
 
-## Micropayments: The Threads Weaving the Economic Fabric of Micro-Communities
+## <div id="micropayments">Micropayments: The Threads Weaving the Economic Fabric of Micro-Communities</div>
 
 In this digital tapestry, micropayments are the fine threads that bind the economic fabric of micro-communities. These are not just transactions; they are the subtle exchanges that fuel the growth and sustainability of these groups.
 
@@ -113,7 +113,7 @@ This is also why blockchain would be a great solution for AI systems, because th
 
 Through blockchain-based micropayments, collaborative endeavors find new life. Here, pooling resources isn’t just about gathering funds; it’s about enabling individuals, easing the ability to trade online, and providing a trustworthy network to do it on.
 
-## The Silent Revolution in the Realm of Data Ownership
+## <div id="silent-revolution">The Silent Revolution in the Realm of Data Ownership</div>
 
 As we delve deeper, it’s evident that blockchain’s role transcends the confines of digital currency. It’s a somewhat silent revolution, reshaping the landscape of data ownership, turning each participant into a guardian, a custodian of their digital identity.
 
@@ -125,7 +125,7 @@ Another example of blockchain being useful for data ownership comes from [mintBl
 
 In March of 2023, they held a world record for most number of transactions on a Proof-of-Work (PoW) blockchain. They hit a [whopping 50 million transactions in 24 hours](https://mintblue.com/world-record-transactions-push/) — a level needed for a future where scaleable transaction processing will become paramount.
 
-## Conclusion
+## <div id="conclusion">Conclusion</div>
 
 In this new era, blockchain rewrites the rules of data management. It’s not about storing data; it’s about stewarding it. In today’s paradigm, there is a lot of worry around “who’s” hosting our data (e.g. Microsoft Azure, Amazon Web Servers, etc.). However, in a blockchain world, our data is distributed across multiple data servers via the blockchain. No one company is responsible for hosting all your data, but they can be involved in the process of validating transactions (just like a bank does today, but in a more “decentralized” manner).
 
@@ -133,7 +133,7 @@ This type of future system, where control is sufficiently decentralized, has eve
 
 In a blockchain-driven economy, data ownership is given back to the people. It’s a world where each individual becomes an entrepreneur of their own data, navigating the digital marketplace with the confidence of ownership and the power of control.
 
-## Charting the Course in the Ocean of Data Ownership
+## <div id="charting-the-course">Charting the Course in the Ocean of Data Ownership</div>
 
 As we stand at the crossroads of this digital evolution, blockchain emerges as more than just a technology; it’s a compass guiding us through the complex seas of data ownership. It’s a journey of empowerment, of reclaiming control in a world where data is as valuable as gold.
 
