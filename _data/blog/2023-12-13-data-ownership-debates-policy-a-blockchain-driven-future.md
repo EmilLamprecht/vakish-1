@@ -11,7 +11,7 @@ author: Rachel Byfleet
 ---
 - - -
 
-## Table of Contents
+### Table of Contents
 
 1. Defining Data Ownership
 2. Background and Current Debates about Data Ownership
