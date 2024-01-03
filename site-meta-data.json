@@ -2,26 +2,26 @@
   "title": "Blockchainvision.io",
   "siteUrl": "https://blockchainvision.io/",
   "description": "Welcome to Blockchainvision.io, where I talk about the future of blockchain, and how it should (and absolutely shouldn't) be used.",
-  "logo": "/assets/blockchainvision_black_vertical.png",
+  "logo": "/assets/blockchainvision_logo-horizontal.png",
   "home": {
     "title": "Welcome to Blockchainvision.io",
     "description": "My blog about the future of blockchain, and how it should (and absolutely shouldn't) be used.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#148B8E",
-    "linkHoverColor": "#43C6AC",
-    "navLinkHoverColor": "#43C6AC",
-    "navLinkColor": "#148B8E",
-    "linkColor": "#0A5557",
+    "linkHoverColor": "#186E5D",
+    "navLinkHoverColor": "#186E5D",
+    "navLinkColor": "#43C6AC",
+    "linkColor": "#43C6AC",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400;1,500&display=swap",
     "secondaryColor": "#43C6AC",
     "darkModeLinkColor": "#43C6AC",
     "googleFontName": "'Sofia Sans', sans-serif;",
-    "ctaColor": "#43C6AC",
+    "ctaColor": "#022728",
     "primaryTextColor": "#022728",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#148B8E",
-    "darkModeLinkHoverColor": "#148B8E"
+    "ctaHoverColor": "#022728",
+    "darkModeLinkHoverColor": "#186E5D"
   },
   "navlinks": {
     "links": [
