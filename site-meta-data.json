@@ -2,26 +2,26 @@
   "title": "Goodledger.io",
   "siteUrl": "https://goodledger.io/",
   "description": "Welcome to Goodledger.io, where we talk about social good, and the potential impact of technology on the world.",
-  "logo": "",
+  "logo": "/assets/goodledger-mainlogo-72dpi-fullcolor.png",
   "home": {
     "title": "Welcome to Goodledger.io",
     "description": "This is my blog about social good, and the potential impact of technology on the world.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#EB6625",
-    "linkHoverColor": "#60C3E2",
-    "navLinkHoverColor": "#60C3E2",
-    "navLinkColor": "#EB6625",
-    "linkColor": "#EB6625",
-    "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap",
-    "secondaryColor": "#60C3E2",
-    "darkModeLinkColor": "#BF40BF",
-    "googleFontName": "Montserrat', sans-serif;",
-    "ctaColor": "#EB6625",
+    "linkHoverColor": "#AF4CF7",
+    "navLinkHoverColor": "#07B9ED",
+    "navLinkColor": "#3A3D40",
+    "linkColor": "#07B9ED",
+    "googleFontImport": "https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;700&display=swap",
+    "secondaryColor": "#3A3D40",
+    "darkModeLinkColor": "#07B9ED",
+    "googleFontName": "'Mukta', sans-serif;",
+    "ctaColor": "#07B9ED",
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#EB6625",
-    "darkModeLinkHoverColor": "#800020\t"
+    "ctaHoverColor": "#3A3D40",
+    "darkModeLinkHoverColor": "#07B9ED"
   },
   "navlinks": {
     "links": [
