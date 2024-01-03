@@ -17,10 +17,10 @@
     "secondaryColor": "#3A3D40",
     "darkModeLinkColor": "#07B9ED",
     "googleFontName": "'Mukta', sans-serif;",
-    "ctaColor": "#07B9ED",
+    "ctaColor": "#3A3D40",
     "primaryTextColor": "#000000",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#3A3D40",
+    "ctaHoverColor": "#FFFFFF",
     "darkModeLinkHoverColor": "#07B9ED"
   },
   "navlinks": {
