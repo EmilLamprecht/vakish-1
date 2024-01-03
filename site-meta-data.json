@@ -8,7 +8,7 @@
     "description": "This is my blog about social good, and the potential impact of technology on the world.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
-    "primaryColor": "#EB6625",
+    "primaryColor": "#07B9ED",
     "linkHoverColor": "#AF4CF7",
     "navLinkHoverColor": "#07B9ED",
     "navLinkColor": "#3A3D40",
