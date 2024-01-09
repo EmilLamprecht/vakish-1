@@ -8,8 +8,6 @@ metaDescription: In-depth discussion of blockchain's potentials and risks in
   recognition, and a primer on blockchain.
 author: Sam Liddell
 ---
-
-
 - - -
 
 ### Table of Contents
@@ -23,17 +21,15 @@ author: Sam Liddell
 7. [The Other Side of the Coin: Blockchain's Challenges](#blockchains-challenges)
 8. [Blockchain's Food Provenance Potential](#blockchains-potential)
 
-
-
 - - -
 
 ## <div id="ensuring-integrity-identity">How Blockchain Can Help Ensure Food Integrity and Identity</div>
 
 You’re sitting at the dinner table. You take your eating utensils — a fork or spoon, maybe a hand or chopsticks — and you insert a mouthful of \[insert your favourite food here]. Do you know where your food comes from? Do you know that it’s safe to eat? Do you know that it was ethically and sustainably produced? ... Do you actually care?
 
-Maybe you would say: "I got the vegetables from the organic grocer down the road. The meat came from the butcher, and the condiments are an accumulation of months (or years) of random supermarket trips."
+Maybe you would say: *"I got the vegetables from the organic grocer down the road. The meat came from the butcher, and the condiments are an accumulation of months (or years) of random supermarket trips."*
 
-Okay, but where does the grocer get the veges? A... local farm? Or a factory in the Netherlands? Were they produced and harvested with love and care or were they the result of a hyper-efficient fossil-fuel-driven industrial process? With a raised eyebrow, you might ask: "How would I know?"
+Okay, but where does the grocer get the veges? A... local farm? Or a factory in the Netherlands? Were they produced and harvested with love and care or were they the result of a hyper-efficient fossil-fuel-driven industrial process? With a raised eyebrow, you might ask: *"How would I know?"*
 
 Since you're reading this, you probably do ask these questions and you most likely care about the answers. Some would say this is a luxury problem, and they wouldn’t be entirely wrong. For many, just getting food on the table is the challenge of the day. For others, concerns about dolphin safety, the rainforest, or pesticide-free products might be front of mind.
 
@@ -41,7 +37,7 @@ These potentially "luxury problems" have very real implications for those impact
 
 ## <div id="food-integrity-importance">The Importance of Ensuring Food Integrity & Identity</div>
 
-How much insight does the average person have into what's on their plate? Do we know our dolphin-friendly tuna is actually dolphin-friendly? How do we know if that chocolate bar just cost us a chunk of rainforest? Or if those harvesting the beans were fairly treated? Where would you look to find this information? And would you even trust this information if you could find it?
+How much insight does the average person have into what's on their plate? Do we know our dolphin-friendly tuna is *actually* dolphin-friendly? How do we know if that chocolate bar just cost us a chunk of rainforest? Or if those harvesting the beans were fairly treated? Where would you look to find this information? And would you even trust this information if you could find it?
 
 I'm sure no one wants to think about a dead dolphin when they're eating their sushi lunch. And I'm certain no one wants to enslave people or destroy a rainforest to satisfy their sweet tooth. But I'm also sure that the average consumer, wholesaler, and retailer don’t have the time or ability to research everything that comes across their plates or shelves.
 
@@ -55,7 +51,7 @@ The global food system is complex and has far reaching effects. It is a major co
 
 [WWF International Director General, Marco Lambertini](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) has said:
 
-> "Unsustainable production of food and goods is a major driver of environmental damage and some of the worst supply chains remain rife with human rights issues."
+> *"Unsustainable production of food and goods is a major driver of environmental damage and some of the worst supply chains remain rife with human rights issues."*
 
 One of our largest fresh food baskets is under serious threat. Our oceans are threatened by illegal overfishing, a big business — [encompassing up to 30% or more for catch of high-value species](https://www.worldwildlife.org/stories/overfishing-puts-more-than-one-third-of-all-sharks-rays-and-chimaeras-at-risk-of-extinction). Illegal overfishing [nets up to $36.4 billion each year](https://www.worldwildlife.org/stories/overfishing-puts-more-than-one-third-of-all-sharks-rays-and-chimaeras-at-risk-of-extinction) for criminals, whilst putting more [than one-third of all sharks, rays, and chimeras at risk of extinction](https://www.worldwildlife.org/stories/overfishing-puts-more-than-one-third-of-all-sharks-rays-and-chimaeras-at-risk-of-extinction). These [illegal, unreported, and unregulated hauls](https://www.worldwildlife.org/threats/overfishing) move through opaque supply chains, traversing murky waters from illegal fishing trawlers through to (possibly unwitting) wholesalers and on to unsuspecting consumers all around the world.
 
@@ -67,7 +63,7 @@ Following Russia's invasion of Ukraine in 2022, the [World Bank made $45 billion
 
 The [World Bank's Vice President for Eastern and Southern Africa](https://www.worldbank.org/en/news/press-release/2022/06/21/world-bank-approves-2-3-billion-program-to-address-escalating-food-insecurity-in-eastern-and-southern-africa), Hafez Ghanem, has said:
 
-> "Ensuring regional coordination in addressing the challenges posed by climate change, market volatility, and the need for food policy reform constitute key priorities."
+> *"Ensuring regional coordination in addressing the challenges posed by climate change, market volatility, and the need for food policy reform constitute key priorities."*
 
 Food is a global resource — [grain grown in Ukraine isn't only destined for Ukrainian dinner plates](https://www.weforum.org/agenda/2022/07/ukraine-s-food-exports-by-the-numbers/), and [tomatoes grown in Dutch factories aren't only destined for the Dutch market](https://www.washingtonpost.com/business/interactive/2022/netherlands-agriculture-technology/). Food is global, and the security of food is a global issue requiring large-scale regional coordination.
 
@@ -79,7 +75,7 @@ Collaboration between governments, food producers, and consumers is needed to he
 
 [The World Health Organisations Director-General](https://www.who.int/news/item/03-12-2015-who-s-first-ever-global-estimates-of-foodborne-diseases-find-children-under-5-account-for-almost-one-third-of-deaths) has said:
 
-> "Knowing which food-borne pathogens are causing the biggest problems in which parts of the world can generate targeted action by the public, governments, and the food industry."
+> *"Knowing which food-borne pathogens are causing the biggest problems in which parts of the world can generate targeted action by the public, governments, and the food industry."*
 
 Understanding the origins, quality, and ingredients of our food not only guides us towards safer food products, but it also enables us to identify when and where things go wrong — thereby providing accountability and leading us towards safer food for everyone.
 
@@ -91,7 +87,7 @@ Labels like "Organic" don’t just command a premium price, they signal that a [
 
 Senior manager of the foods program at the U.S. Pharmacopeial Convention, [Kristie Laurvick, agrees](https://www.cnbc.com/2023/01/15/food-fraud-secretly-infiltrates-america-heres-how-you-can-avoid-it-.html):
 
-> "We might not know the overall impact of food fraud because so much of what fraudsters do is hidden from us and has been for centuries."
+> *"We might not know the overall impact of food fraud because so much of what fraudsters do is hidden from us and has been for centuries."*
 
 This mislabeling and deceit is not only bad for legitimate businesses, but it misleads consumers and potentially exposes people to unsafe products. How much trust can we put on food labels? And how can we combat food fraud to ensure we know what we're putting on our plates and in our bodies?
 
@@ -99,7 +95,7 @@ This mislabeling and deceit is not only bad for legitimate businesses, but it mi
 
 ### How the Hell is Blockchain Going to Help Us?
 
-Look author — how am I supposed to use blockchain to put food on the table? I hear you, dear reader.
+*Look author — how am I supposed to use blockchain to put food on the table?* I hear you, dear reader.
 
 When you tap your phone or swipe your card and the shopkeeper hands you your goods — do you know what happened behind the swipe or tap that resulted in that bag of goods being transferred to your hot little hands? Unless you're in banking, software, or systems integration, you probably don't know exactly what magic just happened — but you smile and say thank you, anyway.
 
@@ -145,7 +141,7 @@ Similarly, [Picasso's piece Marie-Thérèse went for a whopping $103m at Christi
 
 Both of these sales represent the purchase of an asset with an agreed-upon value — but there are some stark differences. How do we know the art is genuine? How do we verify who created it? And who may have owned it along the way? These are important questions for determining an art piece's legitimacy (and value).
 
-With the Picasso, we would probably need to hire an expensive forensics team and some art historians to inspect the piece. With the $69m NFT, we can simply jump on the internet and [look at the wallet (account)](https://etherscan.io/address/0xc6b0562605d35ee710138402b878ffe6f2e23807). We can then see the entire transaction history for the account, including the original transaction that created the NFT and any transactions since. This is the inherent provenance provided by assets stored on a blockchain. Blockchain's transparent public ledger allows us to identify the owner, verify its authenticity, and provides full transparency of the movements of the asset.
+With the Picasso, we would probably need to hire an expensive forensics team and some art historians to inspect the piece. With the $69m NFT, we can simply jump on the internet and [look at the wallet (account)](https://etherscan.io/address/0xc6b0562605d35ee710138402b878ffe6f2e23807). We can then see the entire transaction history for the account, including the original transaction that created the NFT and any transactions since. *This is the inherent provenance provided by assets stored on a blockchain.* Blockchain's transparent public ledger allows us to identify the owner, verify its authenticity, and provides full transparency of the movements of the asset.
 
 By now, you're probably starting to get an idea of where we're going with this. Let's take a look at the high level support blockchain is receiving, some real-world examples, and criticisms of blockchain in the food supply chain.
 
@@ -159,11 +155,11 @@ They have successfully tested blockchain-based solutions on the Indonesian tuna 
 
 [The UN's Tatsiana Hulko has recognised blockchain's potential for social impact](https://www.undp.org/blog/realizing-blockchains-potential-social-impact):
 
-> "From helping those with limited access to bank accounts to tracking tuna – the applications are broad."
+> *"From helping those with limited access to bank accounts to tracking tuna – the applications are broad."*
 
 [The World Economic Forum](https://www.weforum.org/agenda/2022/09/could-blockchain-help-track-outbreaks-like-e-coli-in-spinach/) has also agreed:
 
-> "Blockchain’s ability to capture data along the supply chain makes it a fast and efficient way to pinpoint where contamination or other safety issues may have originated."
+> *"Blockchain's ability to capture data along the supply chain makes it a fast and efficient way to pinpoint where contamination or other safety issues may have originated."*
 
 ## <div id="use-cases">Blockchain Food Provenance Use Cases</div>
 
@@ -181,13 +177,13 @@ Global supply chains are intricate and sprawling, involving countless producers,
 
 WWF and BCG Digital Ventures are launching a revolutionary [digital platform called OpenSC](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) that uses blockchain and other technologies to track food and products — helping people and businesses to avoid illegal, environmentally damaging, or unethical goods.
 
-> "OpenSC gives consumers the power to track their purchases from source to store, enabling them to buy and importantly, demand sustainable and ethical, fair products from companies. OpenSC is a game-changer, massively increasing transparency and accountability," said Marco Lambertini, [WWF International Director General](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products).
+> *"OpenSC gives consumers the power to track their purchases from source to store, enabling them to buy and importantly, demand sustainable and ethical, fair products from companies. OpenSC is a game-changer, massively increasing transparency and accountability,"* said Marco Lambertini, [WWF International Director General](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products).
 
 Blockchain can offer more than just traceability — it can enhance supply chain management and reduce operating costs. With improved transparency, companies can expedite product recalls at a lower expense. A [report by Accenture](https://www.accenture.com/t20190115T192110Z__w__/us-en/_acnmedia/PDF-93/Accenture-Tracing-Supply-Chain-Blockchain-Study-PoV.pdf#zoom=50) underscores that blockchain has the potential to spark a transparency revolution in the global food system.
 
 [BCGDV Managing Director and Co-Chair of the WEF Council on the Future of Consumption,](https://wwf.panda.org/wwf_news/?341451/World-first-revolutionary-blockchain-platform-empowers-all-to-track-environmental-and-ethical-impact-of-food-and-products) agrees:
 
-> "OpenSC is fantastic for businesses that are committed to sustainable and ethical operations. In addition to providing transparency about the origin of an item’s production, OpenSC helps optimise business supply chain operations, reduces costs, and enables producers to manage issues such as product recalls."
+> *"OpenSC is fantastic for businesses that are committed to sustainable and ethical operations. In addition to providing transparency about the origin of an item’s production, OpenSC helps optimise business supply chain operations, reduces costs, and enables producers to manage issues such as product recalls."*
 
 ### How Blockchain is Helping Identify Chinese Chickens as Organic (or Not)
 
@@ -205,7 +201,7 @@ In [Jordan's Azraq refugee camp](https://venturebeat.com/entrepreneur/social-goo
 
 ## <div id="blockchains-challenges">The Other Side of the Coin: Blockchain's Challenges</div>
 
-According to [Accenture's new report](https://www.accenture.com/us-en/insights/blockchain-index) titled "Tracing the Supply Chain: How Blockchain Can Enable Traceability in the Food Industry," using the technology well — takes careful planning and wide collaboration.
+According to [Accenture's new report](https://www.accenture.com/us-en/insights/blockchain-index) titled "Tracing the Supply Chain: How Blockchain Can Enable Traceability in the Food Industry," *using the technology well* — takes careful planning and wide collaboration.
 
 As we've explored, the food supply chain is vast and complex. It involves an incredible amount of collaboration and is as diverse a system as any other. Ensuring alignment and adherence to guidelines by industry stakeholders, producers, financial institutions, governments, and consumers is a huge challenge.
 
