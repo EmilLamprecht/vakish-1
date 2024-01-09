@@ -8,8 +8,6 @@ metaDescription: "Overview of identity authentication: what it is, how it works,
   equation."
 author: Rachel Byfleet
 ---
-
-
 - - -
 
 ### Table of Contents
@@ -47,6 +45,8 @@ In most cases, you’re likely to interact with a centralised identifier such as
 DIDs provide a new way to access information while allowing users to maintain ownership. They are made up of a set of unique numbers, and to avoid getting into the very nitty gritty of it all, I’ve included an image from W2C that helps give a bit more context as to what they actually look like.  
 
 ![W2C decentralised identifier (DID) demonstration](/assets/w2c-did.svg "Decentralised IDentifier (DID)")
+
+*Image source: https://www.w3.org/TR/did-core/*
 
 If you read [my last article on data ownership](https://policyblocks.co/data-ownership/), you'll know I gave a brief overview of public and private keys. DIDs use the same model. They allow a user access to interact with specific parts of a blockchain network to manage their identity and data sharing preferences.
 
