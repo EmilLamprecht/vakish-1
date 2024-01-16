@@ -2,7 +2,7 @@
 template: BlogPost
 path: /blockchain-for-financial-inclusion/
 date: 2024-01-16T12:27:30.992Z
-title: Helping Bank The Unbanked With Blockchain For Financial Inclusion
+title: "Blockchain for Financial Inclusion: Banking the Unbanked?"
 metaDescription: What financial inclusion is, the challenges to financial
   inclusion for large portions of the world's population, and the role
   blockchain can and does play.
