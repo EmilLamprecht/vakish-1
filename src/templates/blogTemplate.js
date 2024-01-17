@@ -44,7 +44,7 @@ export default function Template({
           property="og:image"
           content={frontmatter.thumbnail ? imageUrl : logoUrl}
         />
-        {!frontmatter.canonical && isValidHttpUrl(frontmatter.canonical) && (
+        {!!frontmatter.canonical && isValidHttpUrl(frontmatter.canonical) && (
           <link rel="canonical" href={frontmatter.canonical} />
         )}
         <link rel="preconnect" href="https://fonts.gstatic.com" />
