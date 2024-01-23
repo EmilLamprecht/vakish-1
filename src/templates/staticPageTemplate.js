@@ -68,6 +68,9 @@ export default function Template({
           --secondary-color: ${site.siteMetadata.theme.secondaryColor};
           --background: ${site.siteMetadata.theme.backgroundColor};
         }
+        body .post-thumbnail {
+          background-color: ${site.siteMetadata.theme.primaryColor}; 
+        }
     `}</style>
       </Helmet>
       <div className="blog-post-container">
