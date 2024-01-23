@@ -71,6 +71,10 @@ export default function Template({
           --secondary-color: ${site.siteMetadata.theme.secondaryColor};
           --background: ${site.siteMetadata.theme.backgroundColor};
         }
+
+        body.dark .button.-primary {
+          color: ${site.siteMetadata.theme.darkModeLinkColor};
+        }
     `}</style>
       </Helmet>
       <div className="blog-post-container">
