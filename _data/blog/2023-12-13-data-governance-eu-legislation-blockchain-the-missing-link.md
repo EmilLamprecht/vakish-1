@@ -3,9 +3,9 @@ template: BlogPost
 path: /data-governance/
 date: 2023-11-29T12:00:42.879Z
 title: "Data Governance & EU Legislation: Blockchain = The Missing Link?"
-metaDescription: Principles of data governance. Overview of EU legislation,
-  especially the Data Governance Act. The potential of blockchain as a medium
-  for streamlining data governance.
+metaDescription: Principles of data governance and an overview of the related EU
+  legislation. The potential of blockchain as a medium for streamlining data
+  governance.
 author: Rachel Byfleet
 ---
 - - -
@@ -15,10 +15,9 @@ author: Rachel Byfleet
 1. [What Is Data Governance and Why Is It Important?](#what-is)
 2. [Data Governance Principles](#principles)
 3. [Data Governance and Blockchain](#blockchain)
-4. [EU Data Governance Policies](#eu-policies)
-5. [Data Governance Challenges and Trends](#challenges-trends)
-6. [Conclusion: Where Does That Leave Things?](#conclusion)
-7. [References](#references)
+4. [Data Governance Challenges and Trends](#challenges-trends)
+5. [Conclusion: Where Does That Leave Things?](#conclusion)
+6. [References](#references)
 
 - - -
 
@@ -84,33 +83,7 @@ International bodies such as the Organisation for Economic Co-operation and Deve
 
 > “Mind-blowing advances in computing and communication technologies continually give rise to new risks related to cybersecurity, privacy protection, and oligopolistic concentration in information control. Whatever the potential tangible value of blockchains may be in everyday life, studying the issue will certainly be very useful for businesses and policy makers in updating their mindsets and to keep abreast of the pros and cons, and the opportunities and challenges, of new technologies.”
 
-## <div id="eu-policies">EU Data Governance Policies</div>
-
-To add another level of complexity to this topic, there are several EU policies relating to data governance that organisations need to be aware of. Having dug into the nitty gritty of this topic, my aim is to make this as digestible as possible.
-
-I’ll start by saying [most of the international community agrees that society is in a pivotal moment in the data economy.](https://digital-strategy.ec.europa.eu/en/policies/desi)As mentioned, many governments are not taking solely individual approaches to data governance policies, but are also making collective efforts.
-
-The EU has taken significant steps to promote data sharing through policies like the DGA, the Open Data Directive, and most recently the Data Act. It recognises that in order to use data to its full potential, more data needs to be made available, shared with confidence, and easy to re-use. Of course, sharing and re-using must also abide by the [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR), which allows individuals more control over their own data. More on that to come in a later article.
-
-> “In order to truly capitalise on this enormous potential, more data must be made available, shared with confidence and technically easy to re-use.” - [Data Governance Act](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act-explained)
-
-The DGA aims to create a framework to promote re-using and sharing protected or public data, while promoting data altruism, across various industries, including health, agriculture, finance, and public administration. It is a key component of the [EU Digital Strategy](https://eufordigital.eu/discover-eu/eu-digital-strategy/) and the EU’s wider policy agenda. It focuses on providing rules and mechanisms for sharing data between businesses, public sectors, private sectors, and between individuals.
-
-Preceding the Data Governance Act was the [Open Data Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024) in 2019. This policy required public sector bodies in the EU to make data available to re-use, but it excluded protected data. It also mandated open formats, transparency, and implemented mechanisms to balance openness with privacy. The aim was to spark innovation on an organisational and individual level by making more data publicly available to re-use.
-
-The key difference between the DGA and the Open Data Directive is that the later mandates open public sector data in the EU. Whereas the DGA recognises private data is also very valuable, and insight can be obtained without compromising the security of the data. The DGA encourages, but does not mandate, private data sharing between sectors and aims to provide a set of rules to facilitate re-use where possible.
-
-The DGA presents four focus pillars — and many of them have significant overlap with the capabilities of  blockchain.
-
-**Pillar 1.** The first is to re-use sensitive data held by public sector bodies. To do so, public bodies must be technically equipped to protect privacy and confidentiality. The EU recommends using anonymisation, pseudonymisation, or accessing data in secure environments such as data rooms. Blockchain is, by nature, pseudonymous and provides the ability to access data in securely and confidentially.
-
-**Pillar 2.** The second pillar aims to create a more open and accessible environment for data sharing within a single market. The DGA outlines that public bodies will assist re-users in getting consent or permission for the re-using of data if it cannot grant access to certain data itself. Blockchain can assist with this by allowing users to hold their own keys, thereby allowing them to give or take away access to information at any time. The pillar also limits exclusivity agreements to ensure that data can more accessible. Lastly, the EU will provide intermediation services to increase trust in data sharing, transparency, and neutrality. The intermediaries will be under strict requirements to ensure they remain neutral and there are no conflicts of interest in B2B data sharing.
-
-**Pillar 3.** The third pillar focuses on corporate and individual data altruism. Entities that choose to make data available will be able to register as “[data altruism organisations recognised in the Union.”](https://digital-strategy.ec.europa.eu/en/policies/data-altruism-organisations) In order to do so, organisations must comply with the DGA rulebook developed by the EU, and meet transparency and security requirements. An example used to outline how this can work in practice is the German [Corona Datenspende-App,](https://corona-datenspende.de/) a platform that collected data from smartwatches and shared it with researchers, who could then identify COVID-19 hotspots.
-
-**Pillar 4.** The fourth pillar focuses on coordinating national practices and policies. A [European Data Innovation Board (EDIB)](https://european-big-data-value-forum.eu/wp-content/uploads/2022/11/EBDVF-2022_EDIB_DSSC-WS.pdf) is being built to help facilitate sharing information and best practices, and will include representatives from the Commission and from Member States. Blockchain provides a common platform, while also allowing each national government or organisation to customise their implementation as they see fit. The next step in the EU Digital Strategy has been to adopt the [European Data Act](https://www.eu-data-act.com/), which further outlines processes and structures to facilitate data sharing. Importantly, it clarifies who can access data and under which conditions.
-
-The EU has been rolling out several new initiatives to encourage sharing and re-using data to foster innovation and collaboration. And again, I believe regulations can be further propelled forward by having blockchain as its backbone. The immutable ledgers, transparency, and ability to track data can help further facilitate data sharing and cross collaboration between different sectors.
+One of the most relevant policies relating to data governance is the EU's Data Governance Act. I go much more in-depth on this policy in a [separate article](https://policyblocks.co/data-governance-act-blockchain/), but in short, this policy recognises that in order for data to be used to its full potential, more data needs to be made available, shared with confidence, and easy to re-use. The Act sets out its strategy to make data available, while still maintaining the public's confidence that the data is secure.
 
 ## <div id="challenges-trends">Data Governance Challenges and Trends</div>
 
