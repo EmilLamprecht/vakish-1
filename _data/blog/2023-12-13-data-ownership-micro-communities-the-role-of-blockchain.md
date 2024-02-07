@@ -6,9 +6,8 @@ title: Data Ownership, Micro-Communities, & the Role of Blockchain
 metaDescription: Understanding data ownership through the example of
   blockchain-driven micro-communities and micropayments.
 author: George Siosi Samuels
+thumbnail: /assets/blockchainvision-blog-header-illustration_1140x416.jpg
 ---
-
-
 - - -
 
 ### Table of Contents
@@ -65,7 +64,7 @@ Most people do not think about the ramifications of this, but this is an example
 
 ## <div id="rise-of-small-world-networks">The Rise of Small-World Networks</div>
 
-![](/assets/mandala2.jpg)
+![](/assets/blockchain-mandala.jpg)
 
 *Image source: <https://www.nature.com/articles/srep09082>*
 
@@ -124,6 +123,8 @@ In the music industry, blockchain-based micropayments offer an interesting oppor
 Another example of blockchain being useful for data ownership comes from [mintBlue](https://mintblue.com/). MintBlue is a platform that provides an enterprise-first SDK for product teams in need of absolute data control. Making it easy to implement immutable storage and identity authentication at scale.
 
 In March of 2023, they held a world record for most number of transactions on a Proof-of-Work (PoW) blockchain. They hit a [whopping 50 million transactions in 24 hours](https://mintblue.com/world-record-transactions-push/) — a level needed for a future where scaleable transaction processing will become paramount.
+
+![Users will migrate to owning their own data on the public chain, instead of letting big tech hold and sell it.](/assets/from-big-tech-to-public-chains.jpg "Users will migrate to owning their own data on the public chain, instead of letting big tech hold and sell it.")
 
 ## <div id="conclusion">Conclusion</div>
 
