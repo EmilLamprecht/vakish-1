@@ -30,7 +30,7 @@ In the vast digital expanse where data flows like the lifeblood of our interconn
 
 Blockchain might have first appeared on the stage as the underlying technology for cryptocurrencies, but its role is far more profound. It's a custodian of trust, a \[sufficiently] “decentralized” ledger that stands as a bastion against the monopolistic control of data that currently exists among major tech companies.
 
-It’s a technology that doesn’t just manage data; it redefines its very ownership.
+It’s a technology that doesn’t just manage data; it [redefines its very ownership](https://policyblocks.co/data-ownership/).
 
 ## <div id="understanding-blockchain">Understanding Blockchain</div>
 
@@ -66,8 +66,6 @@ Most people do not think about the ramifications of this, but this is an example
 
 ![](/assets/blockchain-mandala.jpg)
 
-*Image source: <https://www.nature.com/articles/srep09082>*
-
 Small-World Networks (SWNs) are a form of network topology often mentioned in Computer Science or Network Theory. More specifically, blockchains like Bitcoin are built on [Mandala Networks](https://wiki.bitcoinsv.io/index.php/Mandala_Network), which are ultra SWNs.
 
 How this relates to the average person, is that it takes the concept of a “small world effect” and places it directly into the micropayments infrastructure design of Bitcoin. You experience this effect in real-life, when you travel great distances and somehow manage to “bump into” someone who knows someone you know. It allows you to travel far, while still staying connected.
@@ -81,8 +79,6 @@ So blockchain isn’t just about securing data, it’s also about redistributing
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Micro-communities are —ironically— becoming a big thing. <br><br>Dive into the world of niche online communities and discover their life-changing potential. From monetization to deep connections, it&#39;s all here. <br><br>And it&#39;s getting easier and easier to start. <a href="https://t.co/tvHM71SQAs">https://t.co/tvHM71SQAs</a> <a href="https://t.co/W9X40wSgK8">pic.twitter.com/W9X40wSgK8</a></p>&mdash; Arvid Kahl (@arvidkahl) <a href="https://twitter.com/arvidkahl/status/1712815910388466144?ref_src=twsrc%5Etfw">October 13, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## <div id="micro-communities">Micro-Communities: The Unsung Heroes in the Saga of Data Ownership</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DYcOLSHOsEo?si=__75OlHv_XRo6fOy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Nestled within the broader digital universe are micro-communities, each a unique tapestry of shared interests and collective goals. These are not just groups; they are ecosystems in their own right, thriving on the exchange of ideas and information. Blockchain steps in as a silent partner, empowering these communities to take charge of their data, to own it, manage it, and benefit from it.
 
@@ -104,7 +100,7 @@ In platforms like [Twetch](https://twetch.com), you can already see how micropay
 
 Elon Musk is already looking at these technologies to enable micropayments for platforms like X [in the near future](https://www.forbes.com/sites/davidbirch/2023/05/04/musk-media-and-the-rejuvenation-of-micropayments/). But Twetch has been able to show people what that type of future looks like already.
 
-**But where the micropayments come from?** That still needs to be bought using traditional fiat (in order to get the tokens), then it can be used.
+**But where do the micropayments come from?** They still need to be bought using traditional fiat (in order to get the tokens), then it can be used.
 
 Closest example of this is how we use ChatGPT. When you buy a Plus subscription, you’re actually purchasing tokens in the background for AI-generated results. But you never really need to think about it.
 
@@ -124,7 +120,7 @@ Another example of blockchain being useful for data ownership comes from [mintBl
 
 In March of 2023, they held a world record for most number of transactions on a Proof-of-Work (PoW) blockchain. They hit a [whopping 50 million transactions in 24 hours](https://mintblue.com/world-record-transactions-push/) — a level needed for a future where scaleable transaction processing will become paramount.
 
-![Users will migrate to owning their own data on the public chain, instead of letting big tech hold and sell it.](/assets/from-big-tech-to-public-chains.jpg "Users will migrate to owning their own data on the public chain, instead of letting big tech hold and sell it.")
+![Users will migrate to owning their own data on the public blockchain, instead of letting big tech hold and sell it.](/assets/from-big-tech-to-public-chains.jpg "Users will migrate to owning their own data on the public blockchain, instead of letting big tech hold and sell it.")
 
 ## <div id="conclusion">Conclusion</div>
 
