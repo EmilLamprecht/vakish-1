@@ -7,7 +7,7 @@ metaDescription: How social organisations can leverage blockchain to help with
   data ownership in the digital age.
 author: Sam Liddell
 ---
-**How social organisations can leverage blockchain to help with data ownership in the digital age**
+### *How social organisations can leverage blockchain to help with data ownership in the digital age*
 
 - - -
 
