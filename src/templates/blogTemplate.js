@@ -17,6 +17,17 @@ export default function Template({
   const url = location.href ? location.href : "";
   const imageUrl = siteMetadata.siteUrl + frontmatter.thumbnail;
   const logoUrl = siteMetadata.siteUrl + siteMetadata.logo;
+  function isValidHttpUrl(string) {
+    let url;
+
+    try {
+      url = new URL(string);
+    } catch (_) {
+      return false;
+    }
+
+    return url.protocol === "http:" || url.protocol === "https:";
+  }
 
   return (
     <Layout>
@@ -33,7 +44,9 @@ export default function Template({
           property="og:image"
           content={frontmatter.thumbnail ? imageUrl : logoUrl}
         />
-
+        {!!frontmatter.canonical && isValidHttpUrl(frontmatter.canonical) && (
+          <link rel="canonical" href={frontmatter.canonical} />
+        )}
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
           href={site.siteMetadata.theme.googleFontImport}
@@ -158,6 +171,7 @@ export const pageQuery = graphql`
         author
         thumbnail
         metaDescription
+        canonical
       }
       fields {
         gitAuthorTime(formatString: "MMMM DD, YYYY")
