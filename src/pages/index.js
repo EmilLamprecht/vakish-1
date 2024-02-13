@@ -83,7 +83,7 @@ const IndexPage = ({
         body.dark .button.-primary {
           color: ${site.siteMetadata.theme.darkModeLinkColor};
         }
-        .button. {
+        .button {
           font-weight: bold;
         }
     `}</style>
