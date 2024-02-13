@@ -5,6 +5,7 @@ date: 2023-08-09T10:57:41.187Z
 title: Testing to see what happens 2
 author: Emil Lamprecht
 thumbnail: /assets/image-5.jpg
+canonical: https://usermechanics.com/fillerama/
 ---
 
 # ANOTHER, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
