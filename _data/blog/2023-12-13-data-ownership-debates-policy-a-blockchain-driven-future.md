@@ -8,8 +8,10 @@ metaDescription: Defining data ownership. Demonstrating debates and (EU) policy
   organisations. Exploring blockchain as a medium for streamlining data
   ownership.
 author: Rachel Byfleet
+canonical: https://policyblocks.co/data-ownership/
 ---
-- - -
+
+---
 
 ### Table of Contents
 
@@ -21,7 +23,7 @@ author: Rachel Byfleet
 6. [Blockchain and Data Ownership](#blockchain)
 7. [Conclusion: What's next?](#whats-next)
 
-- - -
+---
 
 ## <div id="definition">Defining Data Ownership</div>
 
@@ -49,7 +51,7 @@ While I have previously discussed the aforementioned EU policies at length, I ha
 
 ## <div id="gdpr">The GDPR and Data Ownership</div>
 
-The EU’s General Data Protection Regulation (GDPR) is likely the most well-known data-related regulation.  
+The EU’s General Data Protection Regulation (GDPR) is likely the most well-known data-related regulation.
 
 > “The GDPR governs how the personal data of individuals in the EU may be processed and transferred and is the strongest privacy and security law in the world.” - [European Commission](https://www.consilium.europa.eu/en/policies/data-protection/data-protection-regulation/#:~:text=The%20GDPR%20establishes%20the%20general,data%20processing%20operations%20they%20perform.)
 

@@ -7,8 +7,10 @@ metaDescription: Principles of data governance and an overview of the related EU
   legislation. The potential of blockchain as a medium for streamlining data
   governance.
 author: Rachel Byfleet
+canonical: https://policyblocks.co/data-governance/
 ---
-- - -
+
+---
 
 ### Table of Contents
 
@@ -19,7 +21,7 @@ author: Rachel Byfleet
 5. [Conclusion: Where Does That Leave Things?](#conclusion)
 6. [References](#references)
 
-- - -
+---
 
 ## <div id="what-is">What Is Data Governance and Why Is It Important?</div>
 
@@ -79,7 +81,7 @@ Similarly, the German government adopted a [blockchain strategy in 2019](https:/
 
 > “Blockchain is a new technology with great potential. Germany is one of the world’s leading locations for this technology. Our blockchain strategy aims to help maintain and expand this leading position.”
 
-International bodies such as the Organisation for Economic Co-operation and Development (OECD) also showed support for blockchain in a [2018 report](https://one.oecd.org/document/DAF/CA/CG/RD(2018)1/REV1/En/pdf):
+International bodies such as the Organisation for Economic Co-operation and Development (OECD) also showed support for blockchain in a [2018 report](<https://one.oecd.org/document/DAF/CA/CG/RD(2018)1/REV1/En/pdf>):
 
 > “Mind-blowing advances in computing and communication technologies continually give rise to new risks related to cybersecurity, privacy protection, and oligopolistic concentration in information control. Whatever the potential tangible value of blockchains may be in everyday life, studying the issue will certainly be very useful for businesses and policy makers in updating their mindsets and to keep abreast of the pros and cons, and the opportunities and challenges, of new technologies.”
 
@@ -105,16 +107,16 @@ Data governance is no longer a trend but a necessity for organisations. Large am
 
 ## <div id="references">References</div>
 
-* OECD - "Blockchain Technology and Corporate Governance"
-* UK Government Office for Science - "Distributed Ledger Technology: beyond block chain"
-* EU Data Governance Act - Framework for B2B data sharing.
-* <https://digital-strategy.ec.europa.eu/en/policies/data-governance-act>
-* <https://digital-strategy.ec.europa.eu/en/policies/data-governance-act-explained>
-* More public sector data availability - European Commission DGA factsheet, Access Now policy paper
-* Rights around co-generated data - European Consumer Organisation summary of DGA proposals
-* Requirements around data interoperability - European Commission DGA factsheet, Euractiv article on DGA
-* Obligations for data intermediaries - European Commission DGA factsheet, Epicenter.works analysis
-* New European Data Innovation Board - European Data Protection Supervisor opinion on DGA
-* <https://www.onetrust.com/blog/the-top-4-data-governance-principles/> (for data governance principles)
-* <https://www.eu-data-act.com>
-* <https://european-big-data-value-forum.eu/wp-content/uploads/2022/11/EBDVF-2022_EDIB_DSSC-WS.pdf>
+- OECD - "Blockchain Technology and Corporate Governance"
+- UK Government Office for Science - "Distributed Ledger Technology: beyond block chain"
+- EU Data Governance Act - Framework for B2B data sharing.
+- <https://digital-strategy.ec.europa.eu/en/policies/data-governance-act>
+- <https://digital-strategy.ec.europa.eu/en/policies/data-governance-act-explained>
+- More public sector data availability - European Commission DGA factsheet, Access Now policy paper
+- Rights around co-generated data - European Consumer Organisation summary of DGA proposals
+- Requirements around data interoperability - European Commission DGA factsheet, Euractiv article on DGA
+- Obligations for data intermediaries - European Commission DGA factsheet, Epicenter.works analysis
+- New European Data Innovation Board - European Data Protection Supervisor opinion on DGA
+- <https://www.onetrust.com/blog/the-top-4-data-governance-principles/> (for data governance principles)
+- <https://www.eu-data-act.com>
+- <https://european-big-data-value-forum.eu/wp-content/uploads/2022/11/EBDVF-2022_EDIB_DSSC-WS.pdf>
