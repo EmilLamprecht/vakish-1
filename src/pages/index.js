@@ -77,6 +77,9 @@ const IndexPage = ({
         body.dark .button.-primary {
           color: ${site.siteMetadata.theme.darkModeLinkColor};
         }
+        .button {
+          font-weight: bold;
+        }
     `}</style>
       </Helmet>
       <HeroHeader />

@@ -62,6 +62,20 @@ export default function Template({
           --secondary-color: ${site.siteMetadata.theme.secondaryColor};
           --background: ${site.siteMetadata.theme.backgroundColor};
         }
+        body.light .button.-primary {
+          color: ${site.siteMetadata.theme.linkColor};
+          background-color: ${site.siteMetadata.theme.ctaColor};
+        }
+        body.light .button.-primary:hover {
+          color: ${site.siteMetadata.theme.linkColor};
+          background-color: ${site.siteMetadata.theme.ctaHoverColor};
+        }
+        body.dark .button.-primary {
+          color: ${site.siteMetadata.theme.darkModeLinkColor};
+        }
+        .button {
+          font-weight: bold;
+        }
     `}</style>
       </Helmet>
       <div className="blog-post-container">
