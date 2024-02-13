@@ -7,8 +7,10 @@ metaDescription: Understanding data ownership through the example of
   blockchain-driven micro-communities and micropayments.
 author: George Siosi Samuels
 thumbnail: /assets/blockchainvision-blog-header-illustration_1140x416.jpg
+canonical: https://blockchainvision.io/data-ownership/
 ---
-- - -
+
+---
 
 ### Table of Contents
 
@@ -22,7 +24,7 @@ thumbnail: /assets/blockchainvision-blog-header-illustration_1140x416.jpg
 8. [Conclusion](#conclusion)
 9. [Epilogue: Charting the Course in the Ocean of Data Ownership](#charting-the-course)
 
-- - -
+---
 
 ## <div id="introduction">Introduction</div>
 
@@ -36,7 +38,7 @@ It’s a technology that doesn’t just manage data; it [redefines its very owne
 
 Blockchain is often described in various ways, so let’s explore some of the most popular, then our own.
 
-According to [Investopedia](https://www.investopedia.com/terms/b/blockchain.asp), *“blockchain is a distributed database or ledger that is distributed among the nodes of a peer-to-peer \[P2P] network.”* According to the Oxford Dictionary, blockchain is *“a system in which a record of transactions, especially those made in a [cryptocurrency](https://www.google.com/search?sca_esv=581091442&q=cryptocurrency&si=ALGXSlbQCIOU20FLZs4ZL1lOUz6oEUhCBuwWMlGl8LQJP7U5ziKug2VT1QBXLleVxdyXEvVauIhMgJaNAsnVDhWCUGFzYRdR1KLOhFIScbMTal4t_d6yHpc%3D&expnd=1), is maintained across computers that are linked in a P2P network.”*
+According to [Investopedia](https://www.investopedia.com/terms/b/blockchain.asp), _“blockchain is a distributed database or ledger that is distributed among the nodes of a peer-to-peer \[P2P] network.”_ According to the Oxford Dictionary, blockchain is _“a system in which a record of transactions, especially those made in a [cryptocurrency](https://www.google.com/search?sca_esv=581091442&q=cryptocurrency&si=ALGXSlbQCIOU20FLZs4ZL1lOUz6oEUhCBuwWMlGl8LQJP7U5ziKug2VT1QBXLleVxdyXEvVauIhMgJaNAsnVDhWCUGFzYRdR1KLOhFIScbMTal4t_d6yHpc%3D&expnd=1), is maintained across computers that are linked in a P2P network.”_
 
 In Bitcoin, blockchain is used as a “ledger-of-choice” in which it records its transactions. Why? Because it is essentially a chain of blocks that gets increasingly more difficult to tamper with as the chain’s length increases.
 
@@ -50,13 +52,13 @@ If we move further back in history, there’s a interesting story about a Micron
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oNhpm9NMVXs?si=grbW-uucDKHN3WGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-After watching the video, if you’re still confused about the mechanics of blockchain, try this analogy. Imagine blockchain being a simple spreadsheet. Every time someone makes a change, that change is recorded. And because the blockchain is “public,” you can view that change without revealing the content of that change. This is a kin to the *Version History* feature that exists both on Excel and even Google Sheets.
+After watching the video, if you’re still confused about the mechanics of blockchain, try this analogy. Imagine blockchain being a simple spreadsheet. Every time someone makes a change, that change is recorded. And because the blockchain is “public,” you can view that change without revealing the content of that change. This is a kin to the _Version History_ feature that exists both on Excel and even Google Sheets.
 
 See below:
 
 ![](/assets/gdocs2.jpg)
 
-*Image source: <https://www.groovypost.com/howto/restore-or-copy-document-versions-in-google-docs-sheets-and-slides/>*
+_Image source: <https://www.groovypost.com/howto/restore-or-copy-document-versions-in-google-docs-sheets-and-slides/>_
 
 And so imagine each change in the above right column, being a “transaction” on the blockchain ledger. Those transactions can be so minute, and cost so little, you barely notice. But if you had an instance where someone tried to take advantage of you — say a larger, more powerful player — if all the world’s data was stored “on-chain,” via micropayments, then that audit trail of “data micropayments” could then be used in a court of law to help the little guy.
 
@@ -96,7 +98,7 @@ In platforms like [Twetch](https://twetch.com), you can already see how micropay
 
 ![](/assets/twetch2.jpg)
 
-*Image source: <https://nanopay.substack.com/p/app-spotlight-twetch>*
+_Image source: <https://nanopay.substack.com/p/app-spotlight-twetch>_
 
 Elon Musk is already looking at these technologies to enable micropayments for platforms like X [in the near future](https://www.forbes.com/sites/davidbirch/2023/05/04/musk-media-and-the-rejuvenation-of-micropayments/). But Twetch has been able to show people what that type of future looks like already.
 
@@ -114,7 +116,7 @@ As we delve deeper, it’s evident that blockchain’s role transcends the confi
 
 In the music industry, blockchain-based micropayments offer an interesting opportunity for music artists. They provide artists with a fairer and more transparent way to monetize their work. With traditional payment systems, artists often face challenges in receiving their rightful earnings due to intermediaries and complex royalty structures. However, blockchain technology enables direct P2P transactions, allowing artists to receive immediate and transparent payments for their music. This not only empowers artists financially but also promotes a more equitable and sustainable music ecosystem. By leveraging blockchain-based micropayments, artists can better control their revenue streams and build direct relationships with their fans, leading to a more vibrant and artist-centric music industry.
 
-### **→** *[How Blockchain Can Solve the Music Industry's AI Problem (by Inder Phull)](https://variety.com/2023/music/opinion/blockchain-music-industry-ai-1235696366/)*
+### **→** _[How Blockchain Can Solve the Music Industry's AI Problem (by Inder Phull)](https://variety.com/2023/music/opinion/blockchain-music-industry-ai-1235696366/)_
 
 Another example of blockchain being useful for data ownership comes from [mintBlue](https://mintblue.com/). MintBlue is a platform that provides an enterprise-first SDK for product teams in need of absolute data control. Making it easy to implement immutable storage and identity authentication at scale.
 
