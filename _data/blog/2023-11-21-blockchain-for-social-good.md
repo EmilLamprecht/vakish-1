@@ -6,8 +6,10 @@ title: Blockchain For Social Good
 metaDescription: How nonprofits, NGOs, & charities are addressing global
   challenges with blockchain. Pros, cons, and real-world examples.
 author: Sam Liddell
+canonical: https://goodledger.io/blockchain-for-social-good/
 ---
-- - -
+
+---
 
 ### Table of Contents
 
@@ -18,7 +20,7 @@ author: Sam Liddell
 5. [Blockchain, Nonprofits, & Trust](#trust)
 6. [Conclusion: The Future Is Good & It Is On-Chain](#conclusion)
 
-- - -
+---
 
 ## <div id="addressing-global-challenges">How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain</div>
 
@@ -83,12 +85,12 @@ Social organisations are often tasked with addressing humanity's difficult and c
 
 Some of the key challenges these organisations are tasked with include:
 
-* Ensuring the voice of the people is heard and their rights are respected (often representing the most vulnerable and marginalised populations)
-* Ensuring fair and equitable access to basic resources like healthcare and education
-* Efficiently distributing resources (often in distressing and complex situations)
-* Ensuring the sustainable use and supply of important resources such as safe drinking water and food
-* Raising public awareness about, advocating for, and shaping public narratives on important topics
-* Monitoring and reporting on important situations and outcomes
+- Ensuring the voice of the people is heard and their rights are respected (often representing the most vulnerable and marginalised populations)
+- Ensuring fair and equitable access to basic resources like healthcare and education
+- Efficiently distributing resources (often in distressing and complex situations)
+- Ensuring the sustainable use and supply of important resources such as safe drinking water and food
+- Raising public awareness about, advocating for, and shaping public narratives on important topics
+- Monitoring and reporting on important situations and outcomes
 
 These responsibilities are true of not just NGOs, but social organisations like charities and nonprofits alike. These organisations are faced with the constant need to raise funds, operating with the ever-present need for trust and effective operations. Luckily, blockchain promises to address these challenges and we have forward-thinking organisations leaning in.
 

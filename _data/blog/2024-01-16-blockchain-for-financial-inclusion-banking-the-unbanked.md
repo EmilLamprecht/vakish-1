@@ -7,8 +7,10 @@ metaDescription: What financial inclusion is, the challenges to financial
   inclusion for large portions of the world's population, and the role
   blockchain can and does play.
 author: Sam Liddell
+canonical: https://goodledger.io/blockchain-for-financial-inclusion/
 ---
-- - -
+
+---
 
 ### Table of Contents
 
@@ -19,7 +21,7 @@ author: Sam Liddell
 5. [Banking On Blockchain](#banking)
 6. [Conclusion: Blockchain for Financial Inclusion](#conclusion)
 
-- - -
+---
 
 ## <div id="bank-the-unbanked">How Blockchain Can Help Bank The Unbanked</div>
 
@@ -61,17 +63,17 @@ KYC (or Know Your Client) is a standard used in the investment and financial ser
 
 The key issue, particularly in developing countries, is the [lack of ways to formally identify customers](https://blogs.worldbank.org/psd/digital-id-critical-enabler-financial-inclusion). Without identity documentation, there are no opportunities for the unbanked to build a credit history which could then enable them to access credit.
 
-Micro-lending is a great example of a financially inclusive service helping people in need. With loans as small as $25, micro-lending can [make a real impact on people in the poorest areas](https://www.theguardian.com/care-australia-championing-change/2023/nov/06/microlending-how-even-a-small-donation-can-change-a-life). Without access to lending, the creation of wealth is stifled, and with it — economic development and prosperity.
+Micro-lending is a great example of a financially inclusive service helping people in need. With loans as small as \$25, micro-lending can [make a real impact on people in the poorest areas](https://www.theguardian.com/care-australia-championing-change/2023/nov/06/microlending-how-even-a-small-donation-can-change-a-life). Without access to lending, the creation of wealth is stifled, and with it — economic development and prosperity.
 
 [McKinsey has explored the economic value Digital IDs can unlock for countries](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/infographic-what-is-good-digital-id), stating:
 
-> *"Our analysis indicates that individual countries could unlock economic value equivalent to between 3 and 13 percent of GDP in 2030 from the implementation of digital ID programs."*
+> _"Our analysis indicates that individual countries could unlock economic value equivalent to between 3 and 13 percent of GDP in 2030 from the implementation of digital ID programs."_
 
 The ability to be formally identified is a fact many of us probably take for granted. We have government-issued birth certificates, passports, and driver’s licenses — documents that are readily accepted by the police, immigration clerks, and [KYC-compliant financial service businesses](https://www.investopedia.com/terms/k/knowyourclient.asp).
 
 In an [HBR report](https://www.prnewswire.com/news-releases/blockchain-technology-startup-humaniq-raises-38m-and-signs-contract-with-deloitte-620024163.html), Professor Michael Mainelli wrote:
 
-> *"2.4 billion poor people worldwide, about 1.5 billion of whom are over the age of 14, can't answer that question (on identification) to the satisfaction of authorities. While they certainly know who they are, they are often excluded from property ownership, free movement, and social protection simply because they can't prove their identity. They are more exposed to corruption and crime, including people trafficking and slavery."*
+> _"2.4 billion poor people worldwide, about 1.5 billion of whom are over the age of 14, can't answer that question (on identification) to the satisfaction of authorities. While they certainly know who they are, they are often excluded from property ownership, free movement, and social protection simply because they can't prove their identity. They are more exposed to corruption and crime, including people trafficking and slavery."_
 
 Imagine... not being able to prove who you are. Imagine how much additional trust would be required in day-to-day life and how limited and slow services would become as a result.
 
@@ -81,7 +83,7 @@ Digital IDs are a hot and controversial topic right now. While they may render t
 
 [Sam Altman](https://www.forbes.com/sites/alexkonrad/2023/02/03/exclusive-openai-sam-altman-chatgpt-agi-google-search/?sh=102c13f16a63), Silicon Valley Superhero (who brought us ChatGPT and Y-Combinator) has recently [set his sights on blockchain digital IDs](https://www.bbc.com/news/technology-66128111) — introducing an ambitious [Proof of Personhood](https://www.coindesk.com/tech/2020/10/27/an-internet-for-humans-proof-of-personhood-explained/) project called [Worldcoin](https://worldcoin.org/blog/worldcoin/proof-of-personhood-what-it-is-why-its-needed) that uses fancy eye-scanning devices to scan and tokenise a person's iris-based biometric identity, resulting in a verifiable Digital ID stored on the blockchain.
 
-I'm not sure if I'll be signing up with my biometric data just yet, but the project is offering potential [users $50 (of Worldcoin's native cryptocurrency) to join the network](https://www.tomshardware.com/news/worldcoin-attracts-2-million-users), an incentive that seemingly works, as the project [onboarded more than two million people in 120 countries in its first 2 years](https://www.reuters.com/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/).
+I'm not sure if I'll be signing up with my biometric data just yet, but the project is offering potential [users \$50 (of Worldcoin's native cryptocurrency) to join the network](https://www.tomshardware.com/news/worldcoin-attracts-2-million-users), an incentive that seemingly works, as the project [onboarded more than two million people in 120 countries in its first 2 years](https://www.reuters.com/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/).
 
 Worldcoin is far from alone in the Digital ID space. [BanQu](http://www.banquapp.com/) is another start-up using blockchain technology to create secure and verified IDs for the world's most vulnerable populations. The BanQu app allows people to build an online profile through facial and voice recognition that can then be used to track everything from educational qualifications to transaction history.
 
@@ -125,7 +127,7 @@ Blockchain's decentralised and cryptographic nature provides a high level of sec
 
 #### Tax Transparency & Accountability
 
-Tax transparency? *Eyes start darting around the room.* The transparent and immutable nature of blockchain can enhance accountability within the financial system. Imagine if the sales tax was coded into a smart-contract and whenever a transaction occurred, the sales tax was automatically collected and documented without any need for human intervention. We all want schools, hospitals, and roads. If this tax collection could be done fairly and efficiently — with full transparency of the collection and even expenditure of these taxes — this can help foster a more inclusive and trustworthy financial environment for everyone.
+Tax transparency? _Eyes start darting around the room._ The transparent and immutable nature of blockchain can enhance accountability within the financial system. Imagine if the sales tax was coded into a smart-contract and whenever a transaction occurred, the sales tax was automatically collected and documented without any need for human intervention. We all want schools, hospitals, and roads. If this tax collection could be done fairly and efficiently — with full transparency of the collection and even expenditure of these taxes — this can help foster a more inclusive and trustworthy financial environment for everyone.
 
 ### <div id="why-blockchain/innovation">Blockchain Innovation & Open Financial Services</div>
 
@@ -147,7 +149,7 @@ Decentralised crypto exchanges like the famous [Uniswap protocol](https://app.un
 
 Uniswap (and its many clones) uses a novel protocol design that allows anyone to contribute to and use the exchange — both by allowing anyone to trade digital crypto assets, but also by providing access for anyone to contribute funds to the protocol, essentially helping run, and share in the profits of, the exchange. This is a far cry from the secretive backroom dealings of Wall Street.
 
-[In May 2022, Uniswap surpassed $1 trillion in trading volume and hit roughly 3.9 million users](https://cointelegraph.com/news/uniswap-breaks-1t-in-volume-but-has-only-been-used-by-3-9m-addresses). Blockchain-enabled financial services like Uniswap have found a role in the digital asset economy — replacing what would have been a centrally controlled behemoth institute with open blockchain ledgers (databases), digital cryptocurrencies, and smart contracts.
+[In May 2022, Uniswap surpassed \$1 trillion in trading volume and hit roughly 3.9 million users](https://cointelegraph.com/news/uniswap-breaks-1t-in-volume-but-has-only-been-used-by-3-9m-addresses). Blockchain-enabled financial services like Uniswap have found a role in the digital asset economy — replacing what would have been a centrally controlled behemoth institute with open blockchain ledgers (databases), digital cryptocurrencies, and smart contracts.
 
 This asset exchange role had traditionally been reserved for Wall Street types who are subject to heavy regulation and oversight. This new type of digital asset exchange has shifted towards economically liberal and (sometimes degenerate) software developers. This means open access and fast-paced innovation.
 
@@ -167,7 +169,7 @@ Blockchain banking services have been rising: from [crypto banks like Nuri,](htt
 
 [Alex Fork, CEO of pioneering blockchain finance company Humaniq,](https://www.techradar.com/news/a-look-at-the-vital-role-blockchain-is-playing-in-banking-the-unbanked) says:
 
-> *"We believe this can help bring people out of poverty by giving them banking tools that can provide liquidity for entrepreneurial ventures via loans, investment, online work, and crypto-financing as well as create new opportunities in the digital economy, locally, nationally and internationally."*
+> _"We believe this can help bring people out of poverty by giving them banking tools that can provide liquidity for entrepreneurial ventures via loans, investment, online work, and crypto-financing as well as create new opportunities in the digital economy, locally, nationally and internationally."_
 
 ## <div id="conclusion">Conclusion: Blockchain For Financial Inclusion</div>
 
@@ -177,6 +179,6 @@ From Bitcoin, Worldcoin, and Uniswap — we have ample examples of innovative, d
 
 We know George Orwell would say something about indomitable surveillance and control. We just hope our elected leaders and international institutes are capable and morally guided. We know scammers gonna scam. We can expect that as blockchain applications mature, education spreads, and regulations catch up — that the frequency of scams, security vulnerabilities, and opportunities for exploitation are reduced. Where there's an opportunity to steal value, people will always try. Luckily, blockchains transparent and immutable transaction ledger make these crimes less appealing as more and more criminals are prosecuted.
 
-*Cash is king?* Fiat money serves a purpose and will continue playing a role until the world's monetary systems move fully digital. Cash is useful for payments and trade where the digital infrastructure or power grid isn't reliable yet or when a layer of privacy is desired (something many won't want to give up).
+_Cash is king?_ Fiat money serves a purpose and will continue playing a role until the world's monetary systems move fully digital. Cash is useful for payments and trade where the digital infrastructure or power grid isn't reliable yet or when a layer of privacy is desired (something many won't want to give up).
 
 Perhaps we aren't all fully ready to go 100% in on digital. We will embrace a hybrid of digital and traditional technologies while we stride towards financial inclusion. As we continue the digital transformation towards financial inclusion, we will be sure to see blockchain as a key part of the story.

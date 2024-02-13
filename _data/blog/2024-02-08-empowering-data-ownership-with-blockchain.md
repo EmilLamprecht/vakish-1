@@ -6,10 +6,12 @@ title: Empowering Data Ownership With Blockchain
 metaDescription: How social organisations can leverage blockchain to help with
   data ownership in the digital age.
 author: Sam Liddell
+canonical: https://goodledger.io/data-ownership/
 ---
-### *How social organisations can leverage blockchain to help with data ownership in the digital age*
 
-- - -
+### _How social organisations can leverage blockchain to help with data ownership in the digital age_
+
+---
 
 ### Table of Contents
 
@@ -23,7 +25,7 @@ author: Sam Liddell
 8. [Real World Examples Of How Blockchain Is Being Used For Data Ownership](#blockchain-examples)
 9. [Conclusion: The Future Of Data Ownership](#conclusion)
 
-- - -
+---
 
 ## <div id="what-is">What Is Data Ownership & Why Is It Important?</div>
 
@@ -31,15 +33,15 @@ In the first generations of the internet, we could read and write all sorts of c
 
 Prolific Silicon Valley investor and internet pioneer Chris Dixon recently released a book called "[Read, Write, Own](https://readwriteown.com/)." In the book, he explores the potent power of blockchain to reshape the future of the Internet — helping put data ownership back in the hands of the data creators. The book highlights a trend we will explore in this article — the role of modern data ownership and how blockchain is helping usher in this new paradigm.
 
-Data ownership relates to the ownership, access, use, and control of data, and with the amount of data created [forecast to grow rapidly](https://www.statista.com/statistics/871513/worldwide-data-created/) in the coming years, data ownership is more important than ever. With the global data and analytics markets combined revenue estimated to generate $837 billion by 2027, the [economic value of data](https://www.globaldata.com/store/report/data-and-analytics-technology-market-analysis/) means there are serious incentives for businesses to collect and leverage data.
+Data ownership relates to the ownership, access, use, and control of data, and with the amount of data created [forecast to grow rapidly](https://www.statista.com/statistics/871513/worldwide-data-created/) in the coming years, data ownership is more important than ever. With the global data and analytics markets combined revenue estimated to generate \$837 billion by 2027, the [economic value of data](https://www.globaldata.com/store/report/data-and-analytics-technology-market-analysis/) means there are serious incentives for businesses to collect and leverage data.
 
 ### For Example, An Average Day On The Internet Sees:
 
-* 294 billion emails sent
-* 65 billion messages sent on WhatsApp
-* 5 billion internet searches
-* 4 million GB of data created on Facebook
-* 4 thousand GB of data are created from each connected car
+- 294 billion emails sent
+- 65 billion messages sent on WhatsApp
+- 5 billion internet searches
+- 4 million GB of data created on Facebook
+- 4 thousand GB of data are created from each connected car
 
 (source: [visualcapitalist](https://www.visualcapitalist.com/how-much-data-is-generated-each-day/))
 
@@ -121,13 +123,13 @@ With vast amounts of data stored on-chain and with accessibility powered by acce
 
 From tamper-proof voting systems, verifiable digital IDs, and accessible accounting and medical records, to incentive-based rewards, blockchain is enabling data ownership in a variety of interesting ways.
 
-* Fraud-free electoral voting systems in the [US, Australia, and Russia](https://venturebeat.com/business/blockchain-tech-could-fight-voter-fraud-and-these-countries-are-testing-it/) are being tested.
-* Estonia is trialing a [blockchain-based e-voting system](https://www.cryptocoinsnews.com/nasdaq-estonias-e-residency-empower-shareholders-estonian-stock-exchange/) that enables both Estonian nationals and non-local [e-residents](https://www.e-resident.gov.ee/) to securely vote in company shareholder meetings.
-* The [World Identity Network](https://win.systems/) (WIN) has [partnered with the UN](https://www.unops.org/news-and-stories/news/world-identity-network-and-united-nations-team-up-to-launch-innovative-blockchain-pilot-to-help-prevent-child-trafficking) to explore blockchain's potential to provide secure and safe forms of identification for the 2 billion people who lack such documentation.
-* [Worldcoin](https://worldcoin.org/blog/worldcoin/proof-of-personhood-what-it-is-why-its-needed) is another Digital ID (or proof of personhood) project that uses fancy eye-scanning devices to scan and tokenise a person's iris-based biometric identity, resulting in a verifiable Digital ID stored on the blockchain.
-* Dutch blockchain startup [mintBlue](https://mintblue.com/einvoicing/) has introduced on-chain eInvoicing and identity management to enable efficient validation and verification of financial documents.
-* Privacy-conscious internet browser [Brave](https://au.pcmag.com/suites-1/67250/how-to-earn-and-use-cryptocurrency-with-the-brave-browser) has launched a cryptocurrency token that rewards users for enabling ads in their browser.
-* [IBM's Digital Health Pass](https://www.linkedin.com/pulse/launch-digital-health-pass-open-source-project-marie-wallace/) enables verifiable data exchange between organisations and their patients, employees, customers, and citizens. IBM's self-sovereign identity approach enables a highly scalable system that empowers individuals by giving them control over their data and the agency to choose how it will be used.
+- Fraud-free electoral voting systems in the [US, Australia, and Russia](https://venturebeat.com/business/blockchain-tech-could-fight-voter-fraud-and-these-countries-are-testing-it/) are being tested.
+- Estonia is trialing a [blockchain-based e-voting system](https://www.cryptocoinsnews.com/nasdaq-estonias-e-residency-empower-shareholders-estonian-stock-exchange/) that enables both Estonian nationals and non-local [e-residents](https://www.e-resident.gov.ee/) to securely vote in company shareholder meetings.
+- The [World Identity Network](https://win.systems/) (WIN) has [partnered with the UN](https://www.unops.org/news-and-stories/news/world-identity-network-and-united-nations-team-up-to-launch-innovative-blockchain-pilot-to-help-prevent-child-trafficking) to explore blockchain's potential to provide secure and safe forms of identification for the 2 billion people who lack such documentation.
+- [Worldcoin](https://worldcoin.org/blog/worldcoin/proof-of-personhood-what-it-is-why-its-needed) is another Digital ID (or proof of personhood) project that uses fancy eye-scanning devices to scan and tokenise a person's iris-based biometric identity, resulting in a verifiable Digital ID stored on the blockchain.
+- Dutch blockchain startup [mintBlue](https://mintblue.com/einvoicing/) has introduced on-chain eInvoicing and identity management to enable efficient validation and verification of financial documents.
+- Privacy-conscious internet browser [Brave](https://au.pcmag.com/suites-1/67250/how-to-earn-and-use-cryptocurrency-with-the-brave-browser) has launched a cryptocurrency token that rewards users for enabling ads in their browser.
+- [IBM's Digital Health Pass](https://www.linkedin.com/pulse/launch-digital-health-pass-open-source-project-marie-wallace/) enables verifiable data exchange between organisations and their patients, employees, customers, and citizens. IBM's self-sovereign identity approach enables a highly scalable system that empowers individuals by giving them control over their data and the agency to choose how it will be used.
 
 ## <div id="conclusion">The Future Of Data Ownership</div>
 
