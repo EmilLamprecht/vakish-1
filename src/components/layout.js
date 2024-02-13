@@ -50,6 +50,9 @@ export default ({ children }) => {
           by <a href="https://www.siliconrhino.io/">Silicon Rhino</a> &{" "}
           <a href="https://growth-mechanics.com/">Growth Mechanics</a>
         </p>
+        <p>
+          <a href="/privacy-policy/">Privacy Policy</a>
+        </p>
       </footer>
     </div>
   );
