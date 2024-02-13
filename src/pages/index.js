@@ -61,10 +61,21 @@ const IndexPage = ({
           --primary-text-color:${site.siteMetadata.theme.primaryTextColor};
           --primary-link-color:${site.siteMetadata.theme.linkColor};
           --primary-link-hover-color:${site.siteMetadata.theme.linkHoverColor};
-          --featured-bg: #493b8a;
+          --featured-bg: ${site.siteMetadata.theme.primaryColor};
           --featured-text: #fff;
           --secondary-color: ${site.siteMetadata.theme.secondaryColor};
           --background: ${site.siteMetadata.theme.backgroundColor};
+        }
+        body.light .button.-primary {
+          color: ${site.siteMetadata.theme.linkColor};
+          background-color: ${site.siteMetadata.theme.ctaColor};
+        }
+        body.light .button.-primary:hover {
+          color: ${site.siteMetadata.theme.linkColor};
+          background-color: ${site.siteMetadata.theme.ctaHoverColor};
+        }
+        body.dark .button.-primary {
+          color: ${site.siteMetadata.theme.darkModeLinkColor};
         }
     `}</style>
       </Helmet>
@@ -94,6 +105,8 @@ export const pageQuery = graphql`
           navLinkHoverColor
           googleFontImport
           googleFontName
+          ctaColor
+          ctaHoverColor
         }
       }
     }
