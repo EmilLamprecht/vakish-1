@@ -176,6 +176,14 @@ collections:
         name: metaDescription
         widget: text
         required: false
+      - name: canonical
+        label: Canonical URL
+        widget: string
+        pattern:
+          - https://
+          - http://
+        hint: Must be a valid url
+        required: false
       - label: Author
         name: author
         required: false
