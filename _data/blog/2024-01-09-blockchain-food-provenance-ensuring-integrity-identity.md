@@ -1,13 +1,13 @@
 ---
 template: BlogPost
-path: /blockchain-food-provenance/
+path: /food-provenance/
 date: 2024-01-09T10:17:00.886Z
-title: "Blockchain & Food Provenance: Ensuring Integrity & Identity"
+title: "Food Provenance & Blockchain: Ensuring Integrity & Identity"
 metaDescription: In-depth discussion of blockchain's potentials and risks in
   food provenance implementation. Includes use cases, notes on international
   recognition, and a primer on blockchain.
+canonical: https://goodledger.io/food-provenance/
 author: Sam Liddell
-canonical: https://goodledger.io/blockchain-food-provenance/
 ---
 
 ---
