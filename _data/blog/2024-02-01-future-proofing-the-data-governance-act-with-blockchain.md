@@ -9,8 +9,7 @@ metaDescription: An explanation of data governance, an overview of the EU's Data
 canonical: https://policyblocks.co/data-governance-act/
 author: Rachel Byfleet
 ---
-
----
+- - -
 
 ### Table of Contents
 
@@ -21,7 +20,7 @@ author: Rachel Byfleet
 5. [The DGA's Four Focus Pillars & The Potential of Blockchain](#dga-focus-pillars)
 6. [A Future of Opportunity & Innovation](#future-opportunity-innovation)
 
----
+- - -
 
 ## <div id="definition-impact">Data Governance & Why It Matters</div>
 
@@ -37,9 +36,9 @@ This is important because without prior understanding of how data governance wor
 
 ## <div id="businesses-vs-governments">Data Governance for Businesses vs. Governments</div>
 
-From a business perspective, data governance refers to the principles that organisations establish to utilise data properly and effectively, while still keeping information secure and complying with data regulations. I talk more in depth about data governance principles from a business perspective in a [previous article](https://policyblocks.co/data-governance/).
+From a business perspective, data governance refers to the principles that organisations establish to utilise data properly and effectively, while still keeping information secure and complying with data regulations. I talk more in depth about data governance principles from a business perspective in a [previous article](https://policyblocks.co/data-governance-principles/).
 
-On the flipside, the role of EU governments in relation to data governance is to regulate and standardise data governance practices across regions. Don't get me wrong, they do their fair share of data collection themselves — think census, public health, and income/tax data, for example. But in this article, my focus is solely on government strategies to _organise_ this vast amount of data.
+On the flipside, the role of EU governments in relation to data governance is to regulate and standardise data governance practices across regions. Don't get me wrong, they do their fair share of data collection themselves — think census, public health, and income/tax data, for example. But in this article, my focus is solely on government strategies to *organise* this vast amount of data.
 
 The most popular organisational tactic has been through the Data Governance Act, which aims to facilitate cross-border data sharing for public interests and the common good. The purpose of this article is to give an overview of EU policies, go more in depth about what the Data Governance Act entails, and explain how this all loops back to blockchain.
 
