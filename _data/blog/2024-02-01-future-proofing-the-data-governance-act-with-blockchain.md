@@ -1,13 +1,13 @@
 ---
 template: BlogPost
-path: /data-governance-act-blockchain/
+path: /data-governance-act/
 date: 2024-02-01T14:38:16.786Z
-title: Future-Proofing the Data Governance Act with Blockchain
+title: "The Data Governance Act: Future-Proofing With Blockchain"
 metaDescription: An explanation of data governance, an overview of the EU's Data
   Governance Act and its four Focus Pillars, and an exploration of the role
   blockchain can play.
+canonical: https://policyblocks.co/data-governance-act/
 author: Rachel Byfleet
-canonical: https://policyblocks.co/data-governance-act-blockchain/
 ---
 
 ---
