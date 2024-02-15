@@ -1,13 +1,13 @@
 ---
 template: BlogPost
-path: /blockchain-identity-authentication/
+path: /identity-authentication/
 date: 2024-01-09T11:03:38.088Z
 title: "Identity Authentication: How Blockchain Puts Users In Control"
 metaDescription: "Overview of identity authentication: what it is, how it works,
   what EU policies are relevant, and how blockchain might fit into the
   equation."
+canonical: https://policyblocks.co/identity-authentication/
 author: Rachel Byfleet
-canonical: https://policyblocks.co/blockchain-identity-authentication/
 ---
 
 ---
