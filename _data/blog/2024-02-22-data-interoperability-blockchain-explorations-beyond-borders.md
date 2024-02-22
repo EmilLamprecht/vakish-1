@@ -36,7 +36,7 @@ With data flowing from multiple platforms and systems, the need for it all to wo
 
 Data interoperability isn't just industry specific. By linking and utilising data from several industries, both nationally and globally, governments can use data to its full potential — especially as data and evidence is the backbone of policy-making. Finding new ways for data to interact in a more efficient way will ultimately allow policy-makers to collate more evidence and make lasting and meaningful change — at least, that's the goal.
 
-![](/assets/codeit-interoperability.jpg)
+![Depiction of interoperability in healthcare](/assets/codeit-interoperability.jpg "Code IT Interoperability")
 
 *Source: [Code IT](https://codeit.us/blog/what-is-interoperability-in-healthcare-and-what-are-its-key-benefits)*
 
