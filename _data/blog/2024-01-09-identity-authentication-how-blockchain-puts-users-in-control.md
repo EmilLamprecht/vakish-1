@@ -9,8 +9,7 @@ metaDescription: "Overview of identity authentication: what it is, how it works,
 canonical: https://policyblocks.co/identity-authentication/
 author: Rachel Byfleet
 ---
-
----
+- - -
 
 ### Table of Contents
 
@@ -20,13 +19,13 @@ author: Rachel Byfleet
 4. [The Future of Blockchain & Identity Authentication](#future)
 5. [Conclusion: Where Does That Leave Us?](#conclusion)
 
----
+- - -
 
 ## <div id="importance">Importance of Identity Authentication</div>
 
 Proving who you claim to be online is becoming more and more complicated. Whether it be accessing social media or finances, many aspects of everyday life are now taking place online — which is why protecting your online identity is more important than ever before.
 
-It's likely we've all been through many, _many_ security trainings that encourage us to pick safe passwords, enable two-factor authentication, or answer absurd security questions like, _'What was is the name of your grandmother's childhood dog?'_ And while I am admittedly the first person to have a short fuse when my phone doesn't immediately recognise me with my glasses on, the authentication process is key to ensuring our online identity is protected and maintained.
+It's likely we've all been through many, *many* security trainings that encourage us to pick safe passwords, enable two-factor authentication, or answer absurd security questions like, *'What was is the name of your grandmother's childhood dog?'* And while I am admittedly the first person to have a short fuse when my phone doesn't immediately recognise me with my glasses on, the authentication process is key to ensuring our online identity is protected and maintained.
 
 Businesses and customers have a shared interest when it comes to identity authentication. Customers deserve the peace of mind that their personal information is kept safe, just as businesses need to know exactly who they're dealing with, and in what capacity. But, as methods for identity authentication advance, so do the capabilities of hackers trying to steal information.
 
@@ -48,7 +47,7 @@ DIDs provide a new way to access information while allowing users to maintain ow
 
 ![W2C decentralised identifier (DID) demonstration](/assets/w2c-did.svg "Decentralised IDentifier (DID)")
 
-_Image source: https://www.w3.org/TR/did-core/_
+*Image source: https://www.w3.org/TR/did-core/*
 
 If you read [my last article on data ownership](https://policyblocks.co/data-ownership/), you'll know I gave a brief overview of public and private keys. DIDs use the same model. They allow a user access to interact with specific parts of a blockchain network to manage their identity and data sharing preferences.
 
@@ -70,7 +69,7 @@ Another area where identity authentication comes into play is in the financial s
 
 Through automatically verifying invoices, the integration saves the company time and effort it would have spent through manual verification. While automation isn't necessarily new, ensuring it's done on a decentralised platform is. Without a centralised entity modifying transactions, accountability and transparency improve tremendously.
 
-> "You already see these initiatives in the market. Only the data and the revenue model always lie with an external party. With the blockchain, you don’t have these limitations, and you always remain the owner of your data. Even if the companies around it were to disappear."<br>— _[Niels van den Bergh, CEO mintBlue](https://mintblue.com/visma-yuki-blockchain/)_
+> "You already see these initiatives in the market. Only the data and the revenue model always lie with an external party. With the blockchain, you don’t have these limitations, and you always remain the owner of your data. Even if the companies around it were to disappear."<br>— *[Niels van den Bergh, CEO mintBlue](https://mintblue.com/visma-yuki-blockchain/)*
 
 Blockchain also can do more than just help with practicalities in the financial sector. It has the potential to combat instances of fraud or tax evasion too. Through using this technology, companies could make digital paper trails directly available to tax authorities, allowing them to audit at any time and making it much harder to have two sets of books.
 
@@ -90,7 +89,7 @@ One of the ways eIDAS and blockchain potentially overlap is through e-signatures
 
 The [EU Digital Identity](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en) allows EU citizens to confirm their identity across the EU. This is all part of the EU's effort to move toward the [Digital Decade 2030](https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade) and digitalise public services.
 
-> "Every time an App or website asks us to create a new digital identity or to easily log on via a big platform, we have no idea what happens to our data in reality. That is why the Commission will propose a secure European e-identity. One that we trust and that any citizen can use anywhere in Europe to do anything from paying your taxes to renting a bicycle. A technology where we can control ourselves what data is used and how."<br>— _[Ursula von der Leyen, President of the European Commission](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en#:~:text=Every%20time%20an%20App%20or,a%20secure%20European%20e%2Didentity.)_
+> "Every time an App or website asks us to create a new digital identity or to easily log on via a big platform, we have no idea what happens to our data in reality. That is why the Commission will propose a secure European e-identity. One that we trust and that any citizen can use anywhere in Europe to do anything from paying your taxes to renting a bicycle. A technology where we can control ourselves what data is used and how."<br>— *[Ursula von der Leyen, President of the European Commission](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en)*
 
 As part of this initiative, large platforms such as Meta or Amazon will be legally required to authenticate identities and users must accept a EU Digital Identity Wallet to log in. However, there is an obvious balancing act needed between security and privacy online. The idea of big tech companies authenticating identities raises concerns about the role privacy, anonymity, and the potential surveillance of online activity have to play. It is important for control to remain in the users' hands — that they maintain the right to control how much they share on big platforms.
 
