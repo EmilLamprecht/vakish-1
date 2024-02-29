@@ -5,6 +5,7 @@ date: 2024-02-29T12:38:50.807Z
 title: "Blockchain In Accounting: An Overview"
 metaDescription: "An overview of blockchain in accounting: its roots, unique
   selling points, challenges, use cases, and future."
+canonical: https://bitfluence.org/blockchain-in-accounting/
 author: Harry Harrison
 ---
 #### Accounting has been around for millennia and has revolutionised finance since its inception, but the first modern blockchain was [created in just 2009](https://www.icaew.com/technical/technology/blockchain-and-cryptoassets/blockchain-articles/what-is-blockchain/history). How are blockchain protocols, created thousands of years after the birth of accounting, being applied to the industry today?
