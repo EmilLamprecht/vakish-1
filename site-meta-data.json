@@ -10,7 +10,7 @@
   "theme": {
     "primaryColor": "#F79A1D",
     "linkHoverColor": "#FAB740",
-    "navLinkHoverColor": "#FAB740",
+    "navLinkHoverColor": "#3F3F3F",
     "navLinkColor": "#F79A1D",
     "linkColor": "#F79A1D",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,200;0,300;0,400;0,700;1,200;1,300;1,400&display=swap",
