@@ -25,11 +25,11 @@
     "links": [
       {
         "linkLabel": "About",
-        "linkUrl": "/about"
+        "linkUrl": "/about/"
       },
       {
         "linkLabel": "Newsletter",
-        "linkUrl": "/newsletter"
+        "linkUrl": "/newsletter/"
       }
     ]
   },
