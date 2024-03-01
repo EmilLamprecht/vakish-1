@@ -36,25 +36,6 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-google-tagmanager",
-      options: {
-        id: "GTM-M6X843BM",
-
-        // Include GTM in development.
-        //
-        // Defaults to false meaning GTM will only be loaded in production.
-        includeInDevelopment: true,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // The property ID; the tracking code won't be generated without it. replace with yours
-        trackingId: "AA",
-        head: true,
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Delog GatbsyJS Starter`,
