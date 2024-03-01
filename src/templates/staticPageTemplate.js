@@ -83,14 +83,14 @@ export default function Template({
           font-weight: bold;
         }
     `}</style>
-      # Fathom Script
+     <!-- Fathom Script -->
         <script>
           var script = document.createElement('script'); script.id = 'fathom';
           script.dataset.site = 'PKHMMWAW';
           script.src = "https://cdn.usefathom.com/script.js";
           document.getElementsByTagName('head')[0].appendChild(script);
         </script>
-      # Sender Script
+      <!-- Sender Script -->
         <script>
           (function (s, e, n, d, er) {
             s['Sender'] = er;
