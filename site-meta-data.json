@@ -12,14 +12,14 @@
     "linkHoverColor": "#112A46",
     "navLinkHoverColor": "#FEBE07",
     "navLinkColor": "#112A46",
-    "linkColor": "#FEBE07",
+    "linkColor": "#2dbbda",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;1,300;1,400&display=swap",
     "secondaryColor": "#FEBE07",
     "googleFontName": "'Barlow', sans-serif;",
-    "ctaColor": "#FEBE07",
+    "ctaColor": "#112A46",
     "primaryTextColor": "#112A46",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#112A46"
+    "ctaHoverColor": "#FEBE07"
   },
   "navlinks": {
     "links": [
