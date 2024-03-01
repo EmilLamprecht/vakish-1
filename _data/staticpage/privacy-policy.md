@@ -10,11 +10,11 @@ metaDescription: This is the privacy policy for Bitfluence.org, a blog focused
 
 ## Introduction
 
-Welcome to bitfluence.org! We value your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
+Welcome to **bitfluence.org**! We value your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your data.
 
 ## Data Controller
 
-The data controller for bitfluence.org is Growth Mechanics Ltd. You can contact us at hi@hashspark.io with any questions or concerns.
+The data controller for **bitfluence.org** is **Growth Mechanics Ltd.** You can contact us at **hi@hashspark.io** with any questions or concerns.
 
 ## Information We Collect
 
@@ -28,7 +28,7 @@ We collect the following information:
 
 We use your information to:
 
-* Improve your browsing experience on bitfluence.org.
+* Improve your browsing experience on **bitfluence.org**.
 * Send newsletters and updates (with your consent).
 * Enhance website functionality and content.
 
@@ -39,7 +39,7 @@ The legal basis for processing your information is your consent for newsletters 
 We use the following third-party services:
 
 * **Netlify**: For website hosting.
-* **Fathom Analytics**: To analyze website traffic and usage. We do not use Google Tag Manager.
+* **Fathom Analytics**: To analyze website traffic and usage.
 * **Sender**: To manage and send newsletters.
 * **Fast Comments**: For our article commenting system.
 
@@ -69,4 +69,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at hi@hashspark.io.
+If you have any questions about this Privacy Policy, please contact us at **hi@hashspark.io**.
