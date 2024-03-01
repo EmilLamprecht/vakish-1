@@ -3,12 +3,11 @@ template: StaticPage
 path: /about/
 date: 2023-07-21T10:30:24.644Z
 title: About Me
-metaDescription: Harry Harrison is a writer and investment manager with a
-  passion for technology and finance.
+metaDescription: Michiel Mulders is a seasoned professional in the Web3 space.
 thumbnail: ""
 ---
-![Harry Harrison](/assets/harry_harrison.jpg "Harry Harrison")
+![Michiel Mulders](/assets/michiel_mulders.jpeg "Michiel Mulders")
 
-## Harry Harrison
+## Michiel Mulders
 
-I'm a writer and investment manager with a passion for technology and finance. I've been writing for over 4 years and I enjoy creating educational and informative content related to these two areas.
+Michiel is a seasoned professional in the Web3 space, bringing a wealth of experience from roles at Hedera, Algorand, and Lisk. With over 8 years dedicated to technical documentation and development, his journey has evolved from software engineering to DevRel, fueling a passion for enhancing developer experiences through meticulous documentation strategy, engaging video content, and innovative information architecture.
