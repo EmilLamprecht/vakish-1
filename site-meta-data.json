@@ -9,9 +9,9 @@
   },
   "theme": {
     "primaryColor": "#F79A1D",
-    "linkHoverColor": "#FAB740",
+    "linkHoverColor": "#3F3F3F",
     "navLinkHoverColor": "#3F3F3F",
-    "navLinkColor": "#F79A1D",
+    "navLinkColor": "#3F3F3F",
     "linkColor": "#F79A1D",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,200;0,300;0,400;0,700;1,200;1,300;1,400&display=swap",
     "secondaryColor": "#5E5E5E",
