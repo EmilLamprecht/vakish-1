@@ -11,4 +11,4 @@ thumbnail: ""
 
 ## Harry Harrison
 
-I'm a writer and investment manager with a passion for technology and finance. I’ve been writing for over 4 years and I enjoy creating educational and informative content related to these two areas.
+I'm a writer and investment manager with a passion for technology and finance. I've been writing for over 4 years and I enjoy creating educational and informative content related to these two areas.
