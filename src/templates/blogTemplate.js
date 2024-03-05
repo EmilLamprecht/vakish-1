@@ -99,7 +99,6 @@ export default function Template({
           font-weight: bold;
         }
     `}</style>
-
         <script>
           {`
             var script = document.createElement('script'); script.id = 'fathom';
