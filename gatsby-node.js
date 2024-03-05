@@ -1,7 +1,7 @@
 const path = require(`path`);
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
 
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`);
   const staticPageTemplate = path.resolve(
