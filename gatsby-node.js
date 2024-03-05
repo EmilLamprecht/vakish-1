@@ -3,6 +3,12 @@ const path = require(`path`);
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage, createRedirect } = actions;
 
+    // YOU NEED ONE OF THIS PER REDIRECT
+  //createRedirect({
+  //  fromPath: `/blog/recipes/mouthwatering-lasagna`,
+  //  toPath: `/recipes/mouthwatering-lasagna`,
+  // })
+
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`);
   const staticPageTemplate = path.resolve(
     `src/templates/staticPageTemplate.js`
