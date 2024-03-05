@@ -99,6 +99,31 @@ export default function Template({
           font-weight: bold;
         }
     `}</style>
+        <script>
+          {`
+            var script = document.createElement('script'); script.id = 'fathom';
+            script.dataset.site = 'GVQBNVXX';
+            script.src = "https://cdn.usefathom.com/script.js";
+            document.getElementsByTagName('head')[0].appendChild(script);
+          `}
+        </script>
+
+        <script>
+          {`
+            (function (s, e, n, d, er) {
+              s['Sender'] = er;
+              s[er] = s[er] || function () {
+                (s[er].q = s[er].q || []).push(arguments)
+              }, s[er].l = 1 * new Date();
+              var a = e.createElement(n),
+                  m = e.getElementsByTagName(n)[0];
+              a.async = 1;
+              a.src = d;
+              m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+            sender('b985bb7a815249')
+          `}
+        </script>
       </Helmet>
       <div className="blog-post-container">
         <article className="post">
