@@ -9,10 +9,10 @@
   },
   "theme": {
     "primaryColor": "#013C58",
-    "linkHoverColor": "#F5A201",
-    "navLinkHoverColor": "#00537A",
+    "linkHoverColor": "#00537A",
+    "navLinkHoverColor": "#F5A201",
     "navLinkColor": "#F5A201",
-    "linkColor": "#00537A",
+    "linkColor": "#F5A201",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap",
     "secondaryColor": "#F5A201",
     "darkModeLinkColor": "#FFCD00",
