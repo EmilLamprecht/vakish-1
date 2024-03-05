@@ -88,12 +88,10 @@ const IndexPage = ({
         }
     `}</style>
         <script>
-          {`
           var script = document.createElement('script'); script.id = 'fathom';
-          script.dataset.site = 'PKHMMWAW';
-          script.src = "https://cdn.usefathom.com/script.js";
+          script.dataset.site = 'PKHMMWAW'; script.src =
+          "https://cdn.usefathom.com/script.js";
           document.getElementsByTagName('head')[0].appendChild(script);
-          `}
         </script>
 
         <script>
