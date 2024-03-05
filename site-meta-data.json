@@ -11,8 +11,8 @@
     "primaryColor": "#148B8E",
     "linkHoverColor": "#186E5D",
     "navLinkHoverColor": "#186E5D",
-    "navLinkColor": "#148b8e",
-    "linkColor": "#148b8e",
+    "navLinkColor": "#43C6AC",
+    "linkColor": "#43C6AC",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Sofia+Sans:ital,wght@0,200;0,300;0,400;0,500;1,200;1,300;1,400;1,500&display=swap",
     "secondaryColor": "#43C6AC",
     "darkModeLinkColor": "#43C6AC",
@@ -20,7 +20,7 @@
     "ctaColor": "#022728",
     "primaryTextColor": "#022728",
     "backgroundColor": "#FFFFFF",
-    "ctaHoverColor": "#022728",
+    "ctaHoverColor": "#0A5557",
     "darkModeLinkHoverColor": "#186E5D"
   },
   "navlinks": {
