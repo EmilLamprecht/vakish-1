@@ -33,7 +33,7 @@ export default function Template({
     <Layout>
       <Helmet htmlAttributes={{ lang: "en-US" }}>
         <title>
-          {frontmatter.title} | {siteMetadata.title}
+          {frontmatter.title}
         </title>
         <meta name="description" content={frontmatter.metaDescription} />
         <meta property="og:title" content={frontmatter.title} />
