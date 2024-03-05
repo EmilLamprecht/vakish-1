@@ -8,11 +8,11 @@
     "description": "This is my blog about social good, and the potential impact of technology on the world.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
-    "primaryColor": "#07B9ED",
+    "primaryColor": "#035872",
     "linkHoverColor": "#AF4CF7",
     "navLinkHoverColor": "#07B9ED",
     "navLinkColor": "#3A3D40",
-    "linkColor": "#07B9ED",
+    "linkColor": "#035872",
     "googleFontImport": "https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;700&display=swap",
     "secondaryColor": "#3A3D40",
     "darkModeLinkColor": "#07B9ED",
