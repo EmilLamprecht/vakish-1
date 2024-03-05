@@ -4,8 +4,8 @@
   "description": "Welcome to Goodledger.io, where we talk about social good, and the potential impact of technology on the world.",
   "logo": "/assets/goodledger-mainlogo-72dpi-fullcolor.png",
   "home": {
-    "title": "",
-    "description": "# Welcome to GoodLedger.io\n\nThis is my blog about social good, and the potential impact of technology on the world.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
+    "title": "Welcome to GoodLedger.io",
+    "description": "This is my blog about social good, and the potential impact of technology on the world.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#07B9ED",
