@@ -5,7 +5,7 @@
   "logo": "/assets/png-deep-blue-and-yellow-logo-500px.png",
   "home": {
     "title": "",
-    "description": "# Welcome to PolicyBlocks.co\n\nWelcome to my website about gov, policy, and tech. \n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
+    "description": "<h1>Welcome to PolicyBlocks.co</h1>\n\nWelcome to my website about gov, policy, and tech. \n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#013C58",
