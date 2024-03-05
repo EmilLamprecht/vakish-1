@@ -4,8 +4,8 @@
   "description": "Welcome to Blockchainvision.io, where I talk about the future of blockchain, and how it should (and absolutely shouldn't) be used.",
   "logo": "/assets/blockchainvision_logo-horizontal.png",
   "home": {
-    "title": "",
-    "description": "# Welcome to Blockchainvision.io\n\nMy blog about the future of blockchain, and how it should (and absolutely shouldn't) be used.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
+    "title": "Welcome to Blockchainvision.io",
+    "description": "My blog about the future of blockchain, and how it should (and absolutely shouldn't) be used.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#148B8E",
