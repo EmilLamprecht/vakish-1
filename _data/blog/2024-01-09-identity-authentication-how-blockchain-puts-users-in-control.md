@@ -8,6 +8,7 @@ metaDescription: "Overview of identity authentication: what it is, how it works,
   equation."
 canonical: https://policyblocks.co/identity-authentication/
 author: Rachel Byfleet
+thumbnail: /assets/identity-authentication_policy-blocks-identity-authentication-header-1140x416.jpg
 ---
 - - -
 
@@ -34,6 +35,8 @@ Now, an important distinction to make is the difference between digital identity
 All of this is relevant because, as I mentioned, it is increasingly important to safeguard this information. And this is where blockchain can come in. Blockchain is a promising technology that can help create more user-controlled, secure digital identities and authentication processes. However, adoption is not yet mature enough to do so — there needs to be a collective effort to make it more mainstream and user-centric.
 
 My goal in this article is to explain the relationship between blockchain and identity authentication, analyse relevant policies, and explore what the future could look like.
+
+![Blockchain Enhancing Identity Authentication](/assets/identity-authentication_policy-blocks-identity-authentication-article-image-1-768x416.jpg "Blockchain Enhancing Identity Authentication")
 
 ## <div id="enhancing">Enhancing Identity Authentication</div>
 
@@ -74,6 +77,8 @@ Through automatically verifying invoices, the integration saves the company time
 Blockchain also can do more than just help with practicalities in the financial sector. It has the potential to combat instances of fraud or tax evasion too. Through using this technology, companies could make digital paper trails directly available to tax authorities, allowing them to audit at any time and making it much harder to have two sets of books.
 
 There are many sectors dipping their toes into using blockchain to enhance identity authentication. The decentralised ideology is attractive for businesses and individuals alike. This is a truly exciting time for this technology to take hold and the future looks bright as blockchain continues to mature.
+
+![EU as Arbiter of Identity Authentication](/assets/identity-authentication_policy-blocks-identity-authentication-article-image-2-768x416.jpg "EU as Arbiter of Identity Authentication")
 
 ## <div id="emerging-policies">Emerging Identity Authentication Policies</div>
 
