@@ -46,7 +46,7 @@ The truth of the matter is: We (consumers) largely don't know where our food com
 
 ### Food Sustainability
 
-Addressing the [sustainable supply of food represents one of the most substantial challenges](http://Addressingtheethicalandsustainablesupplyoffoodrepresentsoneofthemostsubstantialchallengeshumanityfaces.Thischallengeencompassesallaspectsofthesupplychain,spanningfromproductionandprocessingtodistribution,retailing,homepreparation,andwastemanagement.Theglobalfoodsystemisanotablecontributortogreenhousegasemissions,drivingclimatechange,anditadditionallyengenderssignificantenvironmentalrepercussions,includingthelossofbiodiversityandissuesrelatedtowaterextractionandpollution.) for humanity. Food sustainability encompasses all aspects of the supply chain — spanning from production and processing to distribution, retailing, consumption, and waste management.
+Addressing the sustainable supply of food represents one of the most substantial challenges for humanity. Food sustainability encompasses all aspects of the supply chain — spanning from production and processing to distribution, retailing, consumption, and waste management.
 
 The global food system is complex and has far reaching effects. It is a major contributor to greenhouse gas emissions, climate change, [the loss of biodiversity](https://www.theguardian.com/global-development/2019/feb/21/worlds-food-supply-under-severe-threat-from-loss-of-biodiversity), and is creating major [issues for our waterways](https://www.weforum.org/agenda/2022/11/water-food-supply-major-concern-countries-supply-chains/).
 
