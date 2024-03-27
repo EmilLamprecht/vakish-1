@@ -7,6 +7,7 @@ metaDescription: An overview of data provenance, exploration of the limits of
   current tools, and a look into the blockchain-driven data provenance and
   recordkeeping future.
 author: Michiel Mulders
+thumbnail: /assets/bv2-header.jpg
 ---
 - - -
 
@@ -46,6 +47,8 @@ The implementation of data provenance varies significantly depending on the need
 
 Now, let’s pivot to a bit of a sticky wicket: the challenges of traditional data provenance tools.
 
+![The Challenges Of Traditional Data Provenance Tools](/assets/bv1-2.jpg "The Challenges Of Traditional Data Provenance Tools")
+
 ## <div id="challenges">The Challenges Of Traditional Data Provenance Tools</div>
 
 While tools like Luigi, Git, and CKAN offer many benefits, they also come with their own set of limitations. For example:
@@ -67,6 +70,8 @@ Blockchain offers a couple of interesting properties that address some of the cu
 * **Cross-organization and cross-system**: Blockchain is great for building cross-organizational or cross-system data pipelines, as anyone can connect to the blockchain to publish and modify data.
 * **Smart contracts**: One of the most underestimated features is smart contracts. They allow you to define rules and automate data provenance processes. Smart contracts execute actions only when predefined conditions are met. On top of that, you can require certain employees or stakeholders to sign the data. This means you know who altered the data or approved a data mutation. For these reasons, it’s a great solution to ensure data trust and security.
 * **Scalability**: You can benefit from unparalleled scalability depending on your chosen solution.
+
+![Blockchain Provides Immutability & Transparency](/assets/bv1-1.jpg "Blockchain Provides Immutability & Transparency")
 
 While blockchain seems like a great solution, you must consider a few challenges when adopting it.
 
