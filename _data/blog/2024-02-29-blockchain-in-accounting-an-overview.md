@@ -7,6 +7,7 @@ metaDescription: "An overview of blockchain in accounting: its roots, unique
   selling points, challenges, use cases, and future."
 canonical: https://bitfluence.org/blockchain-in-accounting/
 author: Harry Harrison
+thumbnail: /assets/bf1-header.png
 ---
 #### Accounting has been around for millennia and has revolutionised finance since its inception, but the first modern blockchain was [created in just 2009](https://www.icaew.com/technical/technology/blockchain-and-cryptoassets/blockchain-articles/what-is-blockchain/history). How are blockchain protocols, created thousands of years after the birth of accounting, being applied to the industry today?
 
@@ -34,9 +35,7 @@ The number of blockchain networks nowadays might [be in the thousands](https://w
 
 Today however, what Satoshi spoke about is more commonly known as a blockchain, and its potential applications in a business context are vast. They include everything from supply chain management to voting and governance. It’s no different when it comes to accounting, which faces its own set of problems that the technology can help solve. But what are they?
 
-![How records are stored: conventional vs. blockchain accounting](https://www.universalcpareview.com/wp-content/uploads/2021/02/How-are-records-stored.png "Conventional vs. Blockchain Accounting")
-
-*Image source: [universalCPAreview](https://www.universalcpareview.com/ask-joey/how-will-blockchain-impact-accounting)*
+![Centralized vs. Distributed Ledger](/assets/bf1-2.png "Centralized vs. Distributed Ledger")
 
 ## <div id="issues">The Issues With Modern Accounting & How Blockchain Can Help</div>
 
@@ -57,9 +56,7 @@ It’s similar to how a [proof of reserves (PoR) audit](https://milkroad.com/exc
 
 The immutability of a blockchain ensures that participants are responsible for their actions, as once a mistake occurs, a participant can only add a new record to correct the error. A record of the error itself can never be erased. This makes a blockchain the ultimate record in proving the reliability of previous transactions — it provides a single source of truth, which is updated and verified by the network in real time.
 
-![Blockchain enables verification without a trusted third party](/assets/deloitte-blockchain-accounting.png "Blockchain enables verification without a trusted third party")
-
-*Image source: [Deloitte](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/Innovation/Blockchain_A%20game-changer%20in%20accounting.pdf)*
+![Blockchain Helps Streamline Workflows](/assets/bf1-1.png "Blockchain Helps Streamline Workflows")
 
 ### Automation
 
@@ -149,9 +146,7 @@ Tokenisation lowers the barriers to entry for investment in high-value assets an
 
 Traditional accounting practices, which are often relatively slow to report updates in asset valuations, could struggle to keep pace with the real-time data provided by a tokenised asset market. Blockchain however offers a way for anyone with permission to view changes in real time, leading to a more accurate decision-making process when deciding on the valuation of an asset or company.
 
-![Asset Tokenization Process](https://www.scnsoft.com/blockchain/tokenized-assets/asset-tokenization_diagram.png "Asset Tokenization Process")
-
-*Image source: [ScienceSoft](https://www.scnsoft.com/blockchain/asset-tokenization)*
+![Asset Tokenization Process](/assets/bf1-3.png "Asset Tokenization Process")
 
 ### Triple-Entry Bookkeeping
 
