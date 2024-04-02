@@ -1,8 +1,8 @@
 ---
 template: BlogPost
 path: /identity-authentication/
-date: 2024-04-05T12:29:30.976Z
-title: Identity Authentication, Blockchain, & Social Organisations
+date: 2024-04-02T13:14:06.005Z
+title: Identity Authentication & Its Importance For Social Organisations
 metaDescription: Exploring Blockchain’s Role in Solving the Identity
   Authentication Woes of Social Organisations
 author: Sam Liddell
