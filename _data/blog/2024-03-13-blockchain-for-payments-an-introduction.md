@@ -7,6 +7,7 @@ metaDescription: "An exploration of how blockchain can and is changing the
   payments industry: from accounting to supply chain finance, ICO fundraising,
   e-invoicing, AML & KYC, and micropayments."
 author: Harry Harrison
+thumbnail: /assets/bitfluence-payments0.png
 ---
 **In a 2021 report titled [Payments are Eating the World](https://www.jpmorgan.com/insights/payments/payment-trends/payments-are-eating-the-world), J.P. Morgan stated that the next decade will see revolutionary and foundational changes within the payments industry. But how could blockchain applications, specifically, help this essential and all-encompassing field?**
 
@@ -71,9 +72,7 @@ Demand for SCF is growing quickly. It’s estimated that global SCF transaction 
 
 Large financial institutions are often reluctant to lend to emerging markets — the primary reason being a lack of trust between the parties involved. Blockchain might have its own issues, but its ability to verify transaction history and payment reliability offers a great solution to this particular problem.
 
-![Supply Chain Finance, Traditional Model vs. Blockchain](/assets/traditional-vs-blockchain.png "Supply Chain Finance, Traditional Model vs. Blockchain")
-
-*Image source: [World Trade Organisation](https://www.wto.org/english/res_e/booksp_e/blockchainrev18_e.pdf); (LC = Letter of Credit)*
+![Automated Supply Chain Finance](/assets/bitfluence-payments1.png "Automated Supply Chain Finance")
 
 Barclays issued the first-ever [blockchain-based letter of credit in 2016](https://home.barclays/news/2016/11/how-blockchain-is-transforming-trade-finance/) and hailed blockchain as “a technology that promises to transform trade finance over the coming decade.” The technology has, arguably, undelivered on that promise, although how much of this is down to the technology itself vs. the inertia of the institutions involved is unclear. Work to grow the role of blockchain-based protocols in SCF is still ongoing.
 
@@ -134,9 +133,7 @@ As is the case with e-invoicing, this could become even more difficult in the fu
 
 Could this end up creating yet another form of an AI arms race? One in which the creators use AI to make fake documents, and the law enforcement agencies use AI to ascertain whether the documents are fake or not? There must be an easier way.
 
-![KYC, Traditional vs. Blockchain](/assets/blockchain-kyc.png "KYC, Traditional vs. Blockchain")
-
-*Image source: [GeeksforGeeks](https://www.geeksforgeeks.org/blockchain-and-kyc/)*
+![Know Your Customer](/assets/bitfluence-payments2.png "Know Your Customer")
 
 The configurability of blockchain means that the right people can have access to available customer data whilst also making it traceable and verifiable. The principle behind this is simple: each piece of data recorded on the blockchain is linked to the previous one.
 
