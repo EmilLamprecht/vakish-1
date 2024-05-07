@@ -7,6 +7,7 @@ metaDescription: Overview of data sovereignty, how blockchain can enhance it,
   some relevant existing policies, and a future outlook into the world of data
   sovereignty and blockchain.
 author: Rachel Byfleet
+thumbnail: /assets/pb7-data-sovereignty-header.jpg
 ---
 - - -
 
@@ -29,6 +30,8 @@ Meanwhile, on a governmental scale, data is subject to laws and regulations in t
 Because of the decentralised, secure nature of blockchain, it offers a robust solution to support the principles of data sovereignty for both governments and individuals. It can provide the enhanced trust and transparency that many governments are trying to achieve with data sovereignty policies, as well as give users control over their own personal information.
 
 In this article, I’ll delve into data sovereignty, explore how blockchain can enhance it, examine some relevant existing policies, and provide a future outlook into this world of data sovereignty and blockchain. Hopefully by the end, you’ll have a better understanding of what this all means, why it’s important, and how it affects citizens like you and me.
+
+![Blockchain as the key to data sovereignty](/assets/pb7-data-sovereignty-article-image-2.jpg "Blockchain as the key to data sovereignty")
 
 ## <div id="understanding">Understanding Data Sovereignty</div>
 
@@ -82,9 +85,7 @@ While I like to think that these policies actually increase protection over citi
 
 There are several reasons blockchain can play a key part in data sovereignty on both individual and governmental levels. The graphic above simplifies the way blockchain works in terms of utilising a decentralised platform to create immutable data records in a transparent and secure way. The decentralised aspect is key, because it means data remains under the control of its rightful owner, citizen or authority, and is not subject to manipulation or unauthorised access.
 
-![Money.com Blockchain Process](/assets/money-blockchain-process.jpg "Money.com Blockchain Process")
-
-*Image source: [Money.com](https://money.com/what-is-blockchain/)*
+![Process of how blockchain works](/assets/pb7-data-sovereignty-article-image-1.jpg "Process of how blockchain works")
 
 Central to the concept on an individual level is the idea of self-sovereign identity, which emphasises the user’s control over their own identity and data. It is a concept that empowers users to manage their digital identities without relying on a central authority or database. [Metadium defines it as:](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872)
 
