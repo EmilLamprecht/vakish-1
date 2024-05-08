@@ -25,7 +25,7 @@ author: Sam Liddell
 
 Charities are there for those who are in need. And supporting charities with powerful tools and technologies can help those who are helping others. Blockchain is one of these tools.
 
-Blockchain is a highly innovative tool that can be brought to the table — it can help charities with efficient access to funding and and help address challenges like trust and transparency.
+Blockchain is a highly innovative tool that can help charities with efficient access to funding and help address challenges like trust and transparency.
 
 The Russian invasion of Ukraine was one example where charity efforts were in immediate need. One surprising (and quick to act) organisation was none other than the popular crypto exchange [Binance](https://www.binance.com/en/support/announcement/binance-to-donate-10m-to-ukraine-humanitarian-effort-and-launch-crypto-first-crowdfunding-site-to-further-help-provide-aid-to-ukraine-6bce8615076a4173a4738817c597b09e). Typically known for facilitating a large portion of the world’s crypto trades, Binance was quick to set up the [Ukraine Emergency Relief Fund](https://finance.yahoo.com/news/binance-donate-10m-ukraine-refugees-090618884.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAABZzGjePGLGtsYkMUYAWBArB2MHtXa9Vkv4EoqSupHhyXGZgBx0bo5ee13SjnfROWs3gDWqgjh0a8_jP8667HeVX634aWI71sA9jbAe_49d5-LquNMJR2NtZjWnyaUVGABRhvqnQxwYxULlyHlEmN6cgakU0joG3nvJc9O53kfJN) — a cryptocurrency-focused crowdfunding platform that allowed people to make contributions to emergency relief efforts.
 
@@ -49,9 +49,9 @@ It’s like a public library where anyone with the right keys can participate in
 
 There’s some cryptography, economic principles, and novel software stuff in there too, all of which contribute to the ability for the blockchain network to run securely and efficiently, but let's keep things high-level for now.
 
-Not only can the transactions have a monetary value (like trading Bitcoin), but the transactions and corresponding assets could represent many things with an assigned value. Tokens may include data like media files (*read: NFTs*), or things like business documents like invoices and contracts, or other important documents like verifiable personal identity documents (IDs). These documents can now be stored, verified, transferred, and accessed by various approved participants in the system (blockchain network).
+Not only can the transactions have a monetary value themselves (like trading Bitcoin), but the transactions and corresponding assets could represent many things with an assigned value. Tokens may include data like media files (*read: NFTs*), or business documents like invoices and contracts, or other important documents like verifiable personal identity documents (IDs). These documents can now be stored, verified, transferred, and accessed by various approved participants in the system (the blockchain network).
 
-Okay, okay, we can go in many directions about how blockchain can be used beyond crypto, so check out my other posts (obviously after finishing this one first) to see how blockchain can be more than digital money, but for now — *blockchain and charities*.
+Okay, okay, we can go in many directions about how blockchain can be used beyond crypto, so check out my other posts (obviously after finishing this one first!) to see how blockchain can be more than digital money, but for now — *blockchain and charities*.
 
 ## <div id="how-blockchain-helps-charities">Challenges Charities Face & How Blockchain Can Help</div>
 
