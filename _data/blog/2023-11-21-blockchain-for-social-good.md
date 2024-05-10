@@ -5,11 +5,11 @@ date: 2023-11-21T15:30:36.530Z
 title: Blockchain For Social Good
 metaDescription: How nonprofits, NGOs, & charities are addressing global
   challenges with blockchain. Pros, cons, and real-world examples.
-author: Sam Liddell
 canonical: https://goodledger.io/blockchain-for-social-good/
+author: Sam Liddell
+thumbnail: /assets/gl1-blockchain-for-social-good-header.jpg
 ---
-
----
+- - -
 
 ### Table of Contents
 
@@ -20,7 +20,7 @@ canonical: https://goodledger.io/blockchain-for-social-good/
 5. [Blockchain, Nonprofits, & Trust](#trust)
 6. [Conclusion: The Future Is Good & It Is On-Chain](#conclusion)
 
----
+- - -
 
 ## <div id="addressing-global-challenges">How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain</div>
 
@@ -35,6 +35,8 @@ Powerful ideological projects like Bitcoin and Ethereum are virtual currencies t
 ### Blockchain & Business Innovation
 
 Blockchain is helping revolutionise business processes as well as introduce entirely new business models, and ways of creating value. Enterprise and public institutions across the board are getting in on the action. Blockchain has seemingly already found an array of problems that it can help solve. From [e-invoicing and automated accounting](https://coingeek.com/mintblue-enhances-e-invoicing-security-with-new-integration/), to [supply chain management](https://www.forbes.com/sites/forbestechcouncil/2021/11/08/blockchain-in-supply-chain/?sh=73fa85bc4e1a) and the [provenance of physical goods](https://www.sciencedirect.com/science/article/abs/pii/S0007681319300084), to [on-chain education records](https://cointelegraph.com/news/us-education-department-promotes-putting-student-records-on-blockchain), blockchain's public ledger and smart contract capabilities are propelling it far beyond its crypto use case. With its secure and transparent nature, we'll explore how it can be used to help tackle some of the most important societal issues.
+
+![Support for blockchain by everyday people and organisations](/assets/gl1-blockchain-for-social-good-article-image-1.jpg "Support for blockchain by everyday people and organisations")
 
 ## <div id="optimistic-hubris">Not Just Pro-Blockchain — Optimistic Hubris</div>
 
@@ -63,7 +65,9 @@ The EIC's Commissioner for Research, Science and Innovation Carlos Moedas [recog
 
 You may have seen headline-grabbing statements like "[Bitcoin Uses More Electricity Than Many Countries](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html)," which may sound alarming. You may have even seen social change leader Greenpeace campaigning to [change the Bitcoin (BTC) protocol](https://www.greenpeace.org/usa/greenpeace-bitcoin-climate-change-crisis-clean-up/) to address this problem. These headlines may have eco-conscious climate advocates sceptical at the promise of blockchain, but the truth of the situation is a little more nuanced. Let's dig in.
 
-While it's true the original Bitcoin (BTC) does use a relatively large amount of energy, it is not indicative of an inherent flaw in the nature of blockchain. Bitcoin (BTC) [currently consumes around 110 Terawatt Hours per year](https://ccaf.io/cbnsi/cbeci) — 0.55% of global electricity production, or roughly equivalent to the annual energy draw of a country like Malaysia. This certainly does sound like a lot of energy, but in the words of [The Harvard Business Review](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume): How much energy should a monetary system consume?
+While it's true the original Bitcoin (BTC) does use a relatively large amount of energy, it is not indicative of an inherent flaw in the nature of blockchain. Bitcoin (BTC) [currently consumes around 110 Terawatt Hours per year](https://ccaf.io/cbnsi/cbeci) — 0.55% of global electricity production, or roughly equivalent to the annual energy draw of a country like Malaysia. This certainly does sound like a lot of energy, but in the words of [The Harvard Business Review](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume): "How much energy should a monetary system consume?"
+
+![Is Bitcoin fueling the climate crisis?](/assets/gl1-blockchain-for-social-good-article-image-2.jpg "Is Bitcoin fueling the climate crisis?")
 
 Bitcoin (BTC) is the OG implementation of blockchain as a digital money system, but it is not a fair example that characterises the energy use of all blockchain protocols or implementations. For example, [Bitcoin SV](https://bitcoinsv.com/) (BSV), another version of Bitcoin (that also uses Bitcoin's Proof of Work consensus mechanism), has been recognised as [the most energy-efficient blockchain](https://www.prnewswire.com/news-releases/new-independent-report-finds-bsv-blockchain-to-be-most-energy-efficient-301431603.html) due to its unique transaction processing capability.
 
@@ -85,12 +89,12 @@ Social organisations are often tasked with addressing humanity's difficult and c
 
 Some of the key challenges these organisations are tasked with include:
 
-- Ensuring the voice of the people is heard and their rights are respected (often representing the most vulnerable and marginalised populations)
-- Ensuring fair and equitable access to basic resources like healthcare and education
-- Efficiently distributing resources (often in distressing and complex situations)
-- Ensuring the sustainable use and supply of important resources such as safe drinking water and food
-- Raising public awareness about, advocating for, and shaping public narratives on important topics
-- Monitoring and reporting on important situations and outcomes
+* Ensuring the voice of the people is heard and their rights are respected (often representing the most vulnerable and marginalised populations)
+* Ensuring fair and equitable access to basic resources like healthcare and education
+* Efficiently distributing resources (often in distressing and complex situations)
+* Ensuring the sustainable use and supply of important resources such as safe drinking water and food
+* Raising public awareness about, advocating for, and shaping public narratives on important topics
+* Monitoring and reporting on important situations and outcomes
 
 These responsibilities are true of not just NGOs, but social organisations like charities and nonprofits alike. These organisations are faced with the constant need to raise funds, operating with the ever-present need for trust and effective operations. Luckily, blockchain promises to address these challenges and we have forward-thinking organisations leaning in.
 
@@ -133,6 +137,8 @@ In Jordan's Azraq refugee camp, 10,000 refugees are involved [in a World Food Pr
 Effective governance within nonprofit organisations is vital for transparent decision-making and accountability. Blockchain proposes a novel governance opportunity in the form of a "DAO."  DAO stands for [decentralised autonomous organisation](https://www.investopedia.com/tech/what-dao/), a blockchain-native organisation with inherent ownership and decision-making alignment between stakeholders.
 
 [KlimaDAO](https://www.klimadao.finance/) is one of the first mission-driven organisations utilising blockchain in its governance and ownership structure. KlimaDAO was started to solve the problem of carbon credit market efficiencies — and, while controversial, it is an example of how organisations can align with stakeholders, allowing token holders to contribute by voting on key decisions. Ultimately this novel governance and decision-making structure may lead to more democratic and efficient resource allocation in both private enterprises and for nonprofit initiatives.
+
+![Blockchain enhances trust](/assets/gl1-blockchain-for-social-good-article-image-3.jpg "Blockchain enhances trust")
 
 ## <div id="trust">Blockchain, Nonprofits, & Trust</div>
 
