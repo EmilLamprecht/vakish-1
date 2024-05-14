@@ -6,6 +6,7 @@ title: Data Provenance & Its Evolution To Blockchain Recordkeeping
 metaDescription: An overview of data provenance, exploration of the limits of
   current tools, and a look into the blockchain-driven data provenance and
   recordkeeping future.
+canonical: https://hashspark.io/data-provenance/
 author: Michiel Mulders
 thumbnail: /assets/bv2-header.jpg
 ---
