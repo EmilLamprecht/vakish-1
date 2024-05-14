@@ -5,7 +5,7 @@ date: 2023-12-13T13:00:00.000Z
 title: Data Ownership, Micro-Communities, & the Role of Blockchain
 metaDescription: Understanding data ownership through the example of
   blockchain-driven micro-communities and micropayments.
-canonical: https://blockchainvision.io/data-ownership/
+canonical: https://hashspark.io/data-ownership/
 author: George Siosi Samuels
 thumbnail: /assets/blockchainvision-data-ownership-feature-illustration.jpg
 ---
