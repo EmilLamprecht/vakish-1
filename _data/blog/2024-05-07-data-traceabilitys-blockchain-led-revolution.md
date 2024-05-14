@@ -5,6 +5,7 @@ date: 2024-05-07T11:32:36.247Z
 title: Data Traceability's Blockchain-Led Revolution
 metaDescription: Overview of data traceability and its necessity, challenges,
   and the promising role of blockchain.
+canonical: https://hashspark.io/data-traceability/
 author: Michiel Mulders
 ---
 - - -
