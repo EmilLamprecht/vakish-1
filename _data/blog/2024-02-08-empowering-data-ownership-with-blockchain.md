@@ -7,6 +7,7 @@ metaDescription: How social organisations can leverage blockchain to help with
   data ownership in the digital age.
 canonical: https://goodledger.io/data-ownership/
 author: Sam Liddell
+thumbnail: /assets/gl4-data-ownership_goodledger-header.jpg
 ---
 **How social organisations can leverage blockchain to help with data ownership in the digital age**
 
@@ -58,6 +59,8 @@ Data ownership is becoming a crucial aspect of privacy and protection for people
 
 ## <div id="importance-organisations">The Importance of Data Ownership For Organisations</div>
 
+![People's data being converted to money by capitalists](/assets/gl4-data-ownership_goodledger-article-image-1.jpg "People's data being converted to money by capitalists")
+
 Data is not just a monetisation strategy used by big tech, but an integral component of operating any type of organisation in the digital age. Your accounting records, employee information, customer records, inventory, suppliers, processes, and many things in between — are all key pieces of data required for effectively running an organisation.
 
 Misplaced, inaccurate, or inaccessible information can result in costly setbacks. Leaked or stolen information can be extremely damaging to all parties involved, and ineffective use or lack of data access can leave a lot on the table.
@@ -75,6 +78,8 @@ The GDPR is a European Union privacy regulation applicable to organisations hand
 The CCPA is a California state-level law applicable to businesses processing the personal information of California residents. It gives consumers rights such as the ability to access their data and the right to opt-out of data collection, all while [prohibiting discrimination against those who exercise their rights](https://www.truevault.com/consumers/ccpa/what-is-the-ccpa-right-to-non-discrimination). It also imposes fines and allows for consumer lawsuits for violations. Both the GDPR and the CCPA reflect the rising importance of data privacy and help contribute to ensuring that organisations take our data seriously.
 
 ## <div id="social-organisations-goals">How Data Ownership Relates To The Goals Of Social Organisations</div>
+
+![A charity as the central source for aid](/assets/gl4-data-ownership_goodledger-article-image-2.jpg "A charity as the central source for aid")
 
 Data ownership is not just a matter of legal compliance, but a fundamental aspect of responsible data management and good business practices. If an organisation doesn't handle its stakeholders' data prudently and consciously, they run the risk of eroding trust in its organisation — a key pillar for any social organisation. Effectively collecting, storing, and using data,  as well as clearly communicating around data ownership is vital for building trust and transparency for all social organisations in our increasingly data-driven world.
 
@@ -97,6 +102,8 @@ Filecoin is an open-source decentralised storage network and marketplace that al
 The InterPlanetary File System (IPFS) isn’t just a great name, it's another example of a decentralised storage network that allows users to store and retrieve information without the potential bottlenecks caused by a single, centralised server. This efficiency is made possible because data is stored on many different computers, so all of those computers can feed parts of the data to your computer at once (similar to how [a torrent download works](https://www.howtogeek.com/31846/bittorrent-for-beginners-how-get-started-downloading-torrents/)).
 
 ## <div id="benefits-of-blockchain">How Blockchain Provides Transparency, Control, & Accountability</div>
+
+![How Blockchain Provides Transparency, Control, & Accountability](/assets/gl4-data-ownership_goodledger-shareable.jpg "How Blockchain Provides Transparency, Control, & Accountability")
 
 You can request a copy of your data from Facebook, with the process and contact person specified in their Terms of Service. You can then expect a hard drive full of deeply personal information spanning your lifetime using Facebook and its related products. Do you remember that conversation you had with your high school crush or those 21st birthday photos? Facebook does.
 
