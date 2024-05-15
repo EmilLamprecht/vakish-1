@@ -107,9 +107,9 @@ You can use your phone to browse the internet and buy things online, yet you don
 
 The same thing applies to blockchain — you don't need to fully understand the technology to use and benefit from it. But — because knowledge is power and we know you're a curious bunch — we will quickly try to explain it anyway.
 
-![Blockchain as a library with individual user access](/assets/gl2-food-provenance_goodledger-article-image-2.jpg "Blockchain as a library with individual user access")
-
 ## <div id="blockchain-explained">Blockchain Explained</div>
+
+![Blockchain as a library with individual user access](/assets/gl2-food-provenance_goodledger-article-image-2.jpg "Blockchain as a library with individual user access")
 
 ### What is Blockchain?
 
@@ -167,9 +167,9 @@ They have successfully tested blockchain-based solutions on the Indonesian tuna 
 
 > *"Blockchain's ability to capture data along the supply chain makes it a fast and efficient way to pinpoint where contamination or other safety issues may have originated."*
 
-![Blockchain's food provenance use cases](/assets/gl2-food-provenance_goodledger-article-image-3.jpg "Blockchain's food provenance use cases")
-
 ## <div id="use-cases">Blockchain Food Provenance Use Cases</div>
+
+![Blockchain's food provenance use cases](/assets/gl2-food-provenance_goodledger-article-image-3.jpg "Blockchain's food provenance use cases")
 
 ### How Blockchain is Helping Eradicate Slavery in the Chocolate Industry
 
