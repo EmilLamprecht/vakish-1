@@ -37,9 +37,9 @@ Now, two challenges emerge: organisations must keep pace with new legislation, a
 
 My aim is to provide a comprehensive narrative to make understanding data governance a bit easier, while highlighting a few principles to help create a robust framework. I’ll also delve into the latest governmental regulations, such as the Data Governance Act, underscore blockchain’s potential in the context of data governance, and offer recommendations for navigating the ever-changing data landscape.
 
-![Principles of Data Governance: transparency, accountability, auditability, security, credibility](/assets/pb1-data-governance-principles-article-image-1.jpg "Principles of Data Governance: transparency, accountability, auditability, security, credibility")
-
 ## <div id="principles">Data Governance Principles</div>
+
+![Principles of Data Governance: transparency, accountability, auditability, security, credibility](/assets/pb1-data-governance-principles-article-image-1.jpg "Principles of Data Governance: transparency, accountability, auditability, security, credibility")
 
 Many organisations are drowning in the data they collect. It is therefore essential to lend brain power and resources to data governance.
 
@@ -67,9 +67,9 @@ It is also worth noting the difference between data governance and data manageme
 
 In short, data governance is just one part of the overarching theme of data management. It puts in place policies and processes when it comes to data ownership and accountability. Data management, on the other hand, is more operational and acts as an umbrella term that encompasses other aspects such as data security, data quality, and data analytics and reporting. It is important to get the language right here.
 
-![Blockchain as the link between people and different organisations](/assets/pb1-data-governance-principles-article-image-2.jpg "Blockchain as the link between people and different organisations")
-
 ## <div id="blockchain">Data Governance and Blockchain</div>
+
+![Blockchain as the link between people and different organisations](/assets/pb1-data-governance-principles-article-image-2.jpg "Blockchain as the link between people and different organisations")
 
 So far, I’ve gone over what data governance is and key principles to consider when building a framework.  But the question remains: What tool can ensure that data is accessible, secure, and transparent? The answer, I think, lies in blockchain.
 
