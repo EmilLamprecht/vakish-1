@@ -36,9 +36,9 @@ Powerful ideological projects like Bitcoin and Ethereum are virtual currencies t
 
 Blockchain is helping revolutionise business processes as well as introduce entirely new business models, and ways of creating value. Enterprise and public institutions across the board are getting in on the action. Blockchain has seemingly already found an array of problems that it can help solve. From [e-invoicing and automated accounting](https://coingeek.com/mintblue-enhances-e-invoicing-security-with-new-integration/), to [supply chain management](https://www.forbes.com/sites/forbestechcouncil/2021/11/08/blockchain-in-supply-chain/?sh=73fa85bc4e1a) and the [provenance of physical goods](https://www.sciencedirect.com/science/article/abs/pii/S0007681319300084), to [on-chain education records](https://cointelegraph.com/news/us-education-department-promotes-putting-student-records-on-blockchain), blockchain's public ledger and smart contract capabilities are propelling it far beyond its crypto use case. With its secure and transparent nature, we'll explore how it can be used to help tackle some of the most important societal issues.
 
-![Support for blockchain by everyday people and organisations](/assets/gl1-blockchain-for-social-good-article-image-1.jpg "Support for blockchain by everyday people and organisations")
-
 ## <div id="optimistic-hubris">Not Just Pro-Blockchain — Optimistic Hubris</div>
+
+![Support for blockchain by everyday people and organisations](/assets/gl1-blockchain-for-social-good-article-image-1.jpg "Support for blockchain by everyday people and organisations")
 
 While blockchain advocacy has found ample support from profit-seeking Silicon Valley investors and edge-seeking innovators, this optimistic belief is also shared by influential organisations responsible for shaping the global future. International institutions such as the [United Nations](https://www.undp.org/blog/realizing-blockchains-potential-social-impact), [World Economic Forum](https://www.weforum.org/agenda/2021/10/why-blockchain-is-the-key-to-meeting-the-sdgs/), and the [European Innovation Council](https://eic.ec.europa.eu/blockchains-social-good_en) have all advocated for the implementation of blockchain in achieving their stated goals.
 
@@ -138,9 +138,9 @@ Effective governance within nonprofit organisations is vital for transparent dec
 
 [KlimaDAO](https://www.klimadao.finance/) is one of the first mission-driven organisations utilising blockchain in its governance and ownership structure. KlimaDAO was started to solve the problem of carbon credit market efficiencies — and, while controversial, it is an example of how organisations can align with stakeholders, allowing token holders to contribute by voting on key decisions. Ultimately this novel governance and decision-making structure may lead to more democratic and efficient resource allocation in both private enterprises and for nonprofit initiatives.
 
-![Blockchain enhances trust](/assets/gl1-blockchain-for-social-good-article-image-3.jpg "Blockchain enhances trust")
-
 ## <div id="trust">Blockchain, Nonprofits, & Trust</div>
+
+![Blockchain enhances trust](/assets/gl1-blockchain-for-social-good-article-image-3.jpg "Blockchain enhances trust")
 
 We already understand the importance and diverse challenges faced by nonprofit organisations. We also have a good idea of how blockchain can be harnessed to address many of their challenges. In the end, trust is the most important factor for nonprofit organisations (and any organisation, really).
 
