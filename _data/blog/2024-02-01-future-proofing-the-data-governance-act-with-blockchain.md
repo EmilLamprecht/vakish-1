@@ -8,6 +8,7 @@ metaDescription: An explanation of data governance, an overview of the EU's Data
   blockchain can play.
 canonical: https://policyblocks.co/data-governance-act/
 author: Rachel Byfleet
+thumbnail: /assets/pb4-data-governance-act_policy-blocks-header.jpg
 ---
 - - -
 
@@ -42,6 +43,8 @@ On the flipside, the role of EU governments in relation to data governance is to
 
 The most popular organisational tactic has been through the Data Governance Act, which aims to facilitate cross-border data sharing for public interests and the common good. The purpose of this article is to give an overview of EU policies, go more in depth about what the Data Governance Act entails, and explain how this all loops back to blockchain.
 
+![EU as an intermediary between users & their data](/assets/pb4-data-governance-act_policy-blocks-article-image-2.jpg "EU as an intermediary between users & their data")
+
 ## <div id="eu-policies">EU Data Governance Policies</div>
 
 I’ll start by saying [most of the international community agrees](https://digital-strategy.ec.europa.eu/en/policies/desi) that society is in a pivotal moment in the data economy. Not only are many governments taking individual approaches to data governance policies, but they are also making collective efforts to make well rounded policies that encourage cross-border information sharing.
@@ -72,6 +75,8 @@ Blockchain-as-a-service provider [mintBlue](https://mintblue.com/world-record-tr
 Integrating this with policies like the Data Governance Act will achieve both the EU's objectives in providing secure and robust information sharing, and maintain its leadership in future proofing technology and systems as a leader in digital transformation. While it comes with a few challenges (I'll touch on these a bit later), blockchain brings huge potential in this space to help manage data safely and efficiently.
 
 Let me explain what I mean by taking you through each of the four focus pillars of the Data Governance Act, as many of them have significant overlap with the capabilities of blockchain.
+
+![Focus Pillars of the EU Data Governance Act](/assets/pb4-data-governance-act_policy-blocks-article-image-1.jpg "Focus Pillars of the EU Data Governance Act")
 
 ## <div id="dga-focus-pillars">The DGA's Four Focus Pillars & The Potential of Blockchain</div>
 
