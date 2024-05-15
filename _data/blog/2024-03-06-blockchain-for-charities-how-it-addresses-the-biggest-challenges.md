@@ -6,6 +6,7 @@ title: "Blockchain For Charities: How It Addresses The Biggest Challenges"
 metaDescription: How blockchain is helping charities tackle trust, transparency,
   and fundraising issues in the 21st century.
 author: Sam Liddell
+thumbnail: /assets/gl6-blockchain-for-charities_goodledger-header.jpg
 ---
 **How Blockchain Is Helping Charities Tackle Trust, Transparency, & Fundraising Issues in the 21st Century**
 
@@ -46,6 +47,8 @@ Blockchain allows new types of businesses, systems, assets, and processes to be 
 Blockchain is a digital ledger that records transactions (like in a spreadsheet) and stores and maintains the ledger across a network of computers (as opposed to a file stored on your computer or in a cloud somewhere). These transactions are stored in batches (or blocks if you will), which are then linked together in a chronological order, forming a long chain of transactions — hence the name blockchain.
 
 It’s like a public library where anyone with the right keys can participate in the library. Every transaction (entry into the library) is recorded with a timestamp and signature of who made the entry. Users can then go and inspect the transaction history, and because the file is stored on many computers, it makes it very hard to tamper with the ledger.
+
+![Blockchain as a public library](/assets/gl6-blockchain-for-charities_goodledger-article-image.jpg "Blockchain as a public library")
 
 There’s some cryptography, economic principles, and novel software stuff in there too, all of which contribute to the ability for the blockchain network to run securely and efficiently, but let's keep things high-level for now.
 
@@ -90,6 +93,8 @@ All donations are recorded on the blockchain ledger which can then be viewed, ve
 For now, most crypto exchanges require KYC (know your customer) compliance, meaning they know who owns the wallet/account. Many other wallets and accounts are not KYC’d though, so we don’t always know who is doing what. If the finance police, a.k.a. the SEC (Securities and Exchanges Commission), have their way, all crypto wallets will be KYC’d in the future.
 
 In this KYC world or in a situation where a funding campaign only accepted donations from verified and known accounts, ensuring donor transparency, fraud prevention, regulatory compliance, and even simplified tax returns — could all be a reality.
+
+![Challenges Charities Face & How Blockchain Can Help](/assets/gl6-blockchain-for-charities_goodledger-shareable.jpg "Challenges Charities Face & How Blockchain Can Help")
 
 ### Smart Contracts & Automation
 
