@@ -7,6 +7,7 @@ metaDescription: How blockchain is helping drive ESG solutions. From voluntary
   carbon credit markets, to supply chain traceability and effective ESG
   reporting.
 author: Sam Liddell
+thumbnail: /assets/gl5-esg-solutions_goodledger-header.jpg
 ---
 ### *From voluntary carbon credit markets, to supply chain traceability and effective ESG reporting*
 
@@ -44,6 +45,8 @@ Famed [economist Milton Friedman](https://en.wikipedia.org/wiki/Friedman_doctrin
 According to [McKinsey](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/five-ways-that-esg-creates-value), ESG isn't just a feel-good exercise or corporate greenwashing — it drives better business outcomes. ESG does this by facilitating top-line growth, reducing costs, minimising regulatory and legal interventions, increasing employee productivity, and optimising investment and capital expenditures. Let's take a look at some of the common examples of ESG solutions.
 
 ## <div id="esg-examples">Examples Of ESG Solutions</div>
+
+![Examples of ESG solutions](/assets/gl5-esg-solutions_goodledger-article-image.jpg "Examples of ESG solutions")
 
 ### 1. Environmental Solutions
 
@@ -120,6 +123,8 @@ Large corporations often have the resources required for ESG reporting, but smal
 This accessible, standardised, and verifiable data layer isn't centrally controlled by one party. It is stored on a decentralised network of blockchain participants (computers or 'nodes') that ensure the data is always available and nearly impossible to tamper with.
 
 This combined standardisation, verifiability, and accessibility allows for the automation of compliance reporting, ensuring companies of all sizes are better able to adhere to ESG standards and regulations.
+
+![How Blockchain Is Supporting ESG Initiatives](/assets/gl5-esg-solutions_goodledger-shareable.jpg "How Blockchain Is Supporting ESG Initiatives")
 
 ### 3. Tracking Greenhouse Gas Emissions
 
