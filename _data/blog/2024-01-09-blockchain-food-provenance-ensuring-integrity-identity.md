@@ -8,6 +8,7 @@ metaDescription: In-depth discussion of blockchain's potentials and risks in
   recognition, and a primer on blockchain.
 canonical: https://goodledger.io/food-provenance/
 author: Sam Liddell
+thumbnail: /assets/gl2-food-provenance_goodledger-header.jpg
 ---
 - - -
 
@@ -68,6 +69,8 @@ The [World Bank's Vice President for Eastern and Southern Africa](https://www.wo
 
 Food is a global resource — [grain grown in Ukraine isn't only destined for Ukrainian dinner plates](https://www.weforum.org/agenda/2022/07/ukraine-s-food-exports-by-the-numbers/), and [tomatoes grown in Dutch factories aren't only destined for the Dutch market](https://www.washingtonpost.com/business/interactive/2022/netherlands-agriculture-technology/). Food is global, and the security of food is a global issue requiring large-scale regional coordination.
 
+![Person wondering where their food comes from](/assets/gl2-food-provenance_goodledger-article-image-1.jpg "Person wondering where their food comes from")
+
 ### Food Safety
 
 Food safety is a global issue — [one in ten get sick from food-borne illnesses each year](https://www.who.int/en/news-room/detail/03-12-2015-who-s-first-ever-global-estimates-of-foodborne-diseases-find-children-under-5-account-for-almost-one-third-of-deaths) with an estimated [420,000 people dying as a result](https://www.who.int/en/news-room/detail/03-12-2015-who-s-first-ever-global-estimates-of-foodborne-diseases-find-children-under-5-account-for-almost-one-third-of-deaths). According to the [World Health Organisation](https://www.who.int/news-room/fact-sheets/detail/food-safety): "Food containing harmful bacteria, viruses, parasites or chemical substances causes more than 200 diseases, ranging from diarrhea to cancers. It also creates a vicious cycle of disease and malnutrition, particularly affecting infants, young children, the elderly, and the sick."
@@ -103,6 +106,8 @@ When you tap your phone or swipe your card and the shopkeeper hands you your goo
 You can use your phone to browse the internet and buy things online, yet you don't need to understand JavaScript (the programming language that makes the internet so awesome), RFID (radio signals), or SWIFT (the global payment network) to do so.
 
 The same thing applies to blockchain — you don't need to fully understand the technology to use and benefit from it. But — because knowledge is power and we know you're a curious bunch — we will quickly try to explain it anyway.
+
+![Blockchain as a library with individual user access](/assets/gl2-food-provenance_goodledger-article-image-2.jpg "Blockchain as a library with individual user access")
 
 ## <div id="blockchain-explained">Blockchain Explained</div>
 
@@ -161,6 +166,8 @@ They have successfully tested blockchain-based solutions on the Indonesian tuna 
 [The World Economic Forum](https://www.weforum.org/agenda/2022/09/could-blockchain-help-track-outbreaks-like-e-coli-in-spinach/) has also agreed:
 
 > *"Blockchain's ability to capture data along the supply chain makes it a fast and efficient way to pinpoint where contamination or other safety issues may have originated."*
+
+![Blockchain's food provenance use cases](/assets/gl2-food-provenance_goodledger-article-image-3.jpg "Blockchain's food provenance use cases")
 
 ## <div id="use-cases">Blockchain Food Provenance Use Cases</div>
 
