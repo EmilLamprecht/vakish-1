@@ -95,9 +95,9 @@ The UN's Tatsiana Hulko [commented](https://www.undp.org/blog/realizing-blockcha
 
 From verifying identity (or proof of personhood) to connecting identity to personal records like educational qualifications — on-chain digital IDs are going to be an integral part of the financial inclusion puzzle (whether we like it or not).
 
-![Leapfrogging Technologies & Societal Advances](/assets/gl3-2.png "Leapfrogging Technologies & Societal Advances")
-
 ## <div id="societal-advances">Leapfrogging Technologies & Societal Advances</div>
+
+![Leapfrogging Technologies & Societal Advances](/assets/gl3-2.png "Leapfrogging Technologies & Societal Advances")
 
 Societies have the opportunity to leverage new technologies to make leaps in their development. This is one of the ways developing nations and underserved populations can make technological-driven advances that help bridge the economic divide.
 
@@ -147,9 +147,9 @@ Decentralised finance (or DeFi) is blockchain's second wave of financial innovat
 
 Okay, okay... Those who can't verify their identity or open a bank account are probably more concerned about getting paid and putting food on the table than making crypto trading gainz. But once they have a place to receive and store their money, make payments — and eventually access credit and create businesses — they might just start making investments like those in the developed and financially inclusive world. Blockchain is already bringing forth innovative services that will be rising alongside the freshly banked populations of the world.
 
-![Democratised Finance](/assets/gl3-3.png "Democratised Finance")
-
 ### <div id="why-blockchain/defi">DeFi: Democratised Finance?</div>
+
+![Democratised Finance](/assets/gl3-3.png "Democratised Finance")
 
 Decentralised crypto exchanges like the famous [Uniswap protocol](https://app.uniswap.org/?intro=true) are great examples of the second wave of blockchain financial innovation known as DeFi (or Decentralised Finance). Uniswap is what's known as a 'Decentralised Exchange' (or DEX) — and is a great example of the open-finance ethos that is native to the wider blockchain and Web3 movements.
 
