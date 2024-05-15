@@ -9,6 +9,7 @@ metaDescription: Defining data ownership. Demonstrating debates and (EU) policy
   ownership.
 canonical: https://policyblocks.co/data-ownership/
 author: Rachel Byfleet
+thumbnail: /assets/pb2-data-ownership_policy-blocks-header.jpg
 ---
 - - -
 
@@ -44,6 +45,8 @@ Data ownership must strike a balance between increasing data availability, while
 
 However, after reading through these debates, I felt like the philosophical questions didn't provide much clarity or common understanding around what data sets exist, who holds them, and who gets access to them. For example, platforms like Google and Meta collect vast amounts of data from search histories and other sources and house potentially sensitive data. And while they may use it for analytics, targeting, etc., there is not always full visibility for the users themselves.
 
+![Policies of the EU's Data-Driven Future](/assets/pb2-data-ownership_policy-blocks-article-image-1.jpg "Policies of the EU's Data-Driven Future")
+
 Amidst these debates, the EU has developed strategies like the [European Digital Strategy](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age_en), the [Data Governance Act](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act), and the [Data Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3491) to outline data collection and set perimeters around data collection and sharing. Their goal is to, again, strike the delicate balance between ensuring users have control over their data, while still working to allow data to be used for social benefits and innovation. What I mean here is personal data that can give valuable insights to topics such as population statistics and disease spread models, and can help advance innovation. But of course we must then ask who can access this data, under what terms, and through which platforms.
 
 While I have previously discussed the aforementioned EU policies at length, I haven't yet dug into the [General Data Protection Regulation](https://gdpr-info.eu/) (GDPR), government surveillance policies, and [ePrivacy Regulations](https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation). I'm hoping that by delving into these a bit more, I can provide better insight into the trade-offs surrounding open data innovation and individual privacy.
@@ -73,6 +76,8 @@ I want to focus on Germany's Staatstrojaner because it demonstrates the tension 
 
 The policy's history started in the early 2000s when German police started to use the spyware to fight crime. Ethical questions emerged and in 2017, the law greatly expanded to allow police to hack devices to read encrypted messages through platforms such as WhatsApp. However, a few years later, the Federal Constitutional Court ruled that it was partially unconstitutional and that it should only be used to combat more serious crimes, like terrorism, rather than all crime prevention.
 
+![The Unknown Certainty of Surveillance](/assets/pb2-data-ownership_policy-blocks-article-image-2.jpg "The Unknown Certainty of Surveillance")
+
 While there are greater limitations as to how the German police can use the Staatstrojaner, there is limited transparency in regards to how they operate. Europe's largest association of hackers and cybersecurity experts, the [Chaos Computer Club (CCC)](https://www.ccc.de/en/updates/2011/analysiert-aktueller-staatstrojaner), has been heavily involved in raising awareness about state-sponsored spying. They are advocating to remove the authorisation to use malware from the Code of Criminal Procedure altogether, going on to argue that it was a mistake to normalise this level of state spying software. In a recent statement, they [explain why it's important that it be corrected](https://www.ccc.de/en/updates/2023/schon-wieder-staatstrojaner-vorm-verfassungsgericht), as unchecked government surveillance can lead to potential misuses of power, jeopardise security, and put the wider population at risk of being spied on.
 
 This exemplifies the push and pull between government power and individual data rights. I personally think government surveillance that infringes on personal data is comparable to private sector exploitation. In the same way I argue that organisations should respect user data, governments should also respect civil liberties as it ultimately increases trust.
@@ -92,6 +97,8 @@ Although facing delays, the eRegulation has the right idea in limiting uncontrol
 Now, how does blockchain fit into all of this? In short: it provides a novel approach to enable effective data ownership. Rather than one organisation or entity controlling data, blockchain offers a decentralised solution where many participants in a network can take part. As summarised in [Business Matters](https://bmmagazine.co.uk/business/blockchain-and-the-complexities-of-data-ownership/), data stored on a blockchain is dispersed among several blocks that form an immutable chain. Pretty straightforward right? The ledger is copied to all participants on the network to ensure that there is no centralised point, thus making it near-impossible to tamper with the information stored.[](http://)
 
 My burning question was: How can data be both private and yet everyone has a copy of it? Well, to access the blockchain, each user in the network is assigned two cryptographic keys that are automatically generated. There is a public key that acts as a visible identifier, similar to a public mailbox. Then, there is a private key that proves a user's identity and allows access to private information, like a key to said mailbox. This eliminates a centralised database, meaning there is no single point of failure and users have much more control and influence over their own data.
+
+![Access to blockchain data with a user's public key](/assets/pb2-data-ownership_policy-blocks-article-image-3.jpg "Access to blockchain data with a user's public key")
 
 Governments are well aware of the positive implications. [In the World Economic Forum's digital identify report](https://www3.weforum.org/docs/WEF_INSIGHT_REPORT_Digital%20Identity.pdf), it highlights Malta, Belgium, and several other private sector entities already utilising aspects of this technology.
 
