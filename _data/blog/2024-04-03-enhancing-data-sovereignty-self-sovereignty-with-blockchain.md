@@ -31,9 +31,9 @@ Because of the decentralised, secure nature of blockchain, it offers a robust so
 
 In this article, I’ll delve into data sovereignty, explore how blockchain can enhance it, examine some relevant existing policies, and provide a future outlook into this world of data sovereignty and blockchain. Hopefully by the end, you’ll have a better understanding of what this all means, why it’s important, and how it affects citizens like you and me.
 
-![Blockchain as the key to data sovereignty](/assets/pb7-data-sovereignty-article-image-2.jpg "Blockchain as the key to data sovereignty")
-
 ## <div id="understanding">Understanding Data Sovereignty</div>
+
+![Blockchain as the key to data sovereignty](/assets/pb7-data-sovereignty-article-image-2.jpg "Blockchain as the key to data sovereignty")
 
 As mentioned, there are multiple layers to understanding data sovereignty. It impacts governments, businesses, and citizens, and spans across societal values and ethics.
 
