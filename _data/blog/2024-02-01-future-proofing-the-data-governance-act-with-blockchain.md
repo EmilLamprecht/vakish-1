@@ -43,9 +43,9 @@ On the flipside, the role of EU governments in relation to data governance is to
 
 The most popular organisational tactic has been through the Data Governance Act, which aims to facilitate cross-border data sharing for public interests and the common good. The purpose of this article is to give an overview of EU policies, go more in depth about what the Data Governance Act entails, and explain how this all loops back to blockchain.
 
-![EU as an intermediary between users & their data](/assets/pb4-data-governance-act_policy-blocks-article-image-2.jpg "EU as an intermediary between users & their data")
-
 ## <div id="eu-policies">EU Data Governance Policies</div>
+
+![EU as an intermediary between users & their data](/assets/pb4-data-governance-act_policy-blocks-article-image-2.jpg "EU as an intermediary between users & their data")
 
 I’ll start by saying [most of the international community agrees](https://digital-strategy.ec.europa.eu/en/policies/desi) that society is in a pivotal moment in the data economy. Not only are many governments taking individual approaches to data governance policies, but they are also making collective efforts to make well rounded policies that encourage cross-border information sharing.
 
@@ -76,9 +76,9 @@ Integrating this with policies like the Data Governance Act will achieve both th
 
 Let me explain what I mean by taking you through each of the four focus pillars of the Data Governance Act, as many of them have significant overlap with the capabilities of blockchain.
 
-![Focus Pillars of the EU Data Governance Act](/assets/pb4-data-governance-act_policy-blocks-article-image-1.jpg "Focus Pillars of the EU Data Governance Act")
-
 ## <div id="dga-focus-pillars">The DGA's Four Focus Pillars & The Potential of Blockchain</div>
+
+![Focus Pillars of the EU Data Governance Act](/assets/pb4-data-governance-act_policy-blocks-article-image-1.jpg "Focus Pillars of the EU Data Governance Act")
 
 **Pillar 1.** The first pillar is to re-use sensitive data held by public sector bodies. To do so, public bodies must be technically equipped to protect privacy and confidentiality. The EU recommends using anonymisation, pseudonymisation, or accessing data in secure environments such as data rooms. Blockchain is, by nature, pseudonymous and provides the ability to access data securely and confidentially.
 
