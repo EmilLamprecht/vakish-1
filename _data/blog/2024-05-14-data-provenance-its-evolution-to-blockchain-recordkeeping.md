@@ -47,9 +47,9 @@ The implementation of data provenance varies significantly depending on the need
 
 Now, let’s pivot to a bit of a sticky wicket: the challenges of traditional data provenance tools.
 
-![The Challenges Of Traditional Data Provenance Tools](/assets/1-protect-your-data-through-provenance.jpg "The Challenges Of Traditional Data Provenance Tools")
-
 ## <div id="challenges">The Challenges Of Traditional Data Provenance Tools</div>
+
+![The Challenges Of Traditional Data Provenance Tools](/assets/1-protect-your-data-through-provenance.jpg "The Challenges Of Traditional Data Provenance Tools")
 
 While tools like Luigi, Git, and CKAN offer many benefits, they also come with their own set of limitations. For example:
 
