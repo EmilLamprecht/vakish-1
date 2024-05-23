@@ -4,7 +4,7 @@ path: /about/
 date: 2023-07-21T10:30:24.644Z
 title: About
 metaDescription: All about Goodledger & author Sam Liddell
-thumbnail: ""
+thumbnail: /assets/gl6-blockchain-for-charities_goodledger-header.jpg
 ---
 ![sam-liddell](/assets/sam-liddell.jpg "Sam Liddell")
 
