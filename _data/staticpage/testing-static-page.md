@@ -4,7 +4,7 @@ path: /about/
 date: 2023-07-21T10:30:24.644Z
 title: About
 metaDescription: All about Policyblocks & author Rachel Byfleet
-thumbnail: ""
+thumbnail: /assets/identity-authentication_policy-blocks-identity-authentication-header-1140x416.jpg
 ---
 ![rachel-byfleet](/assets/rachel-byfleet.jpg "Rachel Byfleet")
 
