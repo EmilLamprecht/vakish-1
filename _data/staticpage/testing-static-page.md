@@ -4,7 +4,7 @@ path: /about/
 date: 2023-07-21T10:30:24.644Z
 title: About
 metaDescription: All about Bitfluence & author Harry Harrison
-thumbnail: ""
+thumbnail: /assets/bitfluence-payments0.png
 ---
 ![Harry Harrison](/assets/harry_harrison.jpg "Harry Harrison")
 
