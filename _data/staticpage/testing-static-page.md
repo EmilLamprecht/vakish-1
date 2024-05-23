@@ -4,7 +4,7 @@ path: /about/
 date: 2023-07-21T10:30:24.644Z
 title: About
 metaDescription: All about Blockchainvision & authors Michiel Mulders and George Siosi Samuels
-thumbnail: ""
+thumbnail: /assets/bv2-header.jpg
 ---
 ![Michiel Mulders](/assets/michiel_mulders.jpeg "Michiel Mulders")
 
