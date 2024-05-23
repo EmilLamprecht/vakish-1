@@ -1,11 +1,11 @@
 {
   "title": "Hashspark.io",
   "siteUrl": "https://hashspark.io/",
-  "description": "Welcome to Hashspark.io, where we talk about blockchain uses cases, dos and don'ts.",
+  "description": "Exploring practical use cases for public blockchain technologies!",
   "logo": "/assets/hashspark_logo_main-500px.png",
   "home": {
-    "title": "Welcome to Hashspark.io",
-    "description": "Where we talk about blockchain uses cases, dos and don'ts.\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
+    "title": "Exploring practical use cases for public blockchain technologies!",
+    "description": "At Hashspark, we’re demystifying public blockchain technologies with practical, grounded, and implementation-forward examples for non-techy newbies that don’t know where to start.\n\n## Who is this blog for?\n\nWant an entry-level understanding of practical blockchain implementations without things getting too techy? Wondering how public blockchains are different than private? Looking to separate the common myths from the reality of how blockchain protocols function? \n\nThen this blog is for you! 😀\n\n### Want an update once or twice a month? \n\nSign up for my newsletter!\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#112A46",
