@@ -20,6 +20,8 @@ With a diverse background and skillset, I strive to craft compelling narratives 
 
 ## Who funds this blog?
 
-To be transparent, this blog is supported through a collaborative effort with organizations like mintBlue, which have a vested interest in the technologies discussed here and their broader implications. Despite this financial backing, I am committed to providing content that is truthful and accurately represents the complex world of tech policy. My primary focus is to share insights that are beneficial to our understanding, without any hidden financial agendas beyond the sponsorship for my writing.
+To be transparent, this blog is supported through a collaborative effort with organizations like mintBlue, which have a vested interest in the technologies discussed here and their broader implications.
+
+Despite this financial backing, I am committed to providing content that is truthful and accurately represents the complex world of tech policy. My primary focus is to share insights that are beneficial to our understanding, without any hidden financial agendas beyond the sponsorship for my writing.
 
 If you have any questions or concerns about potential biases in my articles, please feel free to comment directly on the posts or reach out to me at (disguised to avoid bots!): {hi} \[at] {hashspark} \[dot] {com}
