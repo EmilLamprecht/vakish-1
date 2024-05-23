@@ -3,14 +3,18 @@ template: StaticPage
 path: /about/
 date: 2023-07-21T10:30:24.644Z
 title: About
-metaDescription: All about Blockchainvision & author Michiel Mulders
+metaDescription: All about Blockchainvision & authors Michiel Mulders and George Siosi Samuels
 thumbnail: ""
 ---
 ![Michiel Mulders](/assets/michiel_mulders.jpeg "Michiel Mulders")
 
-## About me: Michiel Mulders
+## About us: Michiel Mulders & George Siosi Samuels
 
-Hey, I'm Michiel, a seasoned professional in the Web3 space that brings a wealth of experience from various roles in technical documentation and development. My journey has evolved from software engineering to DevRel, fueling a passion for enhancing developer experiences through meticulous documentation strategy, engaging video content, and innovative information architecture.
+Blockchainvision is a collaboration between two writers, both passionate about presenting and demystifying blockchain technologies for newcomers.
+
+Michiel is a seasoned professional in the Web3 space, bringing a wealth of experience from various roles in technical documentation and development. His journey has evolved from software engineering to DevRel, fueling a passion for enhancing developer experiences through meticulous documentation strategy, engaging video content, and innovative information architecture.
+
+George is a digital wayfinder and community officer who has been involved with blockchain since the early days of the technology. His expertise lies in blending traditional wisdom with cutting-edge digital strategy, a synthesis that offers a unique perspective in navigating the complexities of the modern digital realm.
 
 *If you like my articles or have any questions, please leave a comment. I’d be happy to answer your questions!*
 
