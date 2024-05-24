@@ -9,6 +9,9 @@ canonical: https://goodledger.io/blockchain-for-social-good/
 author: Sam Liddell
 thumbnail: /assets/gl1-blockchain-for-social-good-header.jpg
 ---
+<iframe width="100%" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/pFKXdD6W"></iframe>
+
 - - -
 
 ### Table of Contents
@@ -21,9 +24,6 @@ thumbnail: /assets/gl1-blockchain-for-social-good-header.jpg
 6. [Conclusion: The Future Is Good & It Is On-Chain](#conclusion)
 
 - - -
-
-<iframe width="100%" height="99" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://tuttu.io/embed/pFKXdD6W"></iframe>
 
 ## <div id="addressing-global-challenges">How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain</div>
 
