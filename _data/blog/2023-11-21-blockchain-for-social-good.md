@@ -22,6 +22,9 @@ thumbnail: /assets/gl1-blockchain-for-social-good-header.jpg
 
 - - -
 
+<iframe width="100%" height="99" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://tuttu.io/embed/pFKXdD6W"></iframe>
+
 ## <div id="addressing-global-challenges">How Nonprofits, NGOs, & Charities Are Addressing Global Challenges With Blockchain</div>
 
 Blockchain is a distributed ledger technology that was originally designed to provide a secure and transparent way to record and verify transactions in a decentralised manner. While a lot has been said about blockchain’s "crypto" use-case recently, blockchain seems to be largely misunderstood, mischaracterised, and under-appreciated for its real-world applications and potential for social good.
