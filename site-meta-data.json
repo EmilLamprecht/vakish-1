@@ -5,7 +5,7 @@
   "logo": "/assets/hashspark_logo_main-500px.png",
   "home": {
     "title": "Exploring practical use cases for public blockchain technologies!",
-    "description": "At Hashspark, we’re demystifying public blockchain technologies with practical, grounded, and implementation-forward examples for non-techy newbies that don’t know where to start.\n\n## Who is this blog for?\n\nWant an entry-level understanding of practical blockchain implementations without things getting too techy? Wondering how public blockchains are different than private? Looking to separate the common myths from the reality of how blockchain protocols function? \n\nThen this blog is for you! 😀\n\n### Want an update once or twice a month? \n\nSign up for my newsletter!\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
+    "description": "<p>At Hashspark, we’re demystifying public blockchain technologies with practical, grounded, and implementation-forward examples for non-techy newbies that don’t know where to start.</p>\n\n<h2>Who is this blog for?</h2>\n\n<p>Want an entry-level understanding of practical blockchain implementations without things getting too techy? Wondering how public blockchains are different than private? Looking to separate the common myths from the reality of how blockchain protocols function?</p>\n\n<p>Then this blog is for you! 😀</p>\n\n<h3>Want an update once or twice a month?</h3>\n\n<p>Sign up for my newsletter!</p>\n\n<br /><br /><a href='/newsletter' class=\"button -primary\">Newsletter</a>"
   },
   "theme": {
     "primaryColor": "#112A46",
