@@ -10,11 +10,11 @@ thumbnail: /assets/gl6-blockchain-for-charities_goodledger-header.jpg
 
 ## About me: Sam Liddell
 
-Hey, I’m Sam, an explorer, tinkerer, and occasional writer. As a techno-optimist and part-time degenerate, I’ve been watching the blockchain space for quite some time!
+Hey, I’m Sam, an avid explorer, startup tinkerer, investor, and occasional writer. As a techno-optimist and part-time degenerate, I’ve been quietly dabbling in the blockchain space for some time now!
 
-I’m especially interested in how the technology can be used for social good by impact organisations. Blockchain has faced a lot of criticism, some definitely warranted of course, but there are all sorts of organisations using the technology to help make the world a better place.
+Aside from my on-chain explorations, I’m curious about blockchain’s potential for social good. While blockchain has faced a lot of criticism (much of it warranted), there are all sorts of organisations using the technology to help make the world a better place.
 
-I hope that anyone interested in these topics will find something in my articles that grabs them!
+It’s these use cases and organisations that I wanted to explore, and I hope that anyone interested in these topics will find something in my articles that inspires them.
 
 *If you like what I’m writing or have any questions, drop a comment. I’d be happy to read from you!*
 
