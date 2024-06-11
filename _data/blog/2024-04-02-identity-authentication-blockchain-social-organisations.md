@@ -6,6 +6,7 @@ title: Identity Authentication & Its Importance For Social Organisations
 metaDescription: Exploring Blockchain’s Role in Solving the Identity
   Authentication Woes of Social Organisations
 author: Sam Liddell
+thumbnail: /assets/gl7-identity-authentication-header.jpg
 ---
 **Exploring Blockchain’s Role in Solving the Identity Authentication Woes of Social Organisations**
 
@@ -30,6 +31,8 @@ Imagine a world where proving who you are is an insurmountable challenge. This i
 As we embark on this journey, we will unravel some of the challenges faced by social organisations and examine how blockchain is helping to guide the way through the identity authentication landscape.
 
 ## <div id="briefing">But First: A Briefing On Identity Authentication</div>
+
+![Considerations in identity authentication processes](/assets/gl7-identity-authentication-shareable.jpg "Considerations in identity authentication processes")
 
 ‘Identity authentication’ may not be a part of your everyday vocabulary, but it *is* a foundational element in our everyday (and increasingly digital) lives. Identity authentication is the silent gatekeeper that allows us to securely interact with online services, set up a bank account, get a job, or access humanitarian aid.
 
@@ -61,6 +64,8 @@ Providing efficient support and avoiding fraudulent claims aren’t the only cha
 By now, we’re probably familiar with stories of data breaches and the potential consequences when things go wrong. Organisations must navigate the fine line between verifying identities and safeguarding the data rights of individuals.
 
 ## <div id="blockchain">Blockchain: A Guiding Light For Progressive Social Orgs</div>
+
+![Blockchain as a guiding light for progressive social organisations](/assets/gl7-identity-authentication-article-image-1.jpg "Blockchain as a guiding light for progressive social organisations")
 
 Amidst all of these concerns, blockchain appears as a promising technology that can enable [user-controlled, secure digital identities and authentication processes](https://policyblocks.co/identity-authentication/). Its potential to transform identity authentication lies in its key characteristics of decentralisation, transparency, and immutability.
 
