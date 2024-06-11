@@ -6,6 +6,7 @@ title: "Data Interoperability & Blockchain: Explorations Beyond Borders"
 metaDescription: Overview of data interoperability, governmental approaches
   within the EU, and the role blockchain could play.
 author: Rachel Byfleet
+thumbnail: /assets/pb5-data-interoperability-header.jpg
 ---
 - - -
 
@@ -36,13 +37,11 @@ With data flowing from multiple platforms and systems, the need for it all to wo
 
 Data interoperability isn't just industry specific. By linking and utilising data from several industries, both nationally and globally, governments can use data to its full potential — especially as data and evidence is the backbone of policy-making. Finding new ways for data to interact in a more efficient way will ultimately allow policy-makers to collate more evidence and make lasting and meaningful change — at least, that's the goal.
 
-![Depiction of interoperability in healthcare](/assets/codeit-interoperability.jpg "Code IT Interoperability")
-
-*Source: [Code IT](https://codeit.us/blog/what-is-interoperability-in-healthcare-and-what-are-its-key-benefits)*
-
 My aim in this article is to explore how data interoperability is already integrated into several government initiatives, all the way from regional to the global level. I will then give my take on the pros and cons as to how this is currently working, as well as explain how blockchain can add considerable value moving forward.
 
 ## <div id="approaches">Data Interoperability Approaches: Regional, National, & Global Perspectives</div>
+
+![Use cases for data interoperability](/assets/pb5-data-interoperability-shareable.jpg "Use cases for data interoperability")
 
 As I mentioned, data interoperability is extremely important for governments to collate and analyse vast amounts of data. And there have been efforts regarding cross-national cooperation to make this even more efficient.
 
@@ -82,6 +81,8 @@ Essentially, it provides tools for countries to stay in the know about all thing
 
 ## <div id="pros-cons">Pros & Cons Of The EU's Data Interoperability Approaches</div>
 
+![EU working together to protect citizens' data](/assets/pb5-data-interoperability-article-image-1.jpg "EU working together to protect citizens' data")
+
 I view data interoperability between countries as a positive advancement toward sharing information and collaborating with one another. It improves efficiency, allows countries access to more data, and fosters a collaborative global mindset. It also spreads resources, which I'm a big fan of. Less wealthy countries will inevitably have less time and resource to collect and interpret data at the same speed as more wealthy countries. Through creating a more open source, it allows data to be free-flowing, regardless of economic or financial circumstances.
 
 But (there's always a but!) we can see how a system like this is prone to shortfalls. Consider data protection and safeguarding, for example. The more data is free-flowing, the harder it is for citizens to track where their personal data ends up around the world. There will need to be a lot of behind-the-scenes work to ensure this aligns with EU's [General Data Protection Regulations](https://gdpr.eu/).
@@ -103,6 +104,8 @@ To make this seem less abstract, I'll use the example of smart contracts. Smart 
 The last thing blockchain offers that should be extremely attractive to governments is its security and scalability. This is something I've talked about in a few of my previous articles but I think it's what makes blockchain uniquely placed to be at the centre of emerging digital policies. By allowing data to flow seamlessly between networks, it can enhance performance and pave the way for future innovation. That, combined with the security element where changes are virtually impossible since they cannot be made without causing a ripple effect, underscores why I think it should be considered as a tool to enhance data interoperability.
 
 That's not to say that using blockchain in this context won't come without its challenges. The most obvious being the investment and international consensus it would take to implement it. As I mentioned, governments are already working together through international bodies like the UN to create a more balanced approach to collecting and using data. However, blockchain adds another layer (or multiple layers) of negotiations and influencing.
+
+![Pillars of data interoperability & blockchain](/assets/pb5-data-interoperability-article-image-2.jpg "Pillars of data interoperability & blockchain")
 
 **First**, there would need to be education around what blockchain is, what it does, and how it can transform interoperability.
 
