@@ -7,6 +7,7 @@ metaDescription: Explore how blockchain is revolutionising the energy sector —
   going beyond crypto and introducing novel, efficient, and transparent energy
   solutions.
 author: Sam Liddell
+thumbnail: /assets/gl8-blockchain-for-energy-header.jpg
 ---
 ***Beyond Bitcoin’s Energy Controversy, Blockchain Enables Sustainable Energy Solutions***
 
@@ -46,6 +47,8 @@ Ethereum scaling solutions like “Layer-2s” and alternative blockchain system
 
 ## <div id="energy-efficient-blockchains">Beyond Bitcoin: Energy-Efficient Blockchains Abound</div>
 
+![Key benefits of blockchain in energy](/assets/gl8-blockchain-for-energy-shareable.jpg "Key benefits of blockchain in energy")
+
 At its core, blockchain offers a decentralised, secure, and transparent way to record transactions. With the addition of smart contracts (a software layer that enables rules to be automatically executed when pre-defined conditions are met), blockchains start looking more like a global internet computer rather than just a form of digital gold.
 
 The internet currently uses between [3.6 and 6.2 per cent](https://computer.howstuffworks.com/internet/basics/how-much-energy-does-internet-use.htm) of the global energy supply. When considering blockchain as another evolution of the internet, the Bitcoin energy saga starts fading into the distance, replaced with another narrative describing the next generation of the internet (aka Web3).
@@ -73,6 +76,8 @@ Offering a way to prove eco-commitments by purchasing credits that fund carbon r
 While we have done a great job bringing power to [over 90% of the world's people](https://ourworldindata.org/energy-access), it’s clear the energy sector can do with some help. With blockchain, the energy sector could go from being an old clunky cassette player to a sleek new streaming service. It’s game-changing, wallet-friendly, and planet-loving all in one.
 
 ## <div id="use-cases">Blockchain’s Electrifying Energy Use Cases</div>
+
+![Peer-to-peer energy trading](/assets/gl8-blockchain-for-energy-article-image-1.jpg "Peer-to-peer energy trading")
 
 Far from merely consuming energy and moving beyond digital assets and get-rich-quick schemes, blockchain is finding [fertile ground in the energy sector](https://www.forbes.com/sites/forbestechcouncil/2023/07/18/the-blockchain-disruption-transforming-the-energy-industry-with-transparency-efficiency-and-decentralization/?sh=a94af1d39b64). Championing efficiency, sustainability, and transparency, blockchain can help facilitate new and improved energy systems, transform energy markets, and encourage sustainable energy adoption.
 
