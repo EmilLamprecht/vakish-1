@@ -9,6 +9,7 @@ metaDescription: Exploring the EU's vision and blockchain integrations for
   Blockchain Services Infrastructure, European Blockchain Partnership, European
   Blockchain Sandbox, and European Qualifications Passport for Refugees.
 author: Rachel Byfleet
+thumbnail: /assets/pb6-digital-identity-solutions-header.jpg
 ---
 - - -
 
@@ -52,6 +53,8 @@ The downfall of digital IDs is that they will take some getting used to, much li
 
 Governments have jumped on the bandwagon to use digital identities, mainly because they’ve had to in order to keep pace with innovations. The EU has presented its future outlook on using [digital IDs for all EU citizens](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en), with the goal being to ensure that every EU citizen who is eligible for a national ID card will also have a digital ID as well.
 
+![European Digital Identity](/assets/pb6-digital-identity-solutions-shareable.jpg "European Digital Identity")
+
 Well-known international law firm Bird & Bird paraphrases the EU’s most [updated text](https://www.twobirds.com/en/insights/2024/global/one-step-closer-to-the-final-approval-of-the-eidas-regulation-reform#:~:text=On%2029%20February%202024%2C%20the,expected%20to%20be%20in%20March) as:
 
 > *“\[A]n electronic identification \[that] enables users to securely store, manage and validate a person’s identification data and electronic attestations of attributes, facilitating their provision to relying parties and other \[European Digital Identity] Wallet users. Additionally, it allows for signing with qualified electronic signatures and sealing through qualified electronic seals.”*
@@ -81,6 +84,8 @@ At the moment, it allows public organisations access to the infrastructure, and 
 While it’s too soon to tell what this is going to look like, I am patiently (impatiently!) waiting to see it all roll out, as it will allow things like notarisation, verification, and eIDs all to take place on the network. A good example of this is allowing citizens control over their educational credentials. By making them available on the network, it will eliminate verification costs, provide proof of authenticity, and put citizens in control of their personal data and credentials.
 
 In line with this, the EBSI showcases a [success story](https://ec.europa.eu/digital-building-blocks/sites/display/EBSI/Licence+to+practice) of EU citizens applying for jobs in one country, with a degree from another. It highlights that professionals in many countries around Europe need to legally have a license or certificate to practice. In addition to administration costs and human error, it takes a minimum of three months to have a license-to-practice issued. Through verifying educational credentials and issuing license-to-practice credentials through using EBSI, citizens can easily access and provide information across borders digitally.
+
+![The EU's Blockchain-Based Digital Identity Solutions](/assets/pb6-digital-identity-solutions-article-image-1.jpg "The EU's Blockchain-Based Digital Identity Solutions")
 
 Another example is through using the EBSI for [European Qualification Passports for Refugees](https://ec.europa.eu/digital-building-blocks/sites/x/sQHaIg). In Italy, there is an initiative to support higher education institutions to recognise foreign qualifications and they adopted blockchain in 2019 to help do so. The Italian Information Centre on Academic Mobility and Equivalence (CIMEA) has also been involved in the European Qualification Passport for Refugees project, which helps assess refugees’ qualifications when there is insufficient or missing documents. By using blockchain, EQPR holders can digitally share their qualifications all across the EU.
 
