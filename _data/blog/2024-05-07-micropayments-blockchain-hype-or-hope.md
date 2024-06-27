@@ -6,6 +6,7 @@ title: "Micropayments & Blockchain: Hype or Hope?"
 metaDescription: "Micropayments: an explanation, overview of different types,
   and the role blockchain can play."
 author: Harry Harrison
+thumbnail: /assets/bitfluence-micropayments-header.png
 ---
 #### Micropayments — you might have heard of them (you might even have read about them in [our previous article](https://bitfluence.org/blockchain-for-payments/)) but do you know what the term actually means?
 
@@ -31,11 +32,9 @@ But despite their growing popularity, it’s still sometimes difficult to use tr
 > *“Not all traditional means of payment are suitable for micropayments owing to processing costs and subsequent pricing levels”.*\
 > — [2023 report from the European Central Bank](https://www.ecb.europa.eu/pub/pdf/other/ecb.micropaymentsimpactonnpaymentsecosystem202308~bb92cda8ce.en.pdf)
 
+The use of micropayments is commonplace around the world now, with an [estimated $186 million per day](https://www.utpgroup.co.uk/how-microtransactions-impact-the-economics-of-gaming/#:~:text=The%20Business%20Research%20Company%20reported,initial%20purchase%20of%20the%20game.) spent on them in 2022.
+
 How might blockchain applications be able to help with this issue that the microtransactions industry is facing? Here, we’ll take a look at how they can be used together and some of the issues that might hinder the progress of these two growing industries.
-
-![Micropayments around the world](/assets/bf3-micropayments-1.png "Micropayments around the world")
-
-*The use of micropayments is commonplace around the world now, with an [estimated $186 million per day](https://www.utpgroup.co.uk/how-microtransactions-impact-the-economics-of-gaming/#:~:text=The%20Business%20Research%20Company%20reported,initial%20purchase%20of%20the%20game.) spent on them in 2022. Image source: ChatGPT.*
 
 ## <div id="understanding">Understanding Micropayments</div>
 
@@ -121,9 +120,7 @@ In some ways, this might not be a good thing. Removing the need for verification
 
 For many, this peer-to-peer approach drastically reduces transaction costs and makes it economically feasible to send and receive small amounts of money across borders and back home to their families.
 
-![Blockchain's role in supply chain](/assets/bf3-micropayments-4.png "Blockchain's role in supply chain")
-
-*Image source: [Crypto Altruism](https://www.cryptoaltruism.org/blog/infographic-how-blockchain-can-improve-supply-chains)*
+![How blockchain can help the finance industry](/assets/bitfluence-micropayments-shareable.png "How blockchain can help the finance industry")
 
 ## <div id="challenges-issues">Micropayments Challenges & Issues</div>
 
@@ -153,11 +150,11 @@ The lack of regulations in the blockchain space also creates ambiguity for devel
 
 Clear regulations that lay out exactly what can and can’t be done with blockchain, as well as making micropayments viable with the technology, are still needed for it to gain wider acceptance and for its full potential to be realised. Whether this will happen is still unclear. Up until now however, officials have seemed [reluctant to create clear guidelines](https://www.forbes.com/sites/forbesfinancecouncil/2023/06/26/web3-is-becoming-more-popular-wheres-the-regulation/?sh=5c6f21aac358) for regulating Web3 technology.
 
-![Blockchain regulation](/assets/bf3-micropayments-5.png "Blockchain regulation")
-
-*Will regulators ever change their views on blockchain and micropayments or implement clearer regulations for blockchain protocols? Image source: ChatGPT.*
-
 ## <div id="future">The Future of Micropayments & Blockchain</div>
+
+![Blockchain regulation](/assets/bitfluence-micropayments-article-image.png "Blockchain regulation")
+
+*Will regulators ever change their views on blockchain and micropayments or implement clearer regulations for blockchain protocols?*
 
 The micropayments industry is growing fast and whether you like it or not, its use is only likely to grow.
 
