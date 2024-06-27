@@ -7,6 +7,7 @@ metaDescription: Overview of data traceability and its necessity, challenges,
   and the promising role of blockchain.
 canonical: https://hashspark.io/data-traceability/
 author: Michiel Mulders
+thumbnail: /assets/bv3-data-traceability-header.png
 ---
 - - -
 
@@ -51,7 +52,7 @@ The global compliance and traceability solutions market size was valued at [$2.8
 
 The space is growing, but why? Here are some core challenges you might face when achieving data traceability.
 
-![Challenges in Achieving Data Traceability](/assets/bv-data-traceability-challenges.jpg "Challenges in Achieving Data Traceability")
+![Challenges in Achieving Data Traceability](/assets/bv3-data-traceability-shareable.png "Challenges in Achieving Data Traceability")
 
 ### Integrations
 
@@ -87,7 +88,7 @@ So, how can you use smart contracts for data traceability?
 2. Self-Service Portals: Employees can request the data they need without going through a manual validation process.
 3. Smart contracts can integrate with Lightweight Directory Access Protocol (LDAP) or Active Directory (AD) to pull up employee profiles, provide automated data access, and log each request.
 
-![Data Control Policies](/assets/bv-data-control-policies.jpg "Data Control Policies")
+![Using Smart Contracts for Data Traceability](/assets/bv3-data-traceability-article-image.png "Using Smart Contracts for Data Traceability")
 
 However, you might wonder if smart contracts won’t be challenging for employees to use. When creating a self-service portal, you can simply hide the complexities of blockchain systems. Each employee receives a [keypair](https://www.gemini.com/cryptopedia/public-private-keys-cryptography) linked to their employee profile in the LDAP or AD.
 
