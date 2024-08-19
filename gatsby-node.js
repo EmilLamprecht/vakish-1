@@ -6,7 +6,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   createRedirect({
     fromPath: `/blockchain-for-financial-inclusion`,
     toPath: `https://mintblue.com/blockchain-for-financial-inclusion/`,
-   })
+    statusCode: 200,
+  });
 
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`);
   const staticPageTemplate = path.resolve(
