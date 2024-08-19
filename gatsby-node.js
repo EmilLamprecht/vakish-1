@@ -4,7 +4,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage, createRedirect } = actions;
 
   createRedirect({
-    fromPath: `/blockchain-for-financial-inclusion`,
+    fromPath: `/blockchain-for-financial-inclusion/`,
     toPath: `https://mintblue.com/blockchain-for-financial-inclusion/`,
     statusCode: 200,
   });
