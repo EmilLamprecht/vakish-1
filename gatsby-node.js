@@ -3,6 +3,11 @@ const path = require(`path`);
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage, createRedirect } = actions;
 
+  createRedirect({
+    fromPath: `/blockchain-for-financial-inclusion`,
+    toPath: `https://mintblue.com/blockchain-for-financial-inclusion/`,
+   })
+
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`);
   const staticPageTemplate = path.resolve(
     `src/templates/staticPageTemplate.js`
