@@ -14,3 +14,26 @@
   status = 301
   force = true
 
+[[redirects]]
+  from = "/blockchain-for-energy/"
+  to = "https://mintblue.com/blockchain-for-energy/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/csrd/"
+  to = "https://mintblue.com/csrd/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/data-interoperability/"
+  to = "https://mintblue.com/data-interoperability/"
+  status = 301
+  force = true
+  
+  [[redirects]]
+  from = "/esg-solutions/"
+  to = "https://mintblue.com/esg-solutions/"
+  status = 301
+  force = true
