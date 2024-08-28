@@ -25,12 +25,6 @@
   to = "https://mintblue.com/csrd/"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/data-interoperability/"
-  to = "https://mintblue.com/data-interoperability/"
-  status = 301
-  force = true
   
   [[redirects]]
   from = "/esg-solutions/"
