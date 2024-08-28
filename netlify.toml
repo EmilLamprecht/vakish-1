@@ -7,3 +7,9 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+[[redirects]]
+  from = "/data-interoperability/"
+  to = "https://mintblue.com/data-interoperability/"
+  status = 301
+  force = true
