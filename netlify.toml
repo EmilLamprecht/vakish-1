@@ -7,3 +7,15 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+[[redirects]]
+  from = "/blockchain-for-payments/"
+  to = "https://mintblue.com/blockchain-for-financial-inclusion/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blockchain-in-accounting/"
+  to = "https://mintblue.com/blockchain-in-accounting/"
+  status = 301
+  force = true
