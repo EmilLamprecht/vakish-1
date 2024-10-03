@@ -25,3 +25,9 @@
   to = "https://mintblue.com/pricing/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://mintblue.com/blog"
+  status = 301
+  force = true
