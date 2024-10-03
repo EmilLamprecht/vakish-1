@@ -19,3 +19,9 @@
   to = "https://mintblue.com/blockchain-in-accounting/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/micropyaments/"
+  to = "https://mintblue.com/pricing/"
+  status = 301
+  force = true
