@@ -13,3 +13,15 @@
   to = "https://mintblue.com/data-interoperability/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/data-ownership/"
+  to = "https://mintblue.com/data-ownership/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/data-sovereignty/"
+  to = "https://mintblue.com/data-sovereignty/"
+  status = 301
+  force = true
