@@ -7,3 +7,27 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+[[redirects]]
+  from = "/data-traceability/"
+  to = "https://hashspark.io/data-traceability/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/data-provenance/"
+  to = "https://hashspark.io/data-provenance/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/data-ownership/"
+  to = "https://hashspark.io/data-ownership/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://hashspark.io/"
+  status = 301
+  force = true
