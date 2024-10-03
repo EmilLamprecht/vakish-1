@@ -25,3 +25,22 @@
   to = "https://mintblue.com/data-sovereignty/"
   status = 301
   force = true
+
+
+  [[redirects]]
+    from = "/data-governance-principles/"
+    to = "https://mintblue.com/data-governance/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/data-governance-act/"
+    to = "https://mintblue.com/data-governance/"
+    status = 301
+    force = true
+
+  [[redirects]]
+    from = "/digital-identity-solutions/"
+    to = "https://mintblue.com/blockchain-identity-authentication/"
+    status = 301
+    force = true
