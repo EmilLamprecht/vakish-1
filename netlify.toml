@@ -37,3 +37,23 @@
   to = "https://mintblue.com/food-provenance/"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/blockchain-for-social-good/"
+  to = "https://mintblue.com/blockchain-for-good/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/blockchain-for-charities/"
+  to = "https://mintblue.com/blockchain-for-ngos/"
+  status = 301
+  force = true
+
+  [[redirects]]
+  from = "/data-ownership/"
+  to = "https://mintblue.com/data-ownership/"
+  status = 301
+  force = true
+
+  
