@@ -31,3 +31,9 @@
   to = "https://mintblue.com/esg-solutions/"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/food-provenance/"
+  to = "https://mintblue.com/food-provenance/"
+  status = 301
+  force = true
