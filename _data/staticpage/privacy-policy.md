@@ -6,6 +6,7 @@ title: Privacy Policy
 metaDescription: This is the privacy policy for Bitfluence.org, a blog focused
   on the impact of new and advancing technologies on the financial sector.
 author:
+canonical: https://bitfluence.org/privacy-policy/
 ---
 
 **Last Updated: March 1, 2024**
