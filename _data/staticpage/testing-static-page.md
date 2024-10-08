@@ -5,7 +5,10 @@ date: 2023-07-21T10:30:24.644Z
 title: About
 metaDescription: All about Bitfluence & author Harry Harrison
 thumbnail: /assets/bitfluence-payments0.png
+author: Emil
+canonical: https://bitfluence.org/about/
 ---
+
 ![Harry Harrison](/assets/harry_harrison.jpg "Harry Harrison")
 
 ## About me: Harry Harrison
@@ -16,11 +19,11 @@ I came to blockchain via crypto but have since been quite interested in explorin
 
 I hope professionals across the broader field of finance will gain some new, practical knowledge from my articles!
 
-*If you like what I’m writing or have questions, leave a comment! I’d love to answer your questions!*
+_If you like what I’m writing or have questions, leave a comment! I’d love to answer your questions!_
 
 ## Who funds this blog?
 
-In the spirit of transparency, this blog is financed through collaborations with companies such as mintBlue, which are of course interested in the technologies and innovations we discuss. 
+In the spirit of transparency, this blog is financed through collaborations with companies such as mintBlue, which are of course interested in the technologies and innovations we discuss.
 
 However, rest assured that I only produce and share content that I believe truthfully and accurately reflects the reality of these subjects. My financial interest is limited to the upfront sponsorship for writing these pieces.
 
