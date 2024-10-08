@@ -5,7 +5,9 @@ date: 2024-03-01T10:56:11.533Z
 title: Privacy Policy
 metaDescription: This is the privacy policy for Bitfluence.org, a blog focused
   on the impact of new and advancing technologies on the financial sector.
+author:
 ---
+
 **Last Updated: March 1, 2024**
 
 ## Introduction
@@ -20,17 +22,17 @@ The data controller for **bitfluence.org** is **Growth Mechanics Ltd.** You can 
 
 We collect the following information:
 
-* Contact Information: Your email address when you subscribe to our newsletter.
-* Usage Data: Information about how you access and use our website, collected through Fathom Analytics.
-* Comments: Data you provide in the comments section of our articles, managed through Fast Comments.
+- Contact Information: Your email address when you subscribe to our newsletter.
+- Usage Data: Information about how you access and use our website, collected through Fathom Analytics.
+- Comments: Data you provide in the comments section of our articles, managed through Fast Comments.
 
 ## Purpose and Legal Basis for Processing
 
 We use your information to:
 
-* Improve your browsing experience on **bitfluence.org**.
-* Send newsletters and updates (with your consent).
-* Enhance website functionality and content.
+- Improve your browsing experience on **bitfluence.org**.
+- Send newsletters and updates (with your consent).
+- Enhance website functionality and content.
 
 The legal basis for processing your information is your consent for newsletters and our legitimate interest in improving our website based on usage data and comments.
 
@@ -38,10 +40,10 @@ The legal basis for processing your information is your consent for newsletters 
 
 We use the following third-party services:
 
-* **Netlify**: For website hosting.
-* **Fathom Analytics**: To analyze website traffic and usage.
-* **Sender**: To manage and send newsletters.
-* **Fast Comments**: For our article commenting system.
+- **Netlify**: For website hosting.
+- **Fathom Analytics**: To analyze website traffic and usage.
+- **Sender**: To manage and send newsletters.
+- **Fast Comments**: For our article commenting system.
 
 These services have access to your information only to perform their specific tasks on our behalf and are obligated to protect your data.
 
@@ -53,11 +55,11 @@ Your information may be stored on servers located outside your jurisdiction. We 
 
 You have the right to:
 
-* Access and rectify your personal information.
-* Erase your personal information.
-* Restrict the processing of your personal information.
-* Withdraw your consent at any time.
-* Lodge a complaint with a supervisory authority.
+- Access and rectify your personal information.
+- Erase your personal information.
+- Restrict the processing of your personal information.
+- Withdraw your consent at any time.
+- Lodge a complaint with a supervisory authority.
 
 ## Cookies and Tracking Technologies
 
