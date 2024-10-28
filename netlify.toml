@@ -44,3 +44,9 @@
     to = "https://mintblue.com/blockchain-identity-authentication/"
     status = 301
     force = true
+
+  [[redirects]]
+    from = "/"
+    to = "https://mintblue.com/blog"
+    status = 301
+    force = true
