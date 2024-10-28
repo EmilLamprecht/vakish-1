@@ -62,3 +62,8 @@
     status = 301
     force = true
 
+[[redirects]]
+  from = "/contact/"
+  to = "https://mintblue.com/contact/"
+  status = 301
+  force = true
