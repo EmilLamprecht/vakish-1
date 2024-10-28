@@ -31,3 +31,9 @@
   to = "https://hashspark.io"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/contact/"
+  to = "https://hashspark.io/contact/"
+  status = 301
+  force = true
