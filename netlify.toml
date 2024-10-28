@@ -28,6 +28,6 @@
 
 [[redirects]]
   from = "/"
-  to = "https://hashspark.io/"
+  to = "https://hashspark.io"
   status = 301
   force = true
